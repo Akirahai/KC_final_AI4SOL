@@ -134,6 +134,9 @@ if __name__== "__main__":
     lr_scheduler_type="linear",
     logging_strategy="epoch",
     evaluation_strategy="epoch",
+    log_level='error',
+    save_strategy="epoch",        # Save checkpoints at each epoch
+    load_best_model_at_end=True,  # Load the best model found during training
     log_level='error'
     )
     
@@ -147,6 +150,7 @@ if __name__== "__main__":
         tokenizer=tokenizer,
         data_collator=data_collator,
         compute_metrics=compute_metrics,
+        callbacks=[EarlyStoppingCallback(early_stopping_patience=3)],
     )
     
     if args.phase == 'train':

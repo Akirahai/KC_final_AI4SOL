@@ -14,6 +14,8 @@ from datasets import DatasetDict
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, GenerationConfig, TrainingArguments, Trainer, AutoModelForSequenceClassification
 from transformers import DataCollatorWithPadding
 from transformers import TrainerCallback
+from transformers import EarlyStoppingCallback
+
 
 
 import evaluate
