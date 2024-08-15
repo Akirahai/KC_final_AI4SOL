@@ -15,7 +15,7 @@ def parse_args():
     parser.add_argument('--epochs', type=int, default=50, help='Training epochs')
     parser.add_argument('--resume', default=False, action='store_true', help='Resume')
     parser.add_argument('--use-gpu', action='store_true', help='Use GPU')
-    parser.add_argument('--path', type=str, default= f"./result_second_ver") #Fix to your path to save model
+    parser.add_argument('--path', type=str, default= f"./result") #Fix to your path to save model
     parser.add_argument('--gpus', type=int, nargs='+', default=[0, 1, 2, 3], help='List of gpus to use')
     parser.add_argument('--gradient-accumulation-steps', type=int, default=1, help='Gradient accumulation steps')
     parser.add_argument('--eval', type=str, default='test', help='Evaluation on test or eval set')
