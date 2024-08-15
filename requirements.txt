@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+torch
+transformers
+datasets
+seaborn
+evaluate
+tqdm
+tabulate
+argparse
+pyperclip

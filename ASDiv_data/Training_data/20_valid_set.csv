@@ -1,0 +1,187 @@
+Question_ID,Question,KC,label
+2166,"Question: For Halloween Faye scored 47 pieces of candy. She ate 25 pieces the first night and then her sister gave her 40 more pieces. How many pieces of candy does Faye have now?
+Solution: 62 (pieces of candy)
+Steps: 47-25+40=62",2.OA.A.1,5
+306,"Question: Simon, Mark, Kevin, and Carl love collecting stamps. They meet up every month to compare and share their collections with each other. During the previous month, Kevin was able to collect 45 stamps while Simon was only able to collect 27. How many more stamps does Kevin have more than Simon?
+Solution: 18 (stamps)
+Steps: 45-27=18",2.OA.A.1,5
+115,"Question: Marcus has 210 baseball cards. He has 58 more than Carter. How many baseball cards does Carter have?
+Solution: 152 (baseball cards)
+Steps: 210-58=152",2.NBT.B.7,4
+2154,"Question: Robin drank seven bottles of water in the morning and seven in the afternoon. How many bottles did Robin drink total?
+Solution: 14 (bottles)
+Steps: 7+7=14",1.OA.A.1,0
+1392,"Question: Oceanside Bike Rental Shop charges a 17 dollar fixed fee plus 7 dollars an hour for renting a bike. Mary paid 80 dollars to rent a bike. How many hours did she pay to have the bike checked out ?
+Solution: 9 (hours)
+Steps: x:Dollars for renting an hour; 17+7x=80",6.EE.B.6,21
+722,"Question: Lenny has $84. He spent $24 on video games, and $21 at the grocery store. How much does Lenny have left?
+Solution: 39 (dollars)
+Steps: 84-24-21=39",2.OA.A.1,5
+2003,"Question: Paige had 43 math problems and 12 science problems for homework. If she finished 44 of the problems at school, how many problems did she have to do for homework?
+Solution: 11 (problems)
+Steps: (43+12)-44=11",2.OA.A.1,5
+237,"Question: Mr. Fortree, a businessman also gave seedlings for the tree planting activity. If he gave 14 seedlings of cedar and 38 seedlings of pine, how many seedlings did he give in total?
+Solution: 52 (seedlings)
+Steps: 14+38=52",2.OA.A.1,5
+680,"Question: Mrs. Hilt saw an iPod for sale. The price tag said the iPod cost $128, but a sign announced that it was on sale for ""35% off."" How much would the iPod cost after the discount?
+Solution: 83.2 (dollars)
+Steps: 128-(128*0.35)=83.2",4.MD.A.2,13
+1501,"Question: A rectangle has an area of 360 square centimeters. It is 20 centimeters long. What is its perimeter?
+Solution: 76 (centimeters)
+Steps: (360/20)*2+20*2=76",5.NBT.B.6,20
+2243,"Question: A new building needed 14 windows. The builder had already installed 5 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?
+Solution: 36 (hours)
+Steps: (14-5)*4=36",2.OA.A.1,5
+2243,"Question: A new building needed 14 windows. The builder had already installed 5 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?
+Solution: 36 (hours)
+Steps: (14-5)*4=36",6.RP.A.1,24
+2240,"Question: The cafeteria had fifty-one apples. For lunch they handed out forty-one to students and decided to use the rest to make pies. If each pie takes five apples, how many pies could they make?
+Solution: 2 (pies)
+Steps: (51-41)/5=2",3.OA.D.8,11
+2130,"Question: Maria had fifty sheets of paper in her desk and forty-one more in her backpack. How many did she have total?
+Solution: 91 (sheets of paper)
+Steps: 50+41=91",2.OA.A.1,5
+571,"Question: It takes 7 minutes to bake one pan of cookies. How long will it take to bake 4 pans of cookies?
+Solution: 28 (minutes)
+Steps: 7*4=28",3.OA.A.3,10
+10,"Question: Marin has nine apples and Donald has two apples. How many apples do Marin and Donald have together?
+Solution: 11 (apples)
+Steps: 9+2=11",1.OA.A.1,0
+2090,"Question: Two bicycle enthusiasts are leaving Cincinnati at the same time. One is biking 840 miles to Boston. The other is biking 440 miles to Atlanta. What is the greatest number of miles a day each can bike if they want to cover equal distances each day?
+Solution: 40 (miles)
+Steps: GCD(840,440)=40",6.NS.B.4,23
+298,"Question: Her friends are coming over the next day so she also bought some refreshments. If she has $50.00 left from the money she had after buying cookies, and she has $69.00 before, how much did she spend on juice?
+Solution: 19 (dollars)
+Steps: 69-50=19",2.OA.A.1,5
+162,"Question: I have 28 cents in my pocket. How coins could I have on minimization?
+Solution: 4 (coins)
+Steps: 28/25=1 r3; 3/1=3; 1+3=4",4.NBT.B.6,17
+162,"Question: I have 28 cents in my pocket. How coins could I have on minimization?
+Solution: 4 (coins)
+Steps: 28/25=1 r3; 3/1=3; 1+3=4",3.OA.A.3,10
+162,"Question: I have 28 cents in my pocket. How coins could I have on minimization?
+Solution: 4 (coins)
+Steps: 28/25=1 r3; 3/1=3; 1+3=4",K.OA.A.2,28
+325,"Question: At the edge of the forest, an anthill is blocking the way out. In order to pass through, he needs to help the ants gather food. If the ants need 911 grains of food and they already have 762, how many more grains are needed to be gathered?
+Solution: 149 (grains)
+Steps: 911-762=149",2.NBT.B.7,4
+153,"Question: Mrs. Hilt has 50 cents. A pencil costs 5 cents. How many pencils can she buy with the money she has?
+Solution: 10 (pencils)
+Steps: 50/5=10",3.OA.A.3,10
+734,"Question: Teacher buys 4 black pens and 4 blue pens for students as awards. How many pens does the teacher buy altogether?
+Solution: 8 (pens)
+Steps: 4+4=8",K.OA.A.2,28
+33,"Question: Mrs. Hilt's favorite first grade classes are baking muffins. Mrs. Brier's class bakes 18 muffins, Mrs. MacAdams's class bakes 20 muffins, and Mrs. Flannery's class bakes 17 muffins. How many muffins does first grade bake in all?
+Solution: 55 (muffins)
+Steps: 18+20+17=55",2.OA.A.1,5
+1227,"Question: Packages of cheddar cheese come with 12 slices, while packages of Swiss cheese come with 28 slices. If Randy bought the same number of slices of each type of cheese, what is the smallest number of slices of each type that Randy could have bought?
+Solution: 84 (slices)
+Steps: LCM[12,28]=84",6.NS.B.4,23
+2169,"Question: Adam had 5 dollars. At the store he spent $2 on a new game. If he got another 5 dollars for his allowance, how much money does he have now?
+Solution: 8 (dollars)
+Steps: 5-2+5=8",K.OA.A.2,28
+1883,"Question: Kaleb has seventeen shirts. If he got rid of seven of them, how many shirts would Kaleb have?
+Solution: 10 (shirts)
+Steps: 17-7=10",1.OA.A.1,0
+1874,"Question: A furniture store had fifteen chairs. After selling some, there was three left. How many chairs did they sell?
+Solution: 12 (chairs)
+Steps: 15-3=12",1.OA.A.1,0
+1843,"Question: Sarah could send ten text messages a day. If she sent eight, how many text messages does she have left she can send?
+Solution: 2 (text messages)
+Steps: 10-8=2",K.OA.A.2,28
+1564,"Question: A food company has seven hundred seventy-seven kilograms of food to put into boxes. If each box gets exactly two kilograms, how many full boxes will they have?
+Solution: 388 (boxes)
+Steps: 777/2=388 r1",4.NBT.B.6,17
+1857,"Question: Megan had seventeen bottles of water. If she drank three of them, how many bottles would Megan have left?
+Solution: 14 (bottles)
+Steps: 17-3=14",1.OA.A.1,0
+1715,"Question: At the produce store you can buy 2 bags of bananas for $12.46. How much would it cost if you were to buy 6 bags?
+Solution: 37.38 (dollars)
+Steps: (12.46/2)*6=37.38",4.MD.A.2,13
+2096,"Question: It takes 4 ounces of cheese to make a burrito and 9 ounces for a taco. If you wanted 7 burritos and 1 taco, how many ounces of cheese would you need?
+Solution: 37 (ounces of cheese)
+Steps: (7*4)+(1*9)=37",4.OA.A.3,18
+2277,"Question: Atomic fireballs come in packages of 9. Barbara ate 59 Atomic Fireballs. How many Atomic Fireballs does she have left?
+Solution: 5 (Atomic Fireballs)
+Steps: 59/9=6 r5",4.NBT.B.6,17
+445,"Question: There are 3 more sections that are undeveloped. Each of the remaining sections has a land area of 2435 square feet. What is the total area of the undeveloped land?
+Solution: 7305 (square feet)
+Steps: 3*2435=7305",4.NBT.B.5,16
+2173,"Question: Bianca had 45 coloring books. If she gave away 6 of them, but then bought 20 more, how many would she have total?
+Solution: 59 (coloring books)
+Steps: 45-6+20=59",2.OA.A.1,5
+175,"Question: It is 2:00. What time will it be in three hours and forty-five minutes?
+Solution: 0.239583333
+Steps: (2 (hour)*60 (min/hour) + 3 (hour)*60 (min/hour) + 45 (min))/60 (min/hour) =5 r45; hh:mm=5:45",4.MD.A.2,13
+813,"Question: There was 1,050 ml of tea in a pot. Anna poured the tea into some cups. If there were 65 ml of tea in each cup, how much tea was left in the pot?
+Solution: 10 (ml)
+Steps: 1050/65=16 r10",5.NBT.B.6,20
+970,"Question: Rita is buying flower bulbs for her garden. She wants to buy the same number of tulips and daffodils. If tulip bulbs come in packs of 15 and daffodil bulbs come in packs of 16, what is the least number of each type of bulb Rita will need to buy?
+Solution: 240 (bulbs)
+Steps: LCM[15,16]=240",6.NS.B.4,23
+735,"Question: A chess club has 3 members. If 4 new members are enrolled, how many total members are there in the chess club?
+Solution: 7 (members)
+Steps: 3+4=7",K.OA.A.2,28
+1953,"Question: Jerry was weighing boxes for moving. The first was 2 pounds, the second was 11 pounds and the last was 5 pounds. What is the combined weight of all three boxes?
+Solution: 18 (pounds)
+Steps: 2+11+5=18",1.OA.A.2,1
+265,"Question: The last place that he went to was the city animal shelter. There he donated some money to make sure the dogs and cats there are being taken care of. If there are 645 cats and 567 dogs there, how many animals are there in the shelter?
+Solution: 1212 (animals)
+Steps: 645+567=1212",4.NBT.B.4,15
+2227,"Question: Nancy had forty-three files on her computer. She deleted thirty-one of them and put the rest into folders with six files in each one. How many folders did Nancy end up with?
+Solution: 2 (folders)
+Steps: (43-31)/6=2",3.OA.D.8,11
+1203,"Question: Allie has 5 math books and 10 science books. If she wants to distribute them evenly among some bookshelves so that each bookshelf has the same combination of math and science books, with no books left over, what is the greatest number of bookshelves Allie can use?
+Solution: 5 (bookshelves)
+Steps: GCD(5,10)=5",6.NS.B.4,23
+1695,"Question: A book store was selling 2 books for $15.86. Online the you could buy 7 books for $55.93. Which place has a lower unit price?
+Solution: Book store
+Steps: 15.86/2=7.93(Book store) < 55.93/7=7.99(Online)",4.MD.A.2,13
+90,"Question: Cade had 87 marbles. He gave 8 to Dylan. How many does he have left?
+Solution: 79 (marbles)
+Steps: 87-8=79",2.OA.A.1,5
+900,"Question: Tina had a large collection of beanie babies. She gave 8 beanie babies to her cousin. She gave half that amount to her sister. She gave 36 beanie babies to needy children. She kept 12 for herself. How many beanie babies were in Tina's collection at first?
+Solution: 60 (beanie babies)
+Steps: 8/2=4; 8+4+36+12=60",3.OA.A.3,10
+900,"Question: Tina had a large collection of beanie babies. She gave 8 beanie babies to her cousin. She gave half that amount to her sister. She gave 36 beanie babies to needy children. She kept 12 for herself. How many beanie babies were in Tina's collection at first?
+Solution: 60 (beanie babies)
+Steps: 8/2=4; 8+4+36+12=60",2.NBT.B.5,2
+114,"Question: Mikey had 356 leaves. Some of her leaves blew away. Now she has 112 leaves left. How many of her leaves blew away?
+Solution: 244 (leaves)
+Steps: 356-112=244",2.NBT.B.7,4
+2155,"Question: Roger went to the movies fifteen times last year and three times this year. How many times did Roger go to the movies all together?
+Solution: 18 (times)
+Steps: 15+3=18",1.OA.A.1,0
+1825,"Question: An architect was building a hotel downtown. He built it 3 stories tall with 8 rooms on each story. How many rooms does the hotel have totaled?
+Solution: 24 (rooms)
+Steps: 3*8=24",3.OA.A.3,10
+1674,"Question: A parking lot has 117 spaces total. If 36 of the spaces have cars in them, what is the ratio of empty spaces to filled spaces?
+Solution: 09:04:00
+Steps: 117-36=81; 81:36=9:4",2.NBT.B.7,4
+1674,"Question: A parking lot has 117 spaces total. If 36 of the spaces have cars in them, what is the ratio of empty spaces to filled spaces?
+Solution: 09:04:00
+Steps: 117-36=81; 81:36=9:4",6.RP.A.1,24
+2045,"Question: There are 72 boys and 90 girls on the math team. For the next math competition, Mr. Johnson would like to arrange all of the students in equal rows with only girls or only boys in each row. What is the greatest number of students that can be in each row?
+Solution: 18 (students)
+Steps: GCD(72,90)=18",6.NS.B.4,23
+283,"Question: The wolves, though accustomed to cold weather, also wanted to move away from the incoming winter. If there are 43 packs of wolves living in the forest and 31 packs went away, how many wolf packs were left in the forest?
+Solution: 12 (wolf packs)
+Steps: 43-31=12",2.OA.A.1,5
+1466,"Question: A certain number added twice to itself equals 96. What is the number?
+Solution: 32
+Steps: x:The certain number; x+2x=96",6.EE.B.6,21
+553,"Question: I see 23 boys. How many eyes do I see?
+Solution: 46 (eyes)
+Steps: 23*2=46",3.OA.A.3,10
+2133,"Question: Debby received twenty-one text messages before noon and another eighteen after noon. How many text messages did Debby receive total?
+Solution: 39 (text messages)
+Steps: 21+18=39",2.OA.A.1,5
+1055,"Question: Last year, Jared used 8 bottles of shampoo and 10 bottles of conditioner. His sister, Cora, used 4 bottles of shampoo and 5 bottles of conditioner. Who used a higher ratio of shampoo to conditioner last year?
+Solution: They are equal
+Steps: 8/10=0.8(Jared) equals 4/5=0.8(Cora)",6.RP.A.3,25
+1599,"Question: An ice machine had 294 ice cubes in it. If you were filling up 7 ice chests and each chest got the same number of cubes, how many ice cubes would each chest get?
+Solution: 42 (ice cubes)
+Steps: 294/7=42",4.NBT.B.6,17
+277,"Question: After agreeing that the school menu needs to be changed, they had a vote for food suggestions. If 337 voted to add more veggies to the menu and 335 voted to add more meat, how many students voted?
+Solution: 672 (students)
+Steps: 337+335=672",2.NBT.B.7,4
