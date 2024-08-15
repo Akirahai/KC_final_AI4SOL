@@ -1,7 +1,13 @@
 #!/bin/bash
 
 # Define the models and seeds
-models=("bert-base-cased" "roberta-base" "flan-t5-base" "roberta-large" "bert-large-uncased")
+models=(
+  "google-bert/bert-base-cased"
+  "FacebookAI/roberta-base"
+  "google/flan-t5-base"
+  "FacebookAI/roberta-large"
+  "google-bert/bert-large-uncased"
+)
 seeds=(5 10 15 20 42)
 
 # Loop through each model and seed
