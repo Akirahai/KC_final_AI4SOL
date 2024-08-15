@@ -136,8 +136,7 @@ if __name__== "__main__":
     evaluation_strategy="epoch",
     log_level='error',
     save_strategy="epoch",        # Save checkpoints at each epoch
-    load_best_model_at_end=True,  # Load the best model found during training
-    log_level='error'
+    load_best_model_at_end=True  # Load the best model found during training
     )
     
     model.to(device)
