@@ -1,199 +1,199 @@
-Question_ID,Question,KC,label,top_1_preds,top_2_preds,top_3_preds,Top_1_labels,Top_2_labels,Top_3_labels
+Question_ID,Question,KC,label,top_1_preds,top_2_preds,top_3_preds,top_4_preds,top_5_preds,Top_1_labels,Top_2_labels,Top_3_labels,Top_4_labels,Top_5_labels
 1145,"Question: Collin baked 9 brownies with nuts on top and 34 brownies without nuts. What is the ratio of the number of brownies with nuts on top to the total number of brownies?
 Solution: 0.4048611111111111
-Steps: 9+34=43; 9:43",6.RP.A.1,24,[0],[20  0],[25 20  0], 1.OA.A.1," 5.NBT.B.6, 1.OA.A.1"," 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"
+Steps: 9+34=43; 9:43",6.RP.A.1,24,[0],[20  0],[25 20  0],[24 25 20  0],[ 4 24 25 20  0], 1.OA.A.1," 5.NBT.B.6, 1.OA.A.1"," 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"," 6.RP.A.1, 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"," 2.NBT.B.7, 6.RP.A.1, 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"
 1900,"Question: When Amy got to the fair she had $15. When she left she had $11. How much money did she spend at the fair?
 Solution: 4 (dollars)
-Steps: 15-11=4",1.OA.A.1,0,[5],[28  5],[ 0 28  5], 2.OA.A.1," K.OA.A.2, 2.OA.A.1"," 1.OA.A.1, K.OA.A.2, 2.OA.A.1"
+Steps: 15-11=4",1.OA.A.1,0,[5],[28  5],[ 0 28  5],[ 1  0 28  5],[ 2  1  0 28  5], 2.OA.A.1," K.OA.A.2, 2.OA.A.1"," 1.OA.A.1, K.OA.A.2, 2.OA.A.1"," 1.OA.A.2, 1.OA.A.1, K.OA.A.2, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.2, 1.OA.A.1, K.OA.A.2, 2.OA.A.1"
 2144,"Question: Haley watched TV for six hours on Saturday and three hours on Sunday. How many hours did Haley watch TV total?
 Solution: 9 (hours)
-Steps: 6+3=9",K.OA.A.2,28,[28],[ 0 28],[ 1  0 28], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 1.OA.A.2, 1.OA.A.1, K.OA.A.2"
+Steps: 6+3=9",K.OA.A.2,28,[28],[ 0 28],[ 1  0 28],[10  1  0 28],[11 10  1  0 28], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 1.OA.A.2, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 1.OA.A.2, 1.OA.A.1, K.OA.A.2"," 3.OA.D.8, 3.OA.A.3, 1.OA.A.2, 1.OA.A.1, K.OA.A.2"
 1104,"Question: Cora sliced 18 kg of green apples for a party. She divided the apple slices equally between 5 large bowls. How many grams of apple slices did Cora put in each bowl?
 Solution: 3600 (grams of apple)
-Steps: (18 (kg) *1000 (g/kg))/5 = 3600 (g)",4.MD.A.2,13,[13],[17 13],[20 17 13], 4.MD.A.2," 4.NBT.B.6, 4.MD.A.2"," 5.NBT.B.6, 4.NBT.B.6, 4.MD.A.2"
+Steps: (18 (kg) *1000 (g/kg))/5 = 3600 (g)",4.MD.A.2,13,[13],[17 13],[20 17 13],[16 20 17 13],[25 16 20 17 13], 4.MD.A.2," 4.NBT.B.6, 4.MD.A.2"," 5.NBT.B.6, 4.NBT.B.6, 4.MD.A.2"," 4.NBT.B.5, 5.NBT.B.6, 4.NBT.B.6, 4.MD.A.2"," 6.RP.A.3, 4.NBT.B.5, 5.NBT.B.6, 4.NBT.B.6, 4.MD.A.2"
 1880,"Question: Sally memorized eight poems. After some time she could only recite three of them. How many poems did she forget?
 Solution: 5 (poems)
-Steps: 8-3=5",K.OA.A.2,28,[28],[ 0 28],[10  0 28], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 1.OA.A.1, K.OA.A.2"
+Steps: 8-3=5",K.OA.A.2,28,[28],[ 0 28],[10  0 28],[ 1 10  0 28],[ 5  1 10  0 28], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 1.OA.A.1, K.OA.A.2"," 1.OA.A.2, 3.OA.A.3, 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.2, 3.OA.A.3, 1.OA.A.1, K.OA.A.2"
 1708,"Question: A fast food restaurant had 3 boxes of chicken nuggets for $19.53. A competing restaurant had 2 boxes of chicken fingers for $13.12. Which food has a higher unit price?
 Solution: Chicken finger
-Steps: 19.53/3=6.51(Chicken nugget) < 13.12/2=6.56(Chicken finger)",4.MD.A.2,13,[13],[25 13],[17 25 13], 4.MD.A.2," 6.RP.A.3, 4.MD.A.2"," 4.NBT.B.6, 6.RP.A.3, 4.MD.A.2"
+Steps: 19.53/3=6.51(Chicken nugget) < 13.12/2=6.56(Chicken finger)",4.MD.A.2,13,[13],[25 13],[17 25 13],[20 17 25 13],[12 20 17 25 13], 4.MD.A.2," 6.RP.A.3, 4.MD.A.2"," 4.NBT.B.6, 6.RP.A.3, 4.MD.A.2"," 5.NBT.B.6, 4.NBT.B.6, 6.RP.A.3, 4.MD.A.2"," 3.OA.D.9, 5.NBT.B.6, 4.NBT.B.6, 6.RP.A.3, 4.MD.A.2"
 572,"Question: My car gets 20 miles per gallon of gas. If Grandma's house is 100 miles away, how many gallons of gas would it take to get to her house?
 Solution: 5 (gallons of gas)
-Steps: 100/20=5",3.OA.A.3,10,[10],[17 10],[11 17 10], 3.OA.A.3," 4.NBT.B.6, 3.OA.A.3"," 3.OA.D.8, 4.NBT.B.6, 3.OA.A.3"
+Steps: 100/20=5",3.OA.A.3,10,[10],[17 10],[11 17 10],[20 11 17 10],[ 8 20 11 17 10], 3.OA.A.3," 4.NBT.B.6, 3.OA.A.3"," 3.OA.D.8, 4.NBT.B.6, 3.OA.A.3"," 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6, 3.OA.A.3"," 3.NBT.A.3, 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6, 3.OA.A.3"
 278,"Question: Since the result of the vote was close, it was decided that they will balance the menu with both meat and vegetables. This decision was agreed upon by 154 third grade students and 237 fourth grade students. How many students agreed with the decision?
 Solution: 391 (students)
-Steps: 154+237=391",2.NBT.B.7,4,[4],[24  4],[13 24  4], 2.NBT.B.7," 6.RP.A.1, 2.NBT.B.7"," 4.MD.A.2, 6.RP.A.1, 2.NBT.B.7"
+Steps: 154+237=391",2.NBT.B.7,4,[4],[24  4],[13 24  4],[16 13 24  4],[15 16 13 24  4], 2.NBT.B.7," 6.RP.A.1, 2.NBT.B.7"," 4.MD.A.2, 6.RP.A.1, 2.NBT.B.7"," 4.NBT.B.5, 4.MD.A.2, 6.RP.A.1, 2.NBT.B.7"," 4.NBT.B.4, 4.NBT.B.5, 4.MD.A.2, 6.RP.A.1, 2.NBT.B.7"
 1392,"Question: Oceanside Bike Rental Shop charges a 17 dollar fixed fee plus 7 dollars an hour for renting a bike. Mary paid 80 dollars to rent a bike. How many hours did she pay to have the bike checked out ?
 Solution: 9 (hours)
-Steps: x:Dollars for renting an hour; 17+7x=80",6.EE.B.6,21,[21],[10 21],[20 10 21], 6.EE.B.6," 3.OA.A.3, 6.EE.B.6"," 5.NBT.B.6, 3.OA.A.3, 6.EE.B.6"
+Steps: x:Dollars for renting an hour; 17+7x=80",6.EE.B.6,21,[21],[10 21],[20 10 21],[ 8 20 10 21],[ 0  8 20 10 21], 6.EE.B.6," 3.OA.A.3, 6.EE.B.6"," 5.NBT.B.6, 3.OA.A.3, 6.EE.B.6"," 3.NBT.A.3, 5.NBT.B.6, 3.OA.A.3, 6.EE.B.6"," 1.OA.A.1, 3.NBT.A.3, 5.NBT.B.6, 3.OA.A.3, 6.EE.B.6"
 817,"Question: Mrs. Dalloway made 85 tarts. If she wants to fill 10 boxes with the same number of tarts, how many more tarts should she make?
 Solution: 5 (tarts)
-Steps: 85/10=8 r5; 10-5=5",4.NBT.B.6,17,[28],[17 28],[10 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"
+Steps: 85/10=8 r5; 10-5=5",4.NBT.B.6,17,[28],[17 28],[10 17 28],[20 10 17 28],[ 0 20 10 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"," 5.NBT.B.6, 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"," 1.OA.A.1, 5.NBT.B.6, 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"
 1419,"Question: Five years ago, Nancy was thrice as old as Sam. Ten years later, Nancy will be twice as old as Sam. How old are Nancy and Sam?
 Solution: 50 (years old); 20 (years old)
-Steps: x:Sam's present age; y:Nancy's present age; y-5=3(x-5); y+10=2(x+10)",3.MD.D.8,6,[27],[21 27],[25 21 27], 8.EE.C.8," 6.EE.B.6, 8.EE.C.8"," 6.RP.A.3, 6.EE.B.6, 8.EE.C.8"
+Steps: x:Sam's present age; y:Nancy's present age; y-5=3(x-5); y+10=2(x+10)",3.MD.D.8,6,[27],[21 27],[25 21 27],[26 25 21 27],[20 26 25 21 27], 8.EE.C.8," 6.EE.B.6, 8.EE.C.8"," 6.RP.A.3, 6.EE.B.6, 8.EE.C.8"," 6.SP.B.5, 6.RP.A.3, 6.EE.B.6, 8.EE.C.8"," 5.NBT.B.6, 6.SP.B.5, 6.RP.A.3, 6.EE.B.6, 8.EE.C.8"
 1419,"Question: Five years ago, Nancy was thrice as old as Sam. Ten years later, Nancy will be twice as old as Sam. How old are Nancy and Sam?
 Solution: 50 (years old); 20 (years old)
-Steps: x:Sam's present age; y:Nancy's present age; y-5=3(x-5); y+10=2(x+10)",5.NBT.B.6,20,[27],[21 27],[25 21 27], 8.EE.C.8," 6.EE.B.6, 8.EE.C.8"," 6.RP.A.3, 6.EE.B.6, 8.EE.C.8"
+Steps: x:Sam's present age; y:Nancy's present age; y-5=3(x-5); y+10=2(x+10)",5.NBT.B.6,20,[27],[21 27],[25 21 27],[26 25 21 27],[20 26 25 21 27], 8.EE.C.8," 6.EE.B.6, 8.EE.C.8"," 6.RP.A.3, 6.EE.B.6, 8.EE.C.8"," 6.SP.B.5, 6.RP.A.3, 6.EE.B.6, 8.EE.C.8"," 5.NBT.B.6, 6.SP.B.5, 6.RP.A.3, 6.EE.B.6, 8.EE.C.8"
 489,"Question: Jane's dad brought home 24 marble potatoes. If Jane's mom made potato salad for lunch and served an equal amount of potatoes to Jane, herself and her husband, how many potatoes did each of them have?
 Solution: 8 (potatoes)
-Steps: 24/3=8",6.EE.B.6,21,[10],[11 10],[28 11 10], 3.OA.A.3," 3.OA.D.8, 3.OA.A.3"," K.OA.A.2, 3.OA.D.8, 3.OA.A.3"
+Steps: 24/3=8",6.EE.B.6,21,[10],[11 10],[28 11 10],[ 0 28 11 10],[17  0 28 11 10], 3.OA.A.3," 3.OA.D.8, 3.OA.A.3"," K.OA.A.2, 3.OA.D.8, 3.OA.A.3"," 1.OA.A.1, K.OA.A.2, 3.OA.D.8, 3.OA.A.3"," 4.NBT.B.6, 1.OA.A.1, K.OA.A.2, 3.OA.D.8, 3.OA.A.3"
 2130,"Question: Maria had fifty sheets of paper in her desk and forty-one more in her backpack. How many did she have total?
 Solution: 91 (sheets of paper)
-Steps: 50+41=91",2.OA.A.1,5,[5],[2 5],[4 2 5], 2.OA.A.1," 2.NBT.B.5, 2.OA.A.1"," 2.NBT.B.7, 2.NBT.B.5, 2.OA.A.1"
+Steps: 50+41=91",2.OA.A.1,5,[5],[2 5],[4 2 5],[11  4  2  5],[ 1 11  4  2  5], 2.OA.A.1," 2.NBT.B.5, 2.OA.A.1"," 2.NBT.B.7, 2.NBT.B.5, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.7, 2.NBT.B.5, 2.OA.A.1"," 1.OA.A.2, 3.OA.D.8, 2.NBT.B.7, 2.NBT.B.5, 2.OA.A.1"
 77,"Question: Julia played tag with 12 kids on Monday. She played tag with 7 kids on Tuesday. How many kids did she play with altogether?
 Solution: 19 (kids)
-Steps: 12+7=19",1.OA.A.1,0,[0],[1 0],[5 1 0], 1.OA.A.1," 1.OA.A.2, 1.OA.A.1"," 2.OA.A.1, 1.OA.A.2, 1.OA.A.1"
+Steps: 12+7=19",1.OA.A.1,0,[0],[1 0],[5 1 0],[2 5 1 0],[28  2  5  1  0], 1.OA.A.1," 1.OA.A.2, 1.OA.A.1"," 2.OA.A.1, 1.OA.A.2, 1.OA.A.1"," 2.NBT.B.5, 2.OA.A.1, 1.OA.A.2, 1.OA.A.1"," K.OA.A.2, 2.NBT.B.5, 2.OA.A.1, 1.OA.A.2, 1.OA.A.1"
 1785,"Question: Emily owned 6 songs by her favorite artists. Later on she bought 7 more songs. How many songs did she have totaled?
 Solution: 13 (songs)
-Steps: 6+7=13",1.OA.A.1,0,[0],[5 0],[1 5 0], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+Steps: 6+7=13",1.OA.A.1,0,[0],[5 0],[1 5 0],[2 1 5 0],[28  2  1  5  0], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 2.NBT.B.5, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 2.NBT.B.5, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"
 147,"Question: Mrs. Hilt wants to make a border around her garden. She needs 125 rocks to complete the border. She has 64 rocks. How many more rocks does she need to complete the border?
 Solution: 61 (rocks)
-Steps: 125-64=61",2.NBT.B.7,4,[5],[4 5],[2 4 5], 2.OA.A.1," 2.NBT.B.7, 2.OA.A.1"," 2.NBT.B.5, 2.NBT.B.7, 2.OA.A.1"
+Steps: 125-64=61",2.NBT.B.7,4,[5],[4 5],[2 4 5],[11  2  4  5],[ 1 11  2  4  5], 2.OA.A.1," 2.NBT.B.7, 2.OA.A.1"," 2.NBT.B.5, 2.NBT.B.7, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 2.NBT.B.7, 2.OA.A.1"," 1.OA.A.2, 3.OA.D.8, 2.NBT.B.5, 2.NBT.B.7, 2.OA.A.1"
 2090,"Question: Two bicycle enthusiasts are leaving Cincinnati at the same time. One is biking 840 miles to Boston. The other is biking 440 miles to Atlanta. What is the greatest number of miles a day each can bike if they want to cover equal distances each day?
 Solution: 40 (miles)
-Steps: GCD(840,440)=40",6.NS.B.4,23,[23],[15 23],[18 15 23], 6.NS.B.4," 4.NBT.B.4, 6.NS.B.4"," 4.OA.A.3, 4.NBT.B.4, 6.NS.B.4"
+Steps: GCD(840,440)=40",6.NS.B.4,23,[23],[15 23],[18 15 23],[16 18 15 23],[13 16 18 15 23], 6.NS.B.4," 4.NBT.B.4, 6.NS.B.4"," 4.OA.A.3, 4.NBT.B.4, 6.NS.B.4"," 4.NBT.B.5, 4.OA.A.3, 4.NBT.B.4, 6.NS.B.4"," 4.MD.A.2, 4.NBT.B.5, 4.OA.A.3, 4.NBT.B.4, 6.NS.B.4"
 16,"Question: Some oranges were in the basket. Five oranges were taken from the basket. Now there are three oranges. How many oranges were in the basket before some of the oranges were taken?
 Solution: 8 (oranges)
-Steps: 5+3=8",K.OA.A.2,28,[28],[ 1 28],[ 0  1 28], K.OA.A.2," 1.OA.A.2, K.OA.A.2"," 1.OA.A.1, 1.OA.A.2, K.OA.A.2"
+Steps: 5+3=8",K.OA.A.2,28,[28],[ 1 28],[ 0  1 28],[10  0  1 28],[11 10  0  1 28], K.OA.A.2," 1.OA.A.2, K.OA.A.2"," 1.OA.A.1, 1.OA.A.2, K.OA.A.2"," 3.OA.A.3, 1.OA.A.1, 1.OA.A.2, K.OA.A.2"," 3.OA.D.8, 3.OA.A.3, 1.OA.A.1, 1.OA.A.2, K.OA.A.2"
 569,"Question: Lukas averages 12 points per game in basketball. How many points would he score in 5 games?
 Solution: 60 (points)
-Steps: 12*5=60",3.OA.A.3,10,[10],[ 8 10],[14  8 10], 3.OA.A.3," 3.NBT.A.3, 3.OA.A.3"," 4.MD.A.3, 3.NBT.A.3, 3.OA.A.3"
+Steps: 12*5=60",3.OA.A.3,10,[10],[ 8 10],[14  8 10],[11 14  8 10],[19 11 14  8 10], 3.OA.A.3," 3.NBT.A.3, 3.OA.A.3"," 4.MD.A.3, 3.NBT.A.3, 3.OA.A.3"," 3.OA.D.8, 4.MD.A.3, 3.NBT.A.3, 3.OA.A.3"," 5.NBT.B.5, 3.OA.D.8, 4.MD.A.3, 3.NBT.A.3, 3.OA.A.3"
 1546,"Question: A container can hold four orange slices. If a company had three hundred twenty-nine orange slices to put into containers, how many more slices would they need to fill up the last container?
 Solution: 3 (slices)
-Steps: 329/4=82 r1; 4-1=3",4.NBT.B.6,17,[17],[28 17],[20 28 17], 4.NBT.B.6," K.OA.A.2, 4.NBT.B.6"," 5.NBT.B.6, K.OA.A.2, 4.NBT.B.6"
+Steps: 329/4=82 r1; 4-1=3",4.NBT.B.6,17,[17],[28 17],[20 28 17],[11 20 28 17],[10 11 20 28 17], 4.NBT.B.6," K.OA.A.2, 4.NBT.B.6"," 5.NBT.B.6, K.OA.A.2, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, K.OA.A.2, 4.NBT.B.6"," 3.OA.A.3, 3.OA.D.8, 5.NBT.B.6, K.OA.A.2, 4.NBT.B.6"
 1546,"Question: A container can hold four orange slices. If a company had three hundred twenty-nine orange slices to put into containers, how many more slices would they need to fill up the last container?
 Solution: 3 (slices)
-Steps: 329/4=82 r1; 4-1=3",K.OA.A.2,28,[17],[28 17],[20 28 17], 4.NBT.B.6," K.OA.A.2, 4.NBT.B.6"," 5.NBT.B.6, K.OA.A.2, 4.NBT.B.6"
+Steps: 329/4=82 r1; 4-1=3",K.OA.A.2,28,[17],[28 17],[20 28 17],[11 20 28 17],[10 11 20 28 17], 4.NBT.B.6," K.OA.A.2, 4.NBT.B.6"," 5.NBT.B.6, K.OA.A.2, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, K.OA.A.2, 4.NBT.B.6"," 3.OA.A.3, 3.OA.D.8, 5.NBT.B.6, K.OA.A.2, 4.NBT.B.6"
 162,"Question: I have 28 cents in my pocket. How coins could I have on minimization?
 Solution: 4 (coins)
-Steps: 28/25=1 r3; 3/1=3; 1+3=4",4.NBT.B.6,17,[28],[17 28],[20 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"
+Steps: 28/25=1 r3; 3/1=3; 1+3=4",4.NBT.B.6,17,[28],[17 28],[20 17 28],[ 0 20 17 28],[27  0 20 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"," 1.OA.A.1, 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"," 8.EE.C.8, 1.OA.A.1, 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"
 162,"Question: I have 28 cents in my pocket. How coins could I have on minimization?
 Solution: 4 (coins)
-Steps: 28/25=1 r3; 3/1=3; 1+3=4",3.OA.A.3,10,[28],[17 28],[20 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"
+Steps: 28/25=1 r3; 3/1=3; 1+3=4",3.OA.A.3,10,[28],[17 28],[20 17 28],[ 0 20 17 28],[27  0 20 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"," 1.OA.A.1, 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"," 8.EE.C.8, 1.OA.A.1, 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"
 162,"Question: I have 28 cents in my pocket. How coins could I have on minimization?
 Solution: 4 (coins)
-Steps: 28/25=1 r3; 3/1=3; 1+3=4",K.OA.A.2,28,[28],[17 28],[20 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"
+Steps: 28/25=1 r3; 3/1=3; 1+3=4",K.OA.A.2,28,[28],[17 28],[20 17 28],[ 0 20 17 28],[27  0 20 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"," 1.OA.A.1, 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"," 8.EE.C.8, 1.OA.A.1, 5.NBT.B.6, 4.NBT.B.6, K.OA.A.2"
 1142,"Question: There are 43 empty seats and 7 occupied seats on an airplane. What is the ratio of the number of occupied seats to the total number of seats?
 Solution: 0.326388889
-Steps: 7+43=50; 7:50",2.OA.A.1,5,[0],[20  0],[25 20  0], 1.OA.A.1," 5.NBT.B.6, 1.OA.A.1"," 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"
+Steps: 7+43=50; 7:50",2.OA.A.1,5,[0],[20  0],[25 20  0],[24 25 20  0],[21 24 25 20  0], 1.OA.A.1," 5.NBT.B.6, 1.OA.A.1"," 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"," 6.RP.A.1, 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"," 6.EE.B.6, 6.RP.A.1, 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"
 1142,"Question: There are 43 empty seats and 7 occupied seats on an airplane. What is the ratio of the number of occupied seats to the total number of seats?
 Solution: 0.326388889
-Steps: 7+43=50; 7:50",6.RP.A.1,24,[0],[20  0],[25 20  0], 1.OA.A.1," 5.NBT.B.6, 1.OA.A.1"," 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"
+Steps: 7+43=50; 7:50",6.RP.A.1,24,[0],[20  0],[25 20  0],[24 25 20  0],[21 24 25 20  0], 1.OA.A.1," 5.NBT.B.6, 1.OA.A.1"," 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"," 6.RP.A.1, 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"," 6.EE.B.6, 6.RP.A.1, 6.RP.A.3, 5.NBT.B.6, 1.OA.A.1"
 2097,"Question: At a comic convention Janet wanted to buy 8 comics, but each one costs 4 dollars, plus it costs 2 to even get in. How much money should she take with her so she can get in and buy what she wants?
 Solution: 34 (dollars)
-Steps: 8*4+2=34",3.OA.D.8,11,[11],[10 11],[28 10 11], 3.OA.D.8," 3.OA.A.3, 3.OA.D.8"," K.OA.A.2, 3.OA.A.3, 3.OA.D.8"
+Steps: 8*4+2=34",3.OA.D.8,11,[11],[10 11],[28 10 11],[18 28 10 11],[ 1 18 28 10 11], 3.OA.D.8," 3.OA.A.3, 3.OA.D.8"," K.OA.A.2, 3.OA.A.3, 3.OA.D.8"," 4.OA.A.3, K.OA.A.2, 3.OA.A.3, 3.OA.D.8"," 1.OA.A.2, 4.OA.A.3, K.OA.A.2, 3.OA.A.3, 3.OA.D.8"
 2132,"Question: Adam had seventy-nine dollars saved up. After doing some chores his mother gave him another thirteen dollars. How much money does he have total?
 Solution: 92 (dollars)
-Steps: 79+13=92",2.OA.A.1,5,[5],[11  5],[ 2 11  5], 2.OA.A.1," 3.OA.D.8, 2.OA.A.1"," 2.NBT.B.5, 3.OA.D.8, 2.OA.A.1"
+Steps: 79+13=92",2.OA.A.1,5,[5],[11  5],[ 2 11  5],[ 4  2 11  5],[ 1  4  2 11  5], 2.OA.A.1," 3.OA.D.8, 2.OA.A.1"," 2.NBT.B.5, 3.OA.D.8, 2.OA.A.1"," 2.NBT.B.7, 2.NBT.B.5, 3.OA.D.8, 2.OA.A.1"," 1.OA.A.2, 2.NBT.B.7, 2.NBT.B.5, 3.OA.D.8, 2.OA.A.1"
 804,"Question: Sam cut equal-length pieces of ribbon from a 3,730-cm long ribbon. If each piece was 73 cm long, how many 73 cm pieces of ribbon did Sam make?
 Solution: 51 (pieces of ribbon)
-Steps: 3730/73=51 r7",5.NBT.B.6,20,[20],[17 20],[13 17 20], 5.NBT.B.6," 4.NBT.B.6, 5.NBT.B.6"," 4.MD.A.2, 4.NBT.B.6, 5.NBT.B.6"
+Steps: 3730/73=51 r7",5.NBT.B.6,20,[20],[17 20],[13 17 20],[16 13 17 20],[12 16 13 17 20], 5.NBT.B.6," 4.NBT.B.6, 5.NBT.B.6"," 4.MD.A.2, 4.NBT.B.6, 5.NBT.B.6"," 4.NBT.B.5, 4.MD.A.2, 4.NBT.B.6, 5.NBT.B.6"," 3.OA.D.9, 4.NBT.B.5, 4.MD.A.2, 4.NBT.B.6, 5.NBT.B.6"
 1048,"Question: Last season, Lisa's soccer team won 8 games and lost 6 games. Her cousin Susan's team won 17 games and lost 14 games. Which team had a higher ratio of wins to losses?
 Solution: Lisa's soccer team
-Steps: 8/6(Lisa's soccer team) > 17/14(Susan's team)",6.RP.A.3,25,[25],[13 25],[24 13 25], 6.RP.A.3," 4.MD.A.2, 6.RP.A.3"," 6.RP.A.1, 4.MD.A.2, 6.RP.A.3"
+Steps: 8/6(Lisa's soccer team) > 17/14(Susan's team)",6.RP.A.3,25,[25],[13 25],[24 13 25],[27 24 13 25],[12 27 24 13 25], 6.RP.A.3," 4.MD.A.2, 6.RP.A.3"," 6.RP.A.1, 4.MD.A.2, 6.RP.A.3"," 8.EE.C.8, 6.RP.A.1, 4.MD.A.2, 6.RP.A.3"," 3.OA.D.9, 8.EE.C.8, 6.RP.A.1, 4.MD.A.2, 6.RP.A.3"
 371,"Question: Andrew is having his friends over for game night. So he decided to prepare the snacks and the games. He started by making mini sandwiches. If he has 4 friends coming over and he made 3 sandwiches for each one of them, how many sandwiches did he make in total?
 Solution: 12 (sandwiches)
-Steps: 4*3=12",3.OA.A.3,10,[10],[11 10],[28 11 10], 3.OA.A.3," 3.OA.D.8, 3.OA.A.3"," K.OA.A.2, 3.OA.D.8, 3.OA.A.3"
+Steps: 4*3=12",3.OA.A.3,10,[10],[11 10],[28 11 10],[ 0 28 11 10],[ 8  0 28 11 10], 3.OA.A.3," 3.OA.D.8, 3.OA.A.3"," K.OA.A.2, 3.OA.D.8, 3.OA.A.3"," 1.OA.A.1, K.OA.A.2, 3.OA.D.8, 3.OA.A.3"," 3.NBT.A.3, 1.OA.A.1, K.OA.A.2, 3.OA.D.8, 3.OA.A.3"
 846,"Question: Three workers are working to cut the trees. Worker X can cut a tree every 16 min, Worker Y every 32 min and Worker C every 24 min. If they start cutting three trees at the same time at 7:48, at what time will they start cutting trees at the same time again?
 Solution: 0.391666667
-Steps: (7*60 (min/hour) + 48) + LCM[16,32,24] + 0 = 564 (min); 564/60 (min/hour)=9 r24; hh:mm=9:24",4.MD.A.2,13,[20],[13 20],[25 13 20], 5.NBT.B.6," 4.MD.A.2, 5.NBT.B.6"," 6.RP.A.3, 4.MD.A.2, 5.NBT.B.6"
+Steps: (7*60 (min/hour) + 48) + LCM[16,32,24] + 0 = 564 (min); 564/60 (min/hour)=9 r24; hh:mm=9:24",4.MD.A.2,13,[20],[13 20],[25 13 20],[12 25 13 20],[17 12 25 13 20], 5.NBT.B.6," 4.MD.A.2, 5.NBT.B.6"," 6.RP.A.3, 4.MD.A.2, 5.NBT.B.6"," 3.OA.D.9, 6.RP.A.3, 4.MD.A.2, 5.NBT.B.6"," 4.NBT.B.6, 3.OA.D.9, 6.RP.A.3, 4.MD.A.2, 5.NBT.B.6"
 846,"Question: Three workers are working to cut the trees. Worker X can cut a tree every 16 min, Worker Y every 32 min and Worker C every 24 min. If they start cutting three trees at the same time at 7:48, at what time will they start cutting trees at the same time again?
 Solution: 0.391666667
-Steps: (7*60 (min/hour) + 48) + LCM[16,32,24] + 0 = 564 (min); 564/60 (min/hour)=9 r24; hh:mm=9:24",5.NBT.B.6,20,[20],[13 20],[25 13 20], 5.NBT.B.6," 4.MD.A.2, 5.NBT.B.6"," 6.RP.A.3, 4.MD.A.2, 5.NBT.B.6"
+Steps: (7*60 (min/hour) + 48) + LCM[16,32,24] + 0 = 564 (min); 564/60 (min/hour)=9 r24; hh:mm=9:24",5.NBT.B.6,20,[20],[13 20],[25 13 20],[12 25 13 20],[17 12 25 13 20], 5.NBT.B.6," 4.MD.A.2, 5.NBT.B.6"," 6.RP.A.3, 4.MD.A.2, 5.NBT.B.6"," 3.OA.D.9, 6.RP.A.3, 4.MD.A.2, 5.NBT.B.6"," 4.NBT.B.6, 3.OA.D.9, 6.RP.A.3, 4.MD.A.2, 5.NBT.B.6"
 2165,"Question: Oliver collected two seashells from the beach on Monday and two more on Tuesday. How many seashells did Oliver collect all together?
 Solution: 4 (seashells)
-Steps: 2+2=4",K.OA.A.2,28,[28],[10 28],[ 1 10 28], K.OA.A.2," 3.OA.A.3, K.OA.A.2"," 1.OA.A.2, 3.OA.A.3, K.OA.A.2"
+Steps: 2+2=4",K.OA.A.2,28,[28],[10 28],[ 1 10 28],[ 0  1 10 28],[11  0  1 10 28], K.OA.A.2," 3.OA.A.3, K.OA.A.2"," 1.OA.A.2, 3.OA.A.3, K.OA.A.2"," 1.OA.A.1, 1.OA.A.2, 3.OA.A.3, K.OA.A.2"," 3.OA.D.8, 1.OA.A.1, 1.OA.A.2, 3.OA.A.3, K.OA.A.2"
 2277,"Question: Atomic fireballs come in packages of 9. Barbara ate 59 Atomic Fireballs. How many Atomic Fireballs does she have left?
 Solution: 5 (Atomic Fireballs)
-Steps: 59/9=6 r5",4.NBT.B.6,17,[17],[20 17],[11 20 17], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"
+Steps: 59/9=6 r5",4.NBT.B.6,17,[17],[20 17],[11 20 17],[10 11 20 17],[27 10 11 20 17], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," 3.OA.A.3, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," 8.EE.C.8, 3.OA.A.3, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"
 289,"Question: Thanksgiving came and their family hosted their building's Thanksgiving dinner. They prepared a lot of food so she asked her parents if they could donate some to the soup kitchen next bock. If they prepared 36 turkeys and gave 18 of it to the soup kitchen, how many were left for them to eat?
 Solution: 18 (turkeys)
-Steps: 36-18=18",2.OA.A.1,5,[5],[0 5],[2 0 5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
+Steps: 36-18=18",2.OA.A.1,5,[5],[0 5],[2 0 5],[1 2 0 5],[4 1 2 0 5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 1.OA.A.2, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.7, 1.OA.A.2, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
 41,"Question: Mrs. Hilt has 15 friends. She can only take 8 of her friends to the movies. How many friends can't go to the movies?
 Solution: 7 (friends)
-Steps: 15-8=7",1.OA.A.1,0,[28],[ 0 28],[ 5  0 28], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+Steps: 15-8=7",1.OA.A.1,0,[28],[ 0 28],[ 5  0 28],[ 1  5  0 28],[10  1  5  0 28], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 1.OA.A.2, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
 1164,"Question: When Jenna works out, she spends 18 minutes doing cardio and 20 minutes doing resistance training. Leon's workout consists of 17 minutes of cardio and 18 minutes of resistance training. Who does a higher ratio of cardio to resistance training?
 Solution: Leon
-Steps: 17/18=94.444%(Leon) > 18/20=90%(Jenna)",6.RP.A.3,25,[25],[13 25],[24 13 25], 6.RP.A.3," 4.MD.A.2, 6.RP.A.3"," 6.RP.A.1, 4.MD.A.2, 6.RP.A.3"
+Steps: 17/18=94.444%(Leon) > 18/20=90%(Jenna)",6.RP.A.3,25,[25],[13 25],[24 13 25],[27 24 13 25],[ 9 27 24 13 25], 6.RP.A.3," 4.MD.A.2, 6.RP.A.3"," 6.RP.A.1, 4.MD.A.2, 6.RP.A.3"," 8.EE.C.8, 6.RP.A.1, 4.MD.A.2, 6.RP.A.3"," 3.NF.A.3, 8.EE.C.8, 6.RP.A.1, 4.MD.A.2, 6.RP.A.3"
 2173,"Question: Bianca had 45 coloring books. If she gave away 6 of them, but then bought 20 more, how many would she have total?
 Solution: 59 (coloring books)
-Steps: 45-6+20=59",2.OA.A.1,5,[5],[2 5],[11  2  5], 2.OA.A.1," 2.NBT.B.5, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1"
+Steps: 45-6+20=59",2.OA.A.1,5,[5],[2 5],[11  2  5],[ 1 11  2  5],[ 4  1 11  2  5], 2.OA.A.1," 2.NBT.B.5, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1"," 1.OA.A.2, 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1"," 2.NBT.B.7, 1.OA.A.2, 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1"
 2085,"Question: Rosa is making a game board that is 16 inches by 24 inches. She wants to use square tiles. What is the largest tile she can use?
 Solution: 8 (tiles)
-Steps: GCD(16,24)=8",6.NS.B.4,23,[23],[21 23],[18 21 23], 6.NS.B.4," 6.EE.B.6, 6.NS.B.4"," 4.OA.A.3, 6.EE.B.6, 6.NS.B.4"
+Steps: GCD(16,24)=8",6.NS.B.4,23,[23],[21 23],[18 21 23],[15 18 21 23],[16 15 18 21 23], 6.NS.B.4," 6.EE.B.6, 6.NS.B.4"," 4.OA.A.3, 6.EE.B.6, 6.NS.B.4"," 4.NBT.B.4, 4.OA.A.3, 6.EE.B.6, 6.NS.B.4"," 4.NBT.B.5, 4.NBT.B.4, 4.OA.A.3, 6.EE.B.6, 6.NS.B.4"
 205,"Question: Upon finishing the treehouse, Charlie's mother served them freshly baked cookies. If Charlie ate 15 cookies, his father ate 10 and his mother only ate 5, how many cookies were eaten in total?
 Solution: 30 (cookies)
-Steps: 15+10+5=30",2.OA.A.1,5,[5],[1 5],[11  1  5], 2.OA.A.1," 1.OA.A.2, 2.OA.A.1"," 3.OA.D.8, 1.OA.A.2, 2.OA.A.1"
+Steps: 15+10+5=30",2.OA.A.1,5,[5],[1 5],[11  1  5],[ 2 11  1  5],[ 4  2 11  1  5], 2.OA.A.1," 1.OA.A.2, 2.OA.A.1"," 3.OA.D.8, 1.OA.A.2, 2.OA.A.1"," 2.NBT.B.5, 3.OA.D.8, 1.OA.A.2, 2.OA.A.1"," 2.NBT.B.7, 2.NBT.B.5, 3.OA.D.8, 1.OA.A.2, 2.OA.A.1"
 1940,"Question: Adam picked thirty-five strawberries. After eating some, he had thirty-three left. How many strawberries did Adam eat?
 Solution: 2 (strawberries)
-Steps: 35-33=2",2.OA.A.1,5,[5],[0 5],[2 0 5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
+Steps: 35-33=2",2.OA.A.1,5,[5],[0 5],[2 0 5],[11  2  0  5],[ 1 11  2  0  5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 1.OA.A.2, 3.OA.D.8, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
 1240,"Question: An art museum had 15 pictures to split equally into 2 different exhibits. How many more pictures would they need to make sure each exhibit had the same amount?
 Solution: 1 (picture)
-Steps: 15/2=7 r1; 2-1=1",4.NBT.B.6,17,[28],[17 28],[10 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"
+Steps: 15/2=7 r1; 2-1=1",4.NBT.B.6,17,[28],[17 28],[10 17 28],[11 10 17 28],[20 11 10 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"," 3.OA.D.8, 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"," 5.NBT.B.6, 3.OA.D.8, 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"
 1240,"Question: An art museum had 15 pictures to split equally into 2 different exhibits. How many more pictures would they need to make sure each exhibit had the same amount?
 Solution: 1 (picture)
-Steps: 15/2=7 r1; 2-1=1",K.OA.A.2,28,[28],[17 28],[10 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"
+Steps: 15/2=7 r1; 2-1=1",K.OA.A.2,28,[28],[17 28],[10 17 28],[11 10 17 28],[20 11 10 17 28], K.OA.A.2," 4.NBT.B.6, K.OA.A.2"," 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"," 3.OA.D.8, 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"," 5.NBT.B.6, 3.OA.D.8, 3.OA.A.3, 4.NBT.B.6, K.OA.A.2"
 1234,"Question: A coat factory had 29 coats. If they wanted to put them into 3 boxes, with the same number of coats in each box, how many extra coats would they have left over?
 Solution: 2 (coats)
-Steps: 29/3=9 r2",4.NBT.B.6,17,[17],[20 17],[11 20 17], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"
+Steps: 29/3=9 r2",4.NBT.B.6,17,[17],[20 17],[11 20 17],[10 11 20 17],[28 10 11 20 17], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," 3.OA.A.3, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," K.OA.A.2, 3.OA.A.3, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"
 2276,"Question: Shirley sold 54 boxes of Trefoils. How many cases of 6 boxes does Shirley need to deliver?
 Solution: 9 (cases)
-Steps: 54/6=9",3.OA.A.3,10,[10],[11 10],[28 11 10], 3.OA.A.3," 3.OA.D.8, 3.OA.A.3"," K.OA.A.2, 3.OA.D.8, 3.OA.A.3"
+Steps: 54/6=9",3.OA.A.3,10,[10],[11 10],[28 11 10],[17 28 11 10],[ 0 17 28 11 10], 3.OA.A.3," 3.OA.D.8, 3.OA.A.3"," K.OA.A.2, 3.OA.D.8, 3.OA.A.3"," 4.NBT.B.6, K.OA.A.2, 3.OA.D.8, 3.OA.A.3"," 1.OA.A.1, 4.NBT.B.6, K.OA.A.2, 3.OA.D.8, 3.OA.A.3"
 1371,"Question: After paying 6 dollars for the pie, Sandy has 57 dollars left. How much money did she have before buying the pie ?
 Solution: 63 (dollars)
-Steps: 6+57=63",2.OA.A.1,5,[5],[11  5],[ 4 11  5], 2.OA.A.1," 3.OA.D.8, 2.OA.A.1"," 2.NBT.B.7, 3.OA.D.8, 2.OA.A.1"
+Steps: 6+57=63",2.OA.A.1,5,[5],[11  5],[ 4 11  5],[ 2  4 11  5],[ 1  2  4 11  5], 2.OA.A.1," 3.OA.D.8, 2.OA.A.1"," 2.NBT.B.7, 3.OA.D.8, 2.OA.A.1"," 2.NBT.B.5, 2.NBT.B.7, 3.OA.D.8, 2.OA.A.1"," 1.OA.A.2, 2.NBT.B.5, 2.NBT.B.7, 3.OA.D.8, 2.OA.A.1"
 1404,"Question: The present age of Jacob's father is three times that of Jacob. After 5 years, sum of their ages would be 70 years. Find their present ages.
 Solution: 45 (years old); 15 (years old)
-Steps: F:Present age of Jacob's father; J:Jacob's present age; F=J*3; (F+5)+(J+5)=70",8.EE.C.8,27,[21],[27 21],[23 27 21], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 6.NS.B.4, 8.EE.C.8, 6.EE.B.6"
+Steps: F:Present age of Jacob's father; J:Jacob's present age; F=J*3; (F+5)+(J+5)=70",8.EE.C.8,27,[21],[27 21],[23 27 21],[15 23 27 21],[26 15 23 27 21], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 6.NS.B.4, 8.EE.C.8, 6.EE.B.6"," 4.NBT.B.4, 6.NS.B.4, 8.EE.C.8, 6.EE.B.6"," 6.SP.B.5, 4.NBT.B.4, 6.NS.B.4, 8.EE.C.8, 6.EE.B.6"
 1505,"Question: Kevin can mow a square lawn that is 30 meters of each side in 45 minutes. If he works at the same rate, how many minutes will it take Kevin to mow a square lawn that measures 60 meters on each side?
 Solution: 180 (minutes)
-Steps: 4*45=180",4.MD.A.2,13,[8],[16  8],[13 16  8], 3.NBT.A.3," 4.NBT.B.5, 3.NBT.A.3"," 4.MD.A.2, 4.NBT.B.5, 3.NBT.A.3"
+Steps: 4*45=180",4.MD.A.2,13,[8],[16  8],[13 16  8],[10 13 16  8],[18 10 13 16  8], 3.NBT.A.3," 4.NBT.B.5, 3.NBT.A.3"," 4.MD.A.2, 4.NBT.B.5, 3.NBT.A.3"," 3.OA.A.3, 4.MD.A.2, 4.NBT.B.5, 3.NBT.A.3"," 4.OA.A.3, 3.OA.A.3, 4.MD.A.2, 4.NBT.B.5, 3.NBT.A.3"
 1505,"Question: Kevin can mow a square lawn that is 30 meters of each side in 45 minutes. If he works at the same rate, how many minutes will it take Kevin to mow a square lawn that measures 60 meters on each side?
 Solution: 180 (minutes)
-Steps: 4*45=180",6.RP.A.3,25,[8],[16  8],[13 16  8], 3.NBT.A.3," 4.NBT.B.5, 3.NBT.A.3"," 4.MD.A.2, 4.NBT.B.5, 3.NBT.A.3"
+Steps: 4*45=180",6.RP.A.3,25,[8],[16  8],[13 16  8],[10 13 16  8],[18 10 13 16  8], 3.NBT.A.3," 4.NBT.B.5, 3.NBT.A.3"," 4.MD.A.2, 4.NBT.B.5, 3.NBT.A.3"," 3.OA.A.3, 4.MD.A.2, 4.NBT.B.5, 3.NBT.A.3"," 4.OA.A.3, 3.OA.A.3, 4.MD.A.2, 4.NBT.B.5, 3.NBT.A.3"
 121,"Question: Brian has 39 pencils. He gives 18 pencils to a friend. He buys 22 more pencils. How many pencils does Brian have now?
 Solution: 43 (pencils)
-Steps: 39-18+22=43",2.OA.A.1,5,[5],[2 5],[11  2  5], 2.OA.A.1," 2.NBT.B.5, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1"
+Steps: 39-18+22=43",2.OA.A.1,5,[5],[2 5],[11  2  5],[ 1 11  2  5],[ 4  1 11  2  5], 2.OA.A.1," 2.NBT.B.5, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1"," 1.OA.A.2, 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1"," 2.NBT.B.7, 1.OA.A.2, 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1"
 2227,"Question: Nancy had forty-three files on her computer. She deleted thirty-one of them and put the rest into folders with six files in each one. How many folders did Nancy end up with?
 Solution: 2 (folders)
-Steps: (43-31)/6=2",3.OA.D.8,11,[11],[10 11],[28 10 11], 3.OA.D.8," 3.OA.A.3, 3.OA.D.8"," K.OA.A.2, 3.OA.A.3, 3.OA.D.8"
+Steps: (43-31)/6=2",3.OA.D.8,11,[11],[10 11],[28 10 11],[17 28 10 11],[24 17 28 10 11], 3.OA.D.8," 3.OA.A.3, 3.OA.D.8"," K.OA.A.2, 3.OA.A.3, 3.OA.D.8"," 4.NBT.B.6, K.OA.A.2, 3.OA.A.3, 3.OA.D.8"," 6.RP.A.1, 4.NBT.B.6, K.OA.A.2, 3.OA.A.3, 3.OA.D.8"
 193,"Question: Morgan has 65 red pens, 45 blue pens, and 58 black pens. How many pens does she have?
 Solution: 168 (pens)
-Steps: 65+45+58=168",3.NBT.A.2,7,[5],[4 5],[2 4 5], 2.OA.A.1," 2.NBT.B.7, 2.OA.A.1"," 2.NBT.B.5, 2.NBT.B.7, 2.OA.A.1"
+Steps: 65+45+58=168",3.NBT.A.2,7,[5],[4 5],[2 4 5],[15  2  4  5],[18 15  2  4  5], 2.OA.A.1," 2.NBT.B.7, 2.OA.A.1"," 2.NBT.B.5, 2.NBT.B.7, 2.OA.A.1"," 4.NBT.B.4, 2.NBT.B.5, 2.NBT.B.7, 2.OA.A.1"," 4.OA.A.3, 4.NBT.B.4, 2.NBT.B.5, 2.NBT.B.7, 2.OA.A.1"
 900,"Question: Tina had a large collection of beanie babies. She gave 8 beanie babies to her cousin. She gave half that amount to her sister. She gave 36 beanie babies to needy children. She kept 12 for herself. How many beanie babies were in Tina's collection at first?
 Solution: 60 (beanie babies)
-Steps: 8/2=4; 8+4+36+12=60",3.OA.A.3,10,[5],[0 5],[2 0 5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
+Steps: 8/2=4; 8+4+36+12=60",3.OA.A.3,10,[5],[0 5],[2 0 5],[1 2 0 5],[15  1  2  0  5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 1.OA.A.2, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 4.NBT.B.4, 1.OA.A.2, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
 900,"Question: Tina had a large collection of beanie babies. She gave 8 beanie babies to her cousin. She gave half that amount to her sister. She gave 36 beanie babies to needy children. She kept 12 for herself. How many beanie babies were in Tina's collection at first?
 Solution: 60 (beanie babies)
-Steps: 8/2=4; 8+4+36+12=60",2.NBT.B.5,2,[5],[0 5],[2 0 5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
+Steps: 8/2=4; 8+4+36+12=60",2.NBT.B.5,2,[5],[0 5],[2 0 5],[1 2 0 5],[15  1  2  0  5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 1.OA.A.2, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 4.NBT.B.4, 1.OA.A.2, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
 1825,"Question: An architect was building a hotel downtown. He built it 3 stories tall with 8 rooms on each story. How many rooms does the hotel have totaled?
 Solution: 24 (rooms)
-Steps: 3*8=24",3.OA.A.3,10,[10],[14 10],[11 14 10], 3.OA.A.3," 4.MD.A.3, 3.OA.A.3"," 3.OA.D.8, 4.MD.A.3, 3.OA.A.3"
+Steps: 3*8=24",3.OA.A.3,10,[10],[14 10],[11 14 10],[28 11 14 10],[ 0 28 11 14 10], 3.OA.A.3," 4.MD.A.3, 3.OA.A.3"," 3.OA.D.8, 4.MD.A.3, 3.OA.A.3"," K.OA.A.2, 3.OA.D.8, 4.MD.A.3, 3.OA.A.3"," 1.OA.A.1, K.OA.A.2, 3.OA.D.8, 4.MD.A.3, 3.OA.A.3"
 1305,"Question: The ages of Peter, Margaret and Jack are consecutive odd numbers. The sum of the ages of Peter and Margaret equals Jack's age before 5 years. Find the ages of Peter, Margaret and Jack.
 Solution: 7 (years old); 9 (years old); 11 (years old)
-Steps: x:Peter's age; x+(x+2)-5=(x+4)",6.EE.B.6,21,[21],[27 21],[25 27 21], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, 8.EE.C.8, 6.EE.B.6"
+Steps: x:Peter's age; x+(x+2)-5=(x+4)",6.EE.B.6,21,[21],[27 21],[25 27 21],[28 25 27 21],[23 28 25 27 21], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, 8.EE.C.8, 6.EE.B.6"," K.OA.A.2, 6.RP.A.3, 8.EE.C.8, 6.EE.B.6"," 6.NS.B.4, K.OA.A.2, 6.RP.A.3, 8.EE.C.8, 6.EE.B.6"
 283,"Question: The wolves, though accustomed to cold weather, also wanted to move away from the incoming winter. If there are 43 packs of wolves living in the forest and 31 packs went away, how many wolf packs were left in the forest?
 Solution: 12 (wolf packs)
-Steps: 43-31=12",2.OA.A.1,5,[5],[0 5],[2 0 5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
+Steps: 43-31=12",2.OA.A.1,5,[5],[0 5],[2 0 5],[1 2 0 5],[4 1 2 0 5], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 1.OA.A.2, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.7, 1.OA.A.2, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
 988,"Question: Kevin collected toys to use as prizes at the fair. He collected 14 stuffed animals. He also collected 18 frisbees and several yo-yos. Kevin has 50 prizes in all. How many yo-yos did Kevin collect?
 Solution: 18 (yo-yos)
-Steps: 50-18-14=18",2.OA.A.1,5,[5],[2 5],[0 2 5], 2.OA.A.1," 2.NBT.B.5, 2.OA.A.1"," 1.OA.A.1, 2.NBT.B.5, 2.OA.A.1"
+Steps: 50-18-14=18",2.OA.A.1,5,[5],[2 5],[0 2 5],[1 0 2 5],[7 1 0 2 5], 2.OA.A.1," 2.NBT.B.5, 2.OA.A.1"," 1.OA.A.1, 2.NBT.B.5, 2.OA.A.1"," 1.OA.A.2, 1.OA.A.1, 2.NBT.B.5, 2.OA.A.1"," 3.NBT.A.2, 1.OA.A.2, 1.OA.A.1, 2.NBT.B.5, 2.OA.A.1"
 577,"Question: 63 people are going to the zoo. There are 3 cars to take people to the zoo. How many will go in each car if the same number go in each car?
 Solution: 21 (people)
-Steps: 63/3=21",3.OA.A.3,10,[10],[17 10],[11 17 10], 3.OA.A.3," 4.NBT.B.6, 3.OA.A.3"," 3.OA.D.8, 4.NBT.B.6, 3.OA.A.3"
+Steps: 63/3=21",3.OA.A.3,10,[10],[17 10],[11 17 10],[ 5 11 17 10],[28  5 11 17 10], 3.OA.A.3," 4.NBT.B.6, 3.OA.A.3"," 3.OA.D.8, 4.NBT.B.6, 3.OA.A.3"," 2.OA.A.1, 3.OA.D.8, 4.NBT.B.6, 3.OA.A.3"," K.OA.A.2, 2.OA.A.1, 3.OA.D.8, 4.NBT.B.6, 3.OA.A.3"
 1495,"Question: Doug built a tent in the shape of a regular pentagon. Its perimeter is 60 feet. What is the length of each side of the tent?
 Solution: 12 (feet)
-Steps: 60/5=12",3.MD.D.8,6,[10],[14 10],[ 0 14 10], 3.OA.A.3," 4.MD.A.3, 3.OA.A.3"," 1.OA.A.1, 4.MD.A.3, 3.OA.A.3"
+Steps: 60/5=12",3.MD.D.8,6,[10],[14 10],[ 0 14 10],[20  0 14 10],[ 8 20  0 14 10], 3.OA.A.3," 4.MD.A.3, 3.OA.A.3"," 1.OA.A.1, 4.MD.A.3, 3.OA.A.3"," 5.NBT.B.6, 1.OA.A.1, 4.MD.A.3, 3.OA.A.3"," 3.NBT.A.3, 5.NBT.B.6, 1.OA.A.1, 4.MD.A.3, 3.OA.A.3"
 1459,"Question: A sofa and a love seat together costs $444. The sofa costs double the love seat. How much do they each cost?
 Solution: 148 (dollars); 296 (dollars)
-Steps: x:The cost of the sofa; y:The cost of the love seat; x+y=444; x=2y",6.EE.B.6,21,[21],[27 21],[23 27 21], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 6.NS.B.4, 8.EE.C.8, 6.EE.B.6"
+Steps: x:The cost of the sofa; y:The cost of the love seat; x+y=444; x=2y",6.EE.B.6,21,[21],[27 21],[23 27 21],[28 23 27 21],[25 28 23 27 21], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 6.NS.B.4, 8.EE.C.8, 6.EE.B.6"," K.OA.A.2, 6.NS.B.4, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, K.OA.A.2, 6.NS.B.4, 8.EE.C.8, 6.EE.B.6"
 1672,"Question: Edward had beaten 24 levels in a video game. If the ratio of levels he had beaten to not beaten was 3:1, how many levels does the game have total?
 Solution: 32 (levels)
-Steps: 3:4=24:32",6.RP.A.3,25,[25],[24 25],[ 0 24 25], 6.RP.A.3," 6.RP.A.1, 6.RP.A.3"," 1.OA.A.1, 6.RP.A.1, 6.RP.A.3"
+Steps: 3:4=24:32",6.RP.A.3,25,[25],[24 25],[ 0 24 25],[20  0 24 25],[ 4 20  0 24 25], 6.RP.A.3," 6.RP.A.1, 6.RP.A.3"," 1.OA.A.1, 6.RP.A.1, 6.RP.A.3"," 5.NBT.B.6, 1.OA.A.1, 6.RP.A.1, 6.RP.A.3"," 2.NBT.B.7, 5.NBT.B.6, 1.OA.A.1, 6.RP.A.1, 6.RP.A.3"
 1529,"Question: A square piece of glass has an area of 64 square centimeters. How long is each side?
 Solution: 8 (centimeters)
-Steps: 64^(1/2)=8",4.MD.A.3,14,[10],[14 10],[ 6 14 10], 3.OA.A.3," 4.MD.A.3, 3.OA.A.3"," 3.MD.D.8, 4.MD.A.3, 3.OA.A.3"
+Steps: 64^(1/2)=8",4.MD.A.3,14,[10],[14 10],[ 6 14 10],[20  6 14 10],[ 0 20  6 14 10], 3.OA.A.3," 4.MD.A.3, 3.OA.A.3"," 3.MD.D.8, 4.MD.A.3, 3.OA.A.3"," 5.NBT.B.6, 3.MD.D.8, 4.MD.A.3, 3.OA.A.3"," 1.OA.A.1, 5.NBT.B.6, 3.MD.D.8, 4.MD.A.3, 3.OA.A.3"
 604,"Question: Adam has $5.00 to buy an airplane that costs $4.28. How much change will he get?
 Solution: 0.72 (dollars)
-Steps: 5.00-4.28=0.72",4.MD.A.2,13,[13],[25 13],[ 4 25 13], 4.MD.A.2," 6.RP.A.3, 4.MD.A.2"," 2.NBT.B.7, 6.RP.A.3, 4.MD.A.2"
+Steps: 5.00-4.28=0.72",4.MD.A.2,13,[13],[25 13],[ 4 25 13],[17  4 25 13],[24 17  4 25 13], 4.MD.A.2," 6.RP.A.3, 4.MD.A.2"," 2.NBT.B.7, 6.RP.A.3, 4.MD.A.2"," 4.NBT.B.6, 2.NBT.B.7, 6.RP.A.3, 4.MD.A.2"," 6.RP.A.1, 4.NBT.B.6, 2.NBT.B.7, 6.RP.A.3, 4.MD.A.2"
