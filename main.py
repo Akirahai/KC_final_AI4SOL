@@ -19,7 +19,7 @@ def parse_args():
     parser.add_argument('--gpus', type=int, nargs='+', default=[0, 1, 2, 3], help='List of gpus to use')
     parser.add_argument('--gradient-accumulation-steps', type=int, default=1, help='Gradient accumulation steps')
     parser.add_argument('--eval', type=str, default='test', help='Evaluation on test or eval set')
-    parser.add_argument('--top-k', type=int, default=3, help='Top k accuracy')
+    parser.add_argument('--top-k', type=int, default=5, help='Top k accuracy')
     parser.add_argument('--experiment', type=str, default='1000_exp', help='Experiment name')
     parser.add_argument('--samples', type=int, default=100, help='Number of testing samples')
     
