@@ -2,8 +2,8 @@
 
 # Define the models and seeds
 models=(
-  "google-bert/bert-base-cased"
-  "FacebookAI/roberta-base"
+  # "google-bert/bert-base-cased"
+  # "FacebookAI/roberta-base"
   "google/flan-t5-base"
   # "FacebookAI/roberta-large"
   # "google-bert/bert-large-uncased"
