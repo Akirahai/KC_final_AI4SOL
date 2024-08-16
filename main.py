@@ -88,7 +88,7 @@ if __name__== "__main__":
         tokenizer.pad_token = tokenizer.eos_token
         model.config.pad_token_id = model.config.eos_token_id
     
-    print(f"Training the full 310 data with model {model_name}...")
+    print(f"Training the data at seed {seed} with model {model_name}...")
     
     
     # Load data
