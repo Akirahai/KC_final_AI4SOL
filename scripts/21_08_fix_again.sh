@@ -5,7 +5,7 @@ models=(
   "FacebookAI/roberta-large"
   "google-bert/bert-large-uncased"
 )
-seeds=(5 10 15 20 42)
+seeds=(5)
 
 # Loop through each model and seed
 for model in "${models[@]}"; do
