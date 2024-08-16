@@ -1,3 +1,7 @@
+// This is a shell script written in Bash. The script defines an array of models and an array of seeds.
+// It then loops through each model and seed combination and runs a Python script `main.py` with
+// specific arguments like `--use-gpu`, `--gpus`, `--phase`, `--batch-size`, `--lr`, `--epochs`,
+// `--model`, `--seed`, `--experiment`, and `--top-k`.
 # #!/bin/bash
 
 # # Define the models and seeds
