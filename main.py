@@ -155,6 +155,8 @@ if __name__== "__main__":
     if args.phase == 'train':
         trainer.train()
         
+        trained_epochs = int(trainer.state.epoch)
+        
         # Save the trained model with timestamp prefix
         model_output_dir = os.path.join(args.path, experiment, f"seed_{seed}" ,model_name)
         os.makedirs(model_output_dir, exist_ok=True)
@@ -178,7 +180,7 @@ if __name__== "__main__":
 
         plt.xlabel("Epochs")
         plt.ylabel("Loss")
-        plt.title(f"Training and Validation Losses of {args.model} through {args.epochs} epochs with seed {seed}")
+        plt.title(f"Training and Validation Losses of {args.model} through {trained_epochs} epochs with seed {seed}")
         plt.legend(loc="upper right")
         plt.grid(True)
         plt.tight_layout()
