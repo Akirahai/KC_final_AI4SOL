@@ -9,7 +9,7 @@ models=(
   # "FacebookAI/roberta-large"
 )
 seeds=(42 84 168)
-gpus = (1 2 1)
+gpus=(1 2 1)
 
 for model in "${models[@]}"; do
   # Loop through each seed and corresponding GPU
