@@ -119,10 +119,13 @@ if __name__== "__main__":
     print_token_lengths(tokenized_dataset_valid, "Eval dataset")
     
     print_token_lengths(tokenized_dataset_test, "Test dataset")
-
+    
+    
+    model_output_dir = os.path.join(args.path, experiment, f"seed_{seed}" ,model_name)
+    os.makedirs(model_output_dir, exist_ok=True)
     # Training setup
     training_args = TrainingArguments(
-    output_dir = args.path,
+    output_dir = model_output_dir,
     learning_rate = args.lr,
     per_device_train_batch_size=args.batch_size,
     per_device_eval_batch_size=args.batch_size,
@@ -130,7 +133,6 @@ if __name__== "__main__":
     weight_decay=0.01,
     fp16 = not torch.cuda.is_bf16_supported(),
     bf16 = torch.cuda.is_bf16_supported(),
-    optim="paged_adamw_32bit",
     lr_scheduler_type="linear",
     logging_strategy="epoch",
     evaluation_strategy="epoch",
@@ -149,7 +151,7 @@ if __name__== "__main__":
         tokenizer=tokenizer,
         data_collator=data_collator,
         compute_metrics=compute_metrics,
-        callbacks=[EarlyStoppingCallback(early_stopping_patience=30)],
+        callbacks=[EarlyStoppingCallback(early_stopping_patience=6)],
     )
     
     if args.phase == 'train':
@@ -157,9 +159,9 @@ if __name__== "__main__":
         
         trained_epochs = int(trainer.state.epoch)
         
-        # Save the trained model with timestamp prefix
-        model_output_dir = os.path.join(args.path, experiment, f"seed_{seed}" ,model_name)
-        os.makedirs(model_output_dir, exist_ok=True)
+        # # Save the trained model with timestamp prefix
+        # model_output_dir = os.path.join(args.path, experiment, f"seed_{seed}" ,model_name)
+        # os.makedirs(model_output_dir, exist_ok=True)
         
         trainer.save_model(model_output_dir)
         
