@@ -201,19 +201,14 @@ if __name__== "__main__":
         
         pass
     
-    id_to_kc = {0: '1.OA.A.1', 1: '1.OA.A.2', 2: '2.NBT.B.5', 3: '2.NBT.B.6', 4: '2.NBT.B.7', 5: '2.OA.A.1', 6: '3.MD.D.8', 
-                7: '3.NBT.A.2', 8: '3.NBT.A.3', 9: '3.NF.A.3', 10: '3.OA.A.3', 11: '3.OA.D.8', 12: '3.OA.D.9', 13: '4.MD.A.2', 
-                14: '4.MD.A.3', 15: '4.NBT.B.4', 16: '4.NBT.B.5', 17: '4.NBT.B.6', 18: '4.OA.A.3', 19: '5.NBT.B.5', 20: '5.NBT.B.6', 
-                21: '6.EE.B.6', 22: '6.EE.C.9', 23: '6.NS.B.4', 24: '6.RP.A.1', 25: '6.RP.A.3', 26: '6.SP.B.5', 27: '8.EE.C.8', 28: 'K.OA.A.2'}
-    
     # Predictions Evaluation on Test set
     model.eval()    
     
 
     
-    df_test_predictions = predictions_output(df_test, tokenized_dataset_test, trainer)
-    df_train_predictions = predictions_output(df_train, tokenized_dataset_train, trainer)
-    df_valid_predictions = predictions_output(df_valid, tokenized_dataset_valid, trainer)
+    df_test_predictions = predictions_output(df_test, tokenized_dataset_test, trainer, args.top_k)
+    df_train_predictions = predictions_output(df_train, tokenized_dataset_train, trainer,args.top_k )
+    df_valid_predictions = predictions_output(df_valid, tokenized_dataset_valid, trainer, args.top_k)
     
     model_name = model_name.split('/')[-1]
     
