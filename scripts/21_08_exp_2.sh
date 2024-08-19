@@ -9,12 +9,15 @@ models=(
   # "FacebookAI/roberta-large"
 )
 seeds=(12 24 42 84 168)
+gpus = (0 1 2 3 0)
 
-# Loop through each model and seed
 for model in "${models[@]}"; do
-  for seed in "${seeds[@]}"; do
-    python main.py --use-gpu --gpus 1 --phase train --batch-size 16 --lr 0.00001 --epochs 70 --model $model --seed $seed --experiment 21_08_deliver_ver_6
-    sleep 300  # 600 seconds = 10 minutes
+  # Loop through each seed and corresponding GPU
+  for i in "${!seeds[@]}"; do
+    seed=${seeds[i]}
+    gpu=${gpus[i]}
+    
+    python main.py --use-gpu --gpus $gpu --phase train --batch-size 16 --lr 0.00001 --epochs 70 --model $model --seed $seed --experiment 21_08_deliver_ver_6
 
   done
 done
