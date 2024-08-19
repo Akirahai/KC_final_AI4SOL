@@ -8,7 +8,7 @@ models=(
   "google-bert/bert-large-cased"
   # "FacebookAI/roberta-large"
 )
-seeds=(12 24 42 84 168)
+seeds=(42 84 168)
 gpus = (0 1 2 3 0)
 
 for model in "${models[@]}"; do
