@@ -209,24 +209,11 @@ if __name__== "__main__":
     # Predictions Evaluation on Test set
     model.eval()    
     
-    def predictions_output(df, tokenized_dataset):
-        preds = trainer.predict(tokenized_dataset).predictions
-        df_predictions = df.copy()
-        if isinstance(preds, tuple):
-            preds = preds[0]
-        for k in range(1, args.top_k + 1):
-            top_k_preds = np.argsort(preds, axis=1)[:, -k:]
-            df_predictions[f'top_{k}_preds'] = list(top_k_preds)
-        def map_ids_to_labels(pred_ids):
-            return ','.join([ ' '+id_to_kc[i] for i in pred_ids])
-        for k in range(1, args.top_k + 1):
-            df_predictions[f'Top_{k}_labels'] = df_predictions[f'top_{k}_preds'].apply(map_ids_to_labels)
-        
-        return df_predictions
+
     
-    df_test_predictions = predictions_output(df_test, tokenized_dataset_test)
-    df_train_predictions = predictions_output(df_train, tokenized_dataset_train)
-    df_valid_predictions = predictions_output(df_valid, tokenized_dataset_valid)
+    df_test_predictions = predictions_output(df_test, tokenized_dataset_test, trainer)
+    df_train_predictions = predictions_output(df_train, tokenized_dataset_train, trainer)
+    df_valid_predictions = predictions_output(df_valid, tokenized_dataset_valid, trainer)
     
     model_name = model_name.split('/')[-1]
     

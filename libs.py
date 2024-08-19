@@ -21,7 +21,7 @@ from transformers import EarlyStoppingCallback
 import evaluate
 import os
 from tqdm import tqdm
-
+import random
 
 accuracy = evaluate.load("accuracy")
 
@@ -38,6 +38,15 @@ import numpy as np
 #     predictions = np.argmax(predictions, axis=1)
 #     return accuracy.compute(predictions=predictions, references=labels) 
 
+def seed_everything(args):
+    random.seed(args.seed)
+    np.random.seed(0)
+    torch.manual_seed(args.seed)
+    torch.cuda.manual_seed(args.seed)
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = True
+    
+    
 def compute_metrics(eval_pred):
     predictions, labels = eval_pred
     
@@ -86,3 +95,17 @@ def preprocess_function(examples, tokenizer, max_length=512):
 #     def on_log(self, args, state, control, logs=None, **kwargs):
 #         if logs is not None:
 #             print(f"Logs: {logs}")  # Print the logs to see what they contain
+def predictions_output(df, tokenized_dataset, trainer):
+    preds = trainer.predict(tokenized_dataset).predictions
+    df_predictions = df.copy()
+    if isinstance(preds, tuple):
+        preds = preds[0]
+    for k in range(1, args.top_k + 1):
+        top_k_preds = np.argsort(preds, axis=1)[:, -k:]
+        df_predictions[f'top_{k}_preds'] = list(top_k_preds)
+    def map_ids_to_labels(pred_ids):
+        return ','.join([ ' '+id_to_kc[i] for i in pred_ids])
+    for k in range(1, args.top_k + 1):
+        df_predictions[f'Top_{k}_labels'] = df_predictions[f'top_{k}_preds'].apply(map_ids_to_labels)
+    
+    return df_predictions
