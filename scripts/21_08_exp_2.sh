@@ -4,12 +4,11 @@
 models=(
   # "google-bert/bert-base-cased"
   # "FacebookAI/roberta-base"
-  "google/flan-t5-base"
-  # "google-bert/bert-large-cased"
-  # "FacebookAI/roberta-large"
+  # "google/flan-t5-base"
+  "google-bert/bert-large-cased"
+  "FacebookAI/roberta-large"
 )
-# seeds=(12 24 42 84 168)
-seeds=(84 168)
+seeds=(12 24 42 84 168)
 
 # Loop through each model and seed
 for model in "${models[@]}"; do
