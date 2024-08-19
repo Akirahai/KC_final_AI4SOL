@@ -131,6 +131,7 @@ if __name__== "__main__":
     per_device_eval_batch_size=args.batch_size,
     num_train_epochs=args.epochs,
     weight_decay=0.01,
+    optim = 'adamw_hf',
     fp16 = not torch.cuda.is_bf16_supported(),
     bf16 = torch.cuda.is_bf16_supported(),
     lr_scheduler_type="linear",
