@@ -121,7 +121,13 @@ if __name__== "__main__":
     print_token_lengths(tokenized_dataset_test, "Test dataset")
     
     
-    model_output_dir = os.path.join(args.path, experiment, f"seed_{seed}" ,model_name)
+    # Change the model name when you continue training with model from result folder
+    if model_name.startswith('result'):
+        model_name_new = "/".join(model_name.split('/')[-2:])
+        model_output_dir = os.path.join(args.path, experiment, f"seed_{seed}" ,model_name_new)
+    else:
+        model_output_dir = os.path.join(args.path, experiment, f"seed_{seed}" ,model_name)
+    
     os.makedirs(model_output_dir, exist_ok=True)
     # Training setup
     training_args = TrainingArguments(
@@ -189,7 +195,12 @@ if __name__== "__main__":
         plt.tight_layout()
 
         # Save the plot as an image
-        plot_output_dir = os.path.join('Loss_plot', experiment, f"seed_{seed}" , model_name)
+        # Change the model name when you continue training with model from result folder
+        if model_name.startswith('result'):
+            model_name_new = "/".join(model_name.split('/')[-2:])
+            plot_output_dir = os.path.join('Loss_plot', experiment, f"seed_{seed}" ,'Training_from_saved_model',model_name_new) 
+        else:
+            plot_output_dir = os.path.join('Loss_plot', experiment, f"seed_{seed}" , model_name)
         os.makedirs(plot_output_dir, exist_ok=True)
         
         plot_save_path = os.path.join(plot_output_dir, 'loss_plot.png')
