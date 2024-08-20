@@ -22,6 +22,7 @@ def parse_args():
     parser.add_argument('--top-k', type=int, default=5, help='Top k accuracy')
     parser.add_argument('--experiment', type=str, default='1000_exp', help='Experiment name')
     parser.add_argument('--samples', type=int, default=100, help='Number of testing samples')
+    parser.add_argument('--additional-training',type=str, default='Training_from_saved_model_first', help='Train on saved model')
     
     return parser.parse_args()
     
@@ -45,7 +46,6 @@ if __name__== "__main__":
     print(f"Using GPU: {GPU_list}")
 
     from libs import *
-    args.best_metric = 0
     
     if args.use_gpu and torch.cuda.is_available(): 
         device = torch.device(f'cuda')  # Change to your suitable GPU device
@@ -198,7 +198,7 @@ if __name__== "__main__":
         # Change the model name when you continue training with model from result folder
         if model_name.startswith('result'):
             model_name_new = "/".join(model_name.split('/')[-2:])
-            plot_output_dir = os.path.join('Loss_plot', experiment, f"seed_{seed}" ,'Training_from_saved_model',model_name_new) 
+            plot_output_dir = os.path.join('Loss_plot', experiment, f"seed_{seed}" , args.additional_training,model_name_new) 
         else:
             plot_output_dir = os.path.join('Loss_plot', experiment, f"seed_{seed}" , model_name)
         os.makedirs(plot_output_dir, exist_ok=True)

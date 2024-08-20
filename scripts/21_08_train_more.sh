@@ -17,7 +17,7 @@ for model in "${models[@]}"; do
     seed=${seeds[i]}
     gpu=${gpus[i]}
 
-    python main.py --use-gpu --gpus $gpu --phase train --batch-size 16 --lr 0.00001 --epochs 70 --model "result/21_08_deliver_ver_6/seed_$seed/$model" --seed $seed --experiment 21_08_deliver_ver_6
+    python main.py --use-gpu --gpus $gpu --phase train --batch-size 16 --lr 0.00001 --epochs 70 --model "result/21_08_deliver_ver_6/seed_$seed/$model" --seed $seed --experiment 21_08_deliver_ver_6 --additional-training Train_from_saved_model_first
 
     find "./result/21_08_deliver_ver_6/seed_$seed/$model" -type d -name "checkpoint-*" -exec rm -r {} +
   done
