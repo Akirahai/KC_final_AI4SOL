@@ -17,7 +17,7 @@ for model in "${models[@]}"; do
     gpu=${gpus[i]}
 
     python main.py --use-gpu --gpus $gpu --phase train --batch-size 16 --lr 0.00001 --epochs 70 --model $model --seed $seed --experiment 21_08_deliver_ver_6
-    find 21_08_deliver_ver_6 -type d -name "checkpoint-*" -exec rm -r {} +
+    find "./result/21_08_deliver_ver_6/seed_$seed/$model" -type d -name "checkpoint-*" -exec rm -r {} +
     
   done
 done
