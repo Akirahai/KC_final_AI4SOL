@@ -1,0 +1,832 @@
+Question_ID,Question,KC,label
+C,"Question: At the fair Kaleb bought 6 tickets. After riding the ferris wheel he had 3 tickets left. If each ticket cost 9 dollars, how much money did Kaleb spend riding the ferris wheel?
+Solution: (6-3)*9=27
+Steps: (6-3)*9=27",3.OA.A.3,18
+G,"Question: A P.E. teacher needs to divide 14 male students and 7 female students into teams, each with the same combination of male students and female students and nobody left out. What is the greatest number of teams that can be formed?
+Solution: GCD(14,7)=7
+Steps: GCD(14,7)=7",6.NS.B.4,38
+2166,"Question: For Halloween Faye scored 47 pieces of candy. She ate 25 pieces the first night and then her sister gave her 40 more pieces. How many pieces of candy does Faye have now?
+Solution: 62 (pieces of candy)
+Steps: 47-25+40=62",2.OA.A.1,9
+1746,"Question: Dave was making ice using ice trays. He originally had two ice cubes. But made seven more cubes. How many ice cubes did he have totaled?
+Solution: 9 (ice cubes)
+Steps: 2+7=9",K.OA.A.2,49
+213,"Question: The friends then proceeded to the rest of the houses in their village. However, Sam had to go home earlier. She got her share of candies which are composed of 10 chewing gums, 15 chocolate bars, and 20 assorted fruit candies. How many candies did she get in total?
+Solution: 45 (candies)
+Steps: 10+15+20=45",2.OA.A.1,9
+1104,"Question: Cora sliced 18 kg of green apples for a party. She divided the apple slices equally between 5 large bowls. How many grams of apple slices did Cora put in each bowl?
+Solution: 3600 (grams of apple)
+Steps: (18 (kg) *1000 (g/kg))/5 = 3600 (g)",4.MD.A.2,21
+1742,"Question: An architect built a house with ten bedrooms total. If the second floor had two bedrooms. How many bedrooms does the first floor have?
+Solution: 8 (bedrooms)
+Steps: 10-2=8",K.OA.A.2,49
+1617,"Question: A rectangle flower bed had a total area of 35 square yards. If it was 5 yards wide, how long was it?
+Solution: 7 (yards)
+Steps: 35/5=7",3.OA.A.3,18
+237,"Question: Mr. Fortree, a businessman also gave seedlings for the tree planting activity. If he gave 14 seedlings of cedar and 38 seedlings of pine, how many seedlings did he give in total?
+Solution: 52 (seedlings)
+Steps: 14+38=52",2.OA.A.1,9
+803,"Question: Mr. Lee wants to load 134 tons of his fruits. A large truck can load 15 tons of fruits and small truck can load 7 tons. In order to use the least number of trucks and have every truck fully occupied, how many small trucks should be used?
+Solution: 2 (small trucks)
+Steps: 134/15=8 r14; 14/7=2",5.NBT.B.6,33
+803,"Question: Mr. Lee wants to load 134 tons of his fruits. A large truck can load 15 tons of fruits and small truck can load 7 tons. In order to use the least number of trucks and have every truck fully occupied, how many small trucks should be used?
+Solution: 2 (small trucks)
+Steps: 134/15=8 r14; 14/7=2",3.OA.A.3,18
+1501,"Question: A rectangle has an area of 360 square centimeters. It is 20 centimeters long. What is its perimeter?
+Solution: 76 (centimeters)
+Steps: (360/20)*2+20*2=76",5.NBT.B.6,33
+1823,"Question: Adam was reading through his favorite book series. The first week he read 5 different books. The next week he read 8 books. How many books did he read total?
+Solution: 13 (books)
+Steps: 5+8=13",2.OA.A.1,9
+1690,"Question: A restaurant offers diet soda and regular soda. In one day they sold 64 sodas. If 28 of the sodas they sold were diet, what is the ratio of regular sodas sold to diet sodas sold?
+Solution: 0.3798611111111111
+Steps: 64-28=36; 36:28=9:7",1.OA.A.1,1
+2271,"Question: If Lillian split 20 Skittles between 8 people in her class and kept the left overs, how many Skittles did each classmate get?
+Solution: 2 (Skittles)
+Steps: 20/8=2 r4",4.NBT.B.6,26
+1247,"Question: Sweettarts come in packages of 7. Stephen ate 64 Sweettarts. How many Sweettarts does he have left?
+Solution: 1 (Sweettart)
+Steps: 64/7=9 r1",4.NBT.B.6,26
+2294,"Question: Rebecca wants to split a collection of eggs into groups of 2. Rebecca has 16 eggs and 3 marbles. How many groups will be created?
+Solution: 8 (groups)
+Steps: 16/2=8",3.OA.A.3,18
+1031,"Question: 35 campers went rowing in the morning. 27 campers went rowing in the afternoon. How many campers went rowing in all?
+Solution: 62 (campers)
+Steps: 35+27=62",2.OA.A.1,9
+2090,"Question: Two bicycle enthusiasts are leaving Cincinnati at the same time. One is biking 840 miles to Boston. The other is biking 440 miles to Atlanta. What is the greatest number of miles a day each can bike if they want to cover equal distances each day?
+Solution: 40 (miles)
+Steps: GCD(840,440)=40",6.NS.B.4,38
+2301,"Question: There are 3300 bananas in Janice's banana collection. Janice also has 5 crayons. If the bananas are organized into 75 groups, how big is each group?
+Solution: 44 (bananas)
+Steps: 3300/75=44",5.NBT.B.6,33
+16,"Question: Some oranges were in the basket. Five oranges were taken from the basket. Now there are three oranges. How many oranges were in the basket before some of the oranges were taken?
+Solution: 8 (oranges)
+Steps: 5+3=8",K.OA.A.2,49
+1822,"Question: A vase can hold 5 flowers. If you had 25 flowers, how many vases would you need?
+Solution: 5 (vases)
+Steps: 25/5=5",3.OA.A.3,18
+697,"Question: There are some passengers on a bus. At a bus stop, 7 more passengers got on the bus and 9 passengers got off. If there are 26 passengers in the bus in the end, how many passengers were there at first?
+Solution: 28 (passengers)
+Steps: 26+9-7=28",2.OA.A.1,9
+298,"Question: Her friends are coming over the next day so she also bought some refreshments. If she has $50.00 left from the money she had after buying cookies, and she has $69.00 before, how much did she spend on juice?
+Solution: 19 (dollars)
+Steps: 69-50=19",2.OA.A.1,9
+405,"Question: After counting all her money, she went to her mom and had all her savings exchanged into whole $100 bills. After the exchange, she has 8 pieces of $100 bills. How much was total amount of Michelle's savings?
+Solution: 800 (dollars)
+Steps: 8*100=800",4.NBT.B.5,25
+1227,"Question: Packages of cheddar cheese come with 12 slices, while packages of Swiss cheese come with 28 slices. If Randy bought the same number of slices of each type of cheese, what is the smallest number of slices of each type that Randy could have bought?
+Solution: 84 (slices)
+Steps: LCM[12,28]=84",6.NS.B.4,38
+772,"Question: The capacity of a tank is 32 gallons. If a company bought 728 gallons of oil, how many tanks are needed to hold all the oil?
+Solution: 23 (tanks)
+Steps: 728/32=22 r24",5.NBT.B.6,33
+873,"Question: I want to plant 45 sunflower plants, 81 corn plants and 63 tomato plants in my garden. If I put the same number of plants in each row and each row has only one type of plant, what is the greatest number of plants I can put in one row?
+Solution: 9 (plants)
+Steps: GCD(45,81,63)=9",6.NS.B.4,38
+326,"Question: Charlie, an aspiring inventor, is planning to make some wings to fulfill his dream to fly around the world. He started by collecting feathers. He needs 900 feathers and he already has 387. How many more feathers does he need to collect?
+Solution: 513 (feathers)
+Steps: 900-387=513",2.NBT.B.7,8
+1420,"Question: Seven times a two digit is equal to four times the number obtained by reversing the order of digits and the sum of the digits is 3. Find the number.
+Solution: 12
+Steps: x:The number of the tens digital; y:The number of the unit digital; 7(10x+y)=4(10y+x); x+y=3",8.EE.C.8,47
+1786,"Question: For Bianca's birthday 5 of her friends gave her 6 dollars. How much money did she get for her birthday?
+Solution: 30 (dollars)
+Steps: 5*6=30",3.OA.A.3,18
+581,"Question: The Razorback T-shirt Shop ordered 12 cases of t-shirts. If each case contains 24 t-shirts, how many t-shirts did they order?
+Solution: 288 (t-shirts)
+Steps: 12*24=288",4.NBT.B.5,25
+2208,"Question: At Billy's Restaurant a group with two adults and five children came in to eat. If each meal cost three dollars, how much was the bill?
+Solution: 21 (dollars)
+Steps: (2+5)*3=21",3.OA.D.8,19
+2165,"Question: Oliver collected two seashells from the beach on Monday and two more on Tuesday. How many seashells did Oliver collect all together?
+Solution: 4 (seashells)
+Steps: 2+2=4",K.OA.A.2,49
+2199,"Question: A vase can hold nine flowers. If you had four carnations and twenty-three roses, how many vases would you need to hold the flowers?
+Solution: 3 (vases)
+Steps: (4+23)/9=3",3.OA.D.8,19
+865,"Question: The distance travelled by Ben and Tim is in the ratio 3:4. The distance travelled by Ben is 18 miles. Find the distance travelled by Tim.
+Solution: 24 (miles)
+Steps: 3:4=18:24",6.RP.A.3,40
+1210,"Question: For a dinner party, Abraham is creating individual servings of starters. He has 9 carrot sticks and 18 celery sticks. If he wants each serving to be identical, with no food left over, what is the greatest number of servings Abraham can create?
+Solution: 9 (servings)
+Steps: GCD(9,18)=9",6.NS.B.4,38
+1240,"Question: An art museum had 15 pictures to split equally into 2 different exhibits. How many more pictures would they need to make sure each exhibit had the same amount?
+Solution: 1 (picture)
+Steps: 15/2=7 r1; 2-1=1",4.NBT.B.6,26
+1240,"Question: An art museum had 15 pictures to split equally into 2 different exhibits. How many more pictures would they need to make sure each exhibit had the same amount?
+Solution: 1 (picture)
+Steps: 15/2=7 r1; 2-1=1",K.OA.A.2,49
+970,"Question: Rita is buying flower bulbs for her garden. She wants to buy the same number of tulips and daffodils. If tulip bulbs come in packs of 15 and daffodil bulbs come in packs of 16, what is the least number of each type of bulb Rita will need to buy?
+Solution: 240 (bulbs)
+Steps: LCM[15,16]=240",6.NS.B.4,38
+1953,"Question: Jerry was weighing boxes for moving. The first was 2 pounds, the second was 11 pounds and the last was 5 pounds. What is the combined weight of all three boxes?
+Solution: 18 (pounds)
+Steps: 2+11+5=18",1.OA.A.2,2
+1371,"Question: After paying 6 dollars for the pie, Sandy has 57 dollars left. How much money did she have before buying the pie ?
+Solution: 63 (dollars)
+Steps: 6+57=63",2.OA.A.1,9
+1404,"Question: The present age of Jacob's father is three times that of Jacob. After 5 years, sum of their ages would be 70 years. Find their present ages.
+Solution: 45 (years old); 15 (years old)
+Steps: F:Present age of Jacob's father; J:Jacob's present age; F=J*3; (F+5)+(J+5)=70",8.EE.C.8,47
+1505,"Question: Kevin can mow a square lawn that is 30 meters of each side in 45 minutes. If he works at the same rate, how many minutes will it take Kevin to mow a square lawn that measures 60 meters on each side?
+Solution: 180 (minutes)
+Steps: 4*45=180",4.MD.A.2,21
+1505,"Question: Kevin can mow a square lawn that is 30 meters of each side in 45 minutes. If he works at the same rate, how many minutes will it take Kevin to mow a square lawn that measures 60 meters on each side?
+Solution: 180 (minutes)
+Steps: 4*45=180",6.RP.A.3,40
+2006,"Question: For the school bake sale Amy made pastries. She baked 15 cupcakes and 48 cookies. After the sale she had 12 to take back home. How many pastries did she sell?
+Solution: 51 (pastries)
+Steps: 15+48-12=51",2.OA.A.1,9
+2227,"Question: Nancy had forty-three files on her computer. She deleted thirty-one of them and put the rest into folders with six files in each one. How many folders did Nancy end up with?
+Solution: 2 (folders)
+Steps: (43-31)/6=2",3.OA.D.8,19
+1384,"Question: On Monday, three hundred ninety-six students went on a trip to the zoo. All seven buses were filled and four students had to travel in cars. How many students were in each bus ?
+Solution: 56 (students)
+Steps: x:The number of students in each bus; 7x+4=396",6.EE.B.6,35
+1695,"Question: A book store was selling 2 books for $15.86. Online the you could buy 7 books for $55.93. Which place has a lower unit price?
+Solution: Book store
+Steps: 15.86/2=7.93(Book store) < 55.93/7=7.99(Online)",4.MD.A.2,21
+913,"Question: Evan delivers packages in a building. He started on the first floor and went up 7 floors. He went down 3 floors and then up 16 floors. Then he was only 2 floors away from the top of the building. How many floors are in the building altogether?
+Solution: 23 (floors)
+Steps: 1+7-3+16+2=23",2.NBT.B.5,6
+2045,"Question: There are 72 boys and 90 girls on the math team. For the next math competition, Mr. Johnson would like to arrange all of the students in equal rows with only girls or only boys in each row. What is the greatest number of students that can be in each row?
+Solution: 18 (students)
+Steps: GCD(72,90)=18",6.NS.B.4,38
+206,"Question: Annie is about to celebrate her birthday next week so her friends decided to throw her a surprise birthday party. Jessica, Annie's best friend, is hosting the party. She plans on making pizza for everyone. If she bought 15 pieces of pepperoni, 10 pieces of salami and 30 pieces of bacon as meat ingredients, how many pieces of meat did she buy in total?
+Solution: 55 (pieces)
+Steps: 15+10+30=55",2.OA.A.1,9
+1416,"Question: I am three times as old as my son. Five years later, I shall be two and a half times as old as my son. How old am I and how old is my son?
+Solution: 45 (years old); 15 (years old)
+Steps: x:My age; y:The age of my son; x=3y; x+5=2.5(y+5)",8.EE.C.8,47
+610,"Question: The town of Milburg has 5,256 grown-ups and 2,987 children. How many people live in Milburg?
+Solution: 8243 (people)
+Steps: 5256+2987=8243",4.NBT.B.4,24
+1549,"Question: Megan had five hundred sixteen pennies. She wanted to place the pennies into nine stacks, with the same amount in each stack. How many more pennies would she need so all the stacks would be equal?
+Solution: 6 (pennies)
+Steps: 516/9=57 r3; 9-3=6",4.NBT.B.6,26
+1549,"Question: Megan had five hundred sixteen pennies. She wanted to place the pennies into nine stacks, with the same amount in each stack. How many more pennies would she need so all the stacks would be equal?
+Solution: 6 (pennies)
+Steps: 516/9=57 r3; 9-3=6",K.OA.A.2,49
+404,"Question: Michelle also noticed that she was able to save a few $50 dollar bills. If she has a total of 7 pieces of $50 dollar bills, what is the total value of all her $50 bills combined?
+Solution: 350 (dollars)
+Steps: 50*7=350",3.NBT.A.3,14
+555,"Question: I see 349 frogs. How many legs do they have?
+Solution: 1396 (legs)
+Steps: 349*4=1396",4.NBT.B.5,25
+2133,"Question: Debby received twenty-one text messages before noon and another eighteen after noon. How many text messages did Debby receive total?
+Solution: 39 (text messages)
+Steps: 21+18=39",2.OA.A.1,9
+1055,"Question: Last year, Jared used 8 bottles of shampoo and 10 bottles of conditioner. His sister, Cora, used 4 bottles of shampoo and 5 bottles of conditioner. Who used a higher ratio of shampoo to conditioner last year?
+Solution: They are equal
+Steps: 8/10=0.8(Jared) equals 4/5=0.8(Cora)",6.RP.A.3,40
+64,"Question: Gino has 63 popsicle sticks. I have 50 popsicle sticks. What is the sum of our popsicle sticks?
+Solution: 113 (popsicle sticks)
+Steps: 63+50=113",2.NBT.B.7,8
+1942,"Question: At the zoo a cage had sixty-eight snakes. If forty-two were hiding, how many snakes were not hiding?
+Solution: 26 (snakes)
+Steps: 68-42=26",2.OA.A.1,9
+1588,"Question: There are 270 seats in a movie theater. If the movie theater has 9 sections with the same number of seats in each section, how many seats are in each section?
+Solution: 30 (seats)
+Steps: 270/9=30",4.NBT.B.6,26
+548,"Question: There are 261 fishbowls. Each fishbowl has 23 fish. How many fish are there?
+Solution: 6003 (fish)
+Steps: 261*23=6003",5.NBT.B.5,32
+501,"Question: Susie's father repaired the bookshelves in the reading room. If he has 210 books to be distributed equally on the 10 shelves he repaired, how many books will each shelf contain?
+Solution: 21 (books)
+Steps: 210/10=21",5.NBT.B.6,33
+387,"Question: If each bus have nine rows of seats and each row of seats can accommodate 4 children, how many children can each bus accommodate?
+Solution: 36 (children)
+Steps: 9*4=36",3.OA.A.3,18
+525,"Question: Beth has 106 crayons. She gives 54 of them away to Jen. How many crayons does Beth have left?
+Solution: 52 (crayons)
+Steps: 106-54=52",2.NBT.B.7,8
+434,"Question: If books came from all the 4 continents that Bryan had been into and he collected 122 books per continent, how many books does he have from all 4 continents combined?
+Solution: 488 (books)
+Steps: 4*122=488",4.NBT.B.5,25
+2189,"Question: The school's baseball team had two new players and twenty-two returning players. If the coach put them into groups with three players in each group, how many groups would there be?
+Solution: 8 (groups)
+Steps: (2+22)/3=8",3.OA.D.8,19
+979,"Question: Heather enjoys bird-watching and observed two types of birds traveling this season: ducks and seagulls. While the ducks traveled in flocks of 18, the seagulls traveled in flocks of 10. If Heather observed the same total number of ducks and seagulls, what is the smallest number of ducks that she could have observed?
+Solution: 90 (ducks)
+Steps: LCM[18,10]=90",6.NS.B.4,38
+106,"Question: The elephant had 407 peanuts. She ate 129 of them. How many peanuts did the elephant have left?
+Solution: 278 (peanuts)
+Steps: 407-129=278",2.NBT.B.7,8
+2195,"Question: Haley's old washing machine could only wash seven pieces of clothing at a time. If she had to wash two shirts and thirty-three sweaters, how many loads would she have to do?
+Solution: 5 (loads)
+Steps: (2+33)/7=5",3.OA.D.8,19
+1015,"Question: Liz and Jenn had a book sale. They sold 27 detective books and 15 puzzle books. How many books did they sell altogether?
+Solution: 42 (books)
+Steps: 27+15=42",2.OA.A.1,9
+650,"Question: Bert runs 2 miles every day. How many miles will Bert run in 3 weeks?
+Solution: 42 (miles)
+Steps: (3*7)*2=42",4.MD.A.2,21
+650,"Question: Bert runs 2 miles every day. How many miles will Bert run in 3 weeks?
+Solution: 42 (miles)
+Steps: (3*7)*2=42",3.OA.A.3,18
+777,"Question: Tom had $19 and he wanted to buy as many folders as he could. If one folder costs $2, how much is left after he bought the folders?
+Solution: 1 (dollars)
+Steps: 19/2=9 r1",4.NBT.B.6,26
+1952,"Question: Paige had 2 pencils in her desk, 2 in her backpack and 15 at home. How many pencils does Paige have?
+Solution: 19 (pencils)
+Steps: 2+2+15=19",1.OA.A.2,2
+1567,"Question: A new video game console needs five computer chips. If a machine can create four hundred sixty-seven computer chips a day, how many video game consoles can be created in a day?
+Solution: 93 (video game consoles)
+Steps: 467/5=93 r2",4.NBT.B.6,26
+1930,"Question: Will was picking up sticks from his yard. He picked up thirty-eight but there were still sixty-one left. How many sticks were originally in the yard?
+Solution: 99 (sticks)
+Steps: 38+61=99",2.OA.A.1,9
+968,"Question: There are 28 students in Mrs. Riley's class but she only has 19 pencils. How many more pencils does Mrs. Riley need?
+Solution: 9 (pencils)
+Steps: 28-19=9",2.OA.A.1,9
+806,"Question: A tourist group has 26 people. At a hotel, they want to rent some large rooms for 3 people each and some small rooms for 2 each. In order to rent the least number of rooms and have every room fully occupied, how many large rooms should be rented?
+Solution: 8 (large rooms)
+Steps: 26/3=8 r2",4.NBT.B.6,26
+3,"Question: Janet has nine oranges and Sharon has seven oranges. How many oranges do Janet and Sharon have together?
+Solution: 16 (oranges)
+Steps: 9+7=16",1.OA.A.1,1
+969,"Question: A committee organizing a marathon has 16 jugs of water and 12 jugs of sports drink. The committee would like to set up a number of refreshment stations along the marathon course, with the same combination of jugs of water and jugs of sports drink at each station, with no beverages left over. What is the greatest number of refreshment stations that can be set up?
+Solution: 4 (refreshment stations)
+Steps: GCD(16,12)=4",6.NS.B.4,38
+955,"Question: Diane wants to buy a package of cookies. The cookies cost 65 cents. Diane has 27 cents. How much more money does she need?
+Solution: 38 (cents)
+Steps: 65-27=38",2.OA.A.1,9
+2048,"Question: Two of the lights at the local stadium are flickering. They both just flickered at the same time. One of the lights flickers every 7 seconds and the other light flickers every 8 seconds. How many seconds until both lights will flicker at the same time again?
+Solution: 56 (seconds)
+Steps: LCM[7,8]=56",6.NS.B.4,38
+1353,"Question: Kim wants to buy a new watch that costs $87.60. How much change does she receive if she gives the cashier $100?
+Solution: 12.4 (dollars)
+Steps: 100-87.6=12.4",4.MD.A.2,21
+1807,"Question: Tiffany was buying hand towels for her house. She bought 9 packs with each pack having 3 towels in it. How many towels did she buy?
+Solution: 27 (towels)
+Steps: 9*3=27",3.OA.A.3,18
+1272,"Question: Oliver was weighing boxes for moving. The first was 2 pounds, the second was 3 pounds and the last was 13 pounds. What's the difference between the weight of the first box and the third box?
+Solution: 11 (pounds)
+Steps: 13-2=11",1.OA.A.1,1
+1951,"Question: At the fair Rachel spent 2 dollars on rides, 8 dollars on games and 2 dollars on food. How much money did she spend total?
+Solution: 12 (dollars)
+Steps: 2+8+2=12",1.OA.A.2,2
+607,"Question: Mr. Guzman bought 48 doughnuts packed equally into 4 boxes. How many doughnuts were in each box?
+Solution: 12 (doughnuts)
+Steps: 48/4=12",3.OA.A.3,18
+1427,"Question: A boat goes 30 km upstream and 44 km downstream in 10 hours. In 13 hours, it can go 40 km upstream and 55 km downstream. Determine the speed of the stream and that of boat in still water.
+Solution: 8 (km/hour); 3 (km/hour)
+Steps: x:Speed of boat in still water; y:Speed of stream; 30/(x-y)+44/(x+y)=10; 40/(x-y)+55/(x+y)=13",8.EE.C.8,47
+964,"Question: Belle collected 97 animal stickers. Carolyn collected 18 fewer stickers than Belle. How many stickers did Carolyn collect?
+Solution: 79 (stickers)
+Steps: 97-18=79",2.OA.A.1,9
+1875,"Question: Rachel took two dollars from her piggy bank. Now she has three dollars in her piggy bank. How much money was originally in there?
+Solution: 5 (dollars)
+Steps: 2+3=5",K.OA.A.2,49
+1760,"Question: For a potluck lunch Bianca brought nine bottles of soda. If someone else had already brought eight sodas, how many were there total?
+Solution: 17 (sodas)
+Steps: 9+8=17",1.OA.A.1,1
+1480,"Question: A man bought a cow and a calf for $990, paying 8 times as much for the cow as for the calf. What was the cost of each?
+Solution: 110 (dollars); 880 (dollars)
+Steps: x:The cost of the cow; y:The cost of the calf; x+y=990; x=8y",8.EE.C.8,47
+519,"Question: Melody made 26 cut-outs of Christmas trees with red shiny balls. If she planned to paste 4 of this to the front cover of a certain number of cards, how many cards will she be able to make?
+Solution: 6 (cards)
+Steps: 26/4=6 r2",4.NBT.B.6,26
+1451,"Question: The sum of two numbers is 35. Their difference is 13. Find the numbers.
+Solution: 11; 24
+Steps: x:One of the numbers; (35-x)-x=13",6.EE.B.6,35
+1045,"Question: Marco and his dad went strawberry picking. Together their strawberries weighed 23 pounds. Marco's strawberries weighed 14 pounds. How much did his dad's strawberries weigh?
+Solution: 9 (pounds)
+Steps: 23-14=9",2.OA.A.1,9
+414,"Question: When she got to school, she saw that the school is composed of 9 buildings, each having 30 classrooms. How many classrooms does the school have?
+Solution: 270 (classrooms)
+Steps: 9*30=270",3.NBT.A.3,14
+357,"Question: They also prepared some chips. If he prepared 350 grams of chips and his father prepared 268 grams, how much chips should his brother prepare if they are to have 800 grams of chips?
+Solution: 182 (grams)
+Steps: 800-(350+268)=182",2.NBT.B.7,8
+552,"Question: There were 150 book shelves. Each book shelf had 15 books. How many books were on the shelves?
+Solution: 2250 (books)
+Steps: 150*15=2250",5.NBT.B.5,32
+2135,"Question: Mike collected seventy-one cans to recycle on Monday and twenty-seven more on Tuesday. How many cans did Mike collect all together?
+Solution: 98 (cans)
+Steps: 71+27=98",2.OA.A.1,9
+1351,"Question: If one pack of gum costs $2, how many packs of gum can you buy with $16?
+Solution: 8 (packs of gum)
+Steps: 16/2=8",3.OA.A.3,18
+1147,"Question: 17 students want lemonade and 11 students want iced tea. What is the ratio of the number of students who want iced tea to the number of students who want lemonade?
+Solution: 11:17:00
+Steps: 11:17=11:17",6.RP.A.1,39
+1163,"Question: While researching colleges, Kendall learns that a typical class at Greenpoint Technical College has 5 men and 6 women, and a typical class at Adams County College has 15 men and 19 women. Which college has classes with a lower ratio of men to women?
+Solution: Adams County College
+Steps: 5/6=83.3%(Greenpoint Technical College) > 15/19=78.9%(Adams County College)",6.RP.A.3,40
+2067,"Question: Bill observed two types of birds in the bushes: sparrows and parrots. While the sparrows were in flocks of 13, the parrots were in flocks of 14. If Bill observed the same total number of sparrows and parrots, what is the smallest number of sparrows that he could have observed?
+Solution: 182 (sparrows)
+Steps: LCM[13,14]=182",6.NS.B.4,38
+1001,"Question: Charlene made 60 bead necklaces. She sold 16 at a craft fair. She gave 18 to her friends. How many necklaces did Charlene have then?
+Solution: 26 (necklaces)
+Steps: 60-16-18=26",2.OA.A.1,9
+779,"Question: 86 students are going hiking. Each school- bus can take 9 students. How many students are left?
+Solution: 5 (students)
+Steps: 86/9=9 r5",4.NBT.B.6,26
+446,"Question: It's Rachel's birthday. Her parents wanted her to have fun so they went to the circus that happened to be in town that day. Upon arriving at the circus, they went to the ticket booth and asked how much each ticket cost. If each ticket costs $44.00 and they bought 7 tickets, how much money did they spend on tickets?
+Solution: 308 (dollars)
+Steps: 44*7=308",4.NBT.B.5,25
+1314,"Question: The difference of two numbers is 100. If one of the numbers is 91, find the other number.
+Solution: 191
+Steps: x:The other number; x-91=100",6.EE.B.6,35
+1896,"Question: There were ninety-eight onions on the shelf. Sixty-five were sold. How many onions is there on the shelf now?
+Solution: 33 (onions)
+Steps: 98-65=33",2.OA.A.1,9
+347,"Question: He also needed some nails. If he already has 247 nails with him and he found another 144 in his toolshed, how many more nails does he need to buy if he needs a total of 500 nails?
+Solution: 109 (nails)
+Steps: 500-(247+144)=109",2.NBT.B.7,8
+329,"Question: While heating the wings, Charlie decided to make metal supports for the wings. If he needs 635 lbs of metal and he has 276 lbs in storage, how much additional metal does he need to buy?
+Solution: 359 (lbs)
+Steps: 635-276=359",2.NBT.B.7,8
+2210,"Question: Haley's favorite band was holding a concert where tickets were four dollars each. Haley bought three tickets for herself and her friends and five extra tickets in case anyone else wanted to go. How much did she spend?
+Solution: 32 (dollars)
+Steps: (3+5)*4=32",3.OA.D.8,19
+219,"Question: The rest of the kids around town got 13 more eggs around the club house, 9 eggs around the park and 8 eggs in the town hall garden. If we add all the eggs that they got, how many eggs would that be?
+Solution: 30 (eggs)
+Steps: 13+8+9=30",2.OA.A.1,9
+1038,"Question: The difference between two numbers is 24. The smaller number is 46. What is the larger number?
+Solution: 70
+Steps: 46+24=70",2.OA.A.1,9
+1391,"Question: Nancy bought a soft drink for 4 dollars and 6 candy bars. She spent a total of 28 dollars. How much did each candy bar cost ?
+Solution: 4 (dollars)
+Steps: y:Dollars of each candy bar; 4*1+6y=28",6.EE.B.6,35
+1100,"Question: Payton leaves to go on an 85 minute bike ride at 3:27 p.m. Payton's family eats dinner at 5:45 p.m. How much time will Payton have between finishing her bike ride and eating dinner?
+Solution: 53 (minutes)
+Steps: 3*60 (min/hour) + 27 (min) = 207 (min); 207 (min) + 85 (min) = 292 (min); (5*60 (min/hour) + 45 (min)) - 292 (min) = 53 (min)",4.MD.A.2,21
+821,"Question: There are 315 cups of puddings to be distributed to 218 students. If each of them wants an equal number of pudding cups, at least how many more pudding cups are needed?
+Solution: 121 (pudding cups)
+Steps: 315/218=1 r97; 218-97=121",6.NS.B.2,37
+821,"Question: There are 315 cups of puddings to be distributed to 218 students. If each of them wants an equal number of pudding cups, at least how many more pudding cups are needed?
+Solution: 121 (pudding cups)
+Steps: 315/218=1 r97; 218-97=121",2.NBT.B.7,8
+775,"Question: Mrs. Smith gave 53 strawberries to 8 girls equally. How many strawberries were left?
+Solution: 5 (strawberries)
+Steps: 53/8=6 r5",4.NBT.B.6,26
+1118,"Question: Students at Memorial School voted for their favorite snack. For every 5 students that voted for candy, 2 students voted for popcorn. There were a total of 45 votes for candy. How many fewer students voted for popcorn than candy?
+Solution: 27 (students)
+Steps: 45-18=27",2.OA.A.1,9
+1118,"Question: Students at Memorial School voted for their favorite snack. For every 5 students that voted for candy, 2 students voted for popcorn. There were a total of 45 votes for candy. How many fewer students voted for popcorn than candy?
+Solution: 27 (students)
+Steps: 45-18=27",6.RP.A.3,40
+1970,"Question: On a table there were 2 green apples, 3 red apples and 14 yellow apples. How many apples were on the table?
+Solution: 19 (apples)
+Steps: 2+3+14=19",1.OA.A.2,2
+2177,"Question: Robin had 30 songs on her mp3 player. If she deleted 8 old songs from it and then added 10 new songs, how many songs does she have on her mp3 player?
+Solution: 32 (songs)
+Steps: 30-8+10=32",2.OA.A.1,9
+1635,"Question: An island in the Atlantic Ocean was 2 miles wide and 6 miles long. What is the area of the island?
+Solution: 12 (square miles)
+Steps: 2*6=12",4.MD.A.3,22
+1172,"Question: Jared is reviewing his cell phone bill. When he gets to the text message part, he notices that he sent 1 text message in November, 2 text messages in December, 4 text messages in January, and 8 text messages in February. If this pattern continues, how many text messages will Jared send in March?
+Solution: 16 (text messages)
+Steps: 2, 4, 8, 16",4.OA.C.5,31
+433,"Question: Bryan took a look at his books as well. If he has 56 books in each of his 9 bookshelves, how many books does he have in total?
+Solution: 504 (books)
+Steps: 56*9=504",4.NBT.B.5,25
+1717,"Question: If you have 2 quarters, 1 dime and 3 pennies, how much money do you have?
+Solution: 0.63 (dollars)
+Steps: (2 (quarter)*25 (cent/quarter) + 1 (dime)*10 (cent/dime) + 3 (penny)*1 (cent/penny))/100 (cent/dollar)= 0.63 (dollar)",4.MD.A.2,21
+1965,"Question: Roger had 2 new crayons, 4 used crayons and 8 broken crayons. How many crayons did Roger have total?
+Solution: 14 (crayons)
+Steps: 2+4+8=14",1.OA.A.2,2
+27,"Question: 3 owls were sitting on the fence. 2 more owls joined them. How many owls are on the fence now?
+Solution: 5 (owls)
+Steps: 3+2=5",K.OA.A.2,49
+753,"Question: A car dealer sold 14 cars on the first day, 16 cars on the second day, and 27 cars on the third day. How many cars did the car dealer sell on the 3 days?
+Solution: 57 (cars)
+Steps: 14+16+27=57",2.OA.A.1,9
+1241,"Question: Luke had 9 pieces of candy. If he wants to split the candy into 2 bags with the same amount of candy in each bag, how many more pieces would he need to make sure each bag had the same amount?
+Solution: 1 (piece)
+Steps: 9/2=4 r1; 2-1=1",4.NBT.B.6,26
+1241,"Question: Luke had 9 pieces of candy. If he wants to split the candy into 2 bags with the same amount of candy in each bag, how many more pieces would he need to make sure each bag had the same amount?
+Solution: 1 (piece)
+Steps: 9/2=4 r1; 2-1=1",K.OA.A.2,49
+1709,"Question: At a comic book convention vendor 1 was selling a set of 3 comics for $31.77. Vendor 2 was selling a set of 2 comics for $21.32. Which vendor has the higher unit price?
+Solution: Vendor 2
+Steps: 31.77/3=10.59(Vendor 1) < 21.32/2=10.66(Vendor 2)",4.NF.C.7,28
+1709,"Question: At a comic book convention vendor 1 was selling a set of 3 comics for $31.77. Vendor 2 was selling a set of 2 comics for $21.32. Which vendor has the higher unit price?
+Solution: Vendor 2
+Steps: 31.77/3=10.59(Vendor 1) < 21.32/2=10.66(Vendor 2)",4.MD.A.2,21
+1884,"Question: While playing a game Edward had fifteen lives. He lost eight lives on a hard level. How many lives does he have left?
+Solution: 7 (lives)
+Steps: 15-8=7",1.OA.A.1,1
+168,"Question: A quarter equals $0.25. How many quarters equal $2.25?
+Solution: 9 (quarters)
+Steps: 2.25/0.25=9",4.MD.A.2,21
+200,"Question: The train left for the station at 9:45 and arrived at 10:00. How long did it take?
+Solution: 15 (minutes)
+Steps: (10*60 (min/hour) - (9*60 (min/hour) + 45 (min))) = 15 (min)",4.MD.A.2,21
+31,"Question: Mrs. Hilt has two pennies, two dimes, and two nickels. Jacob has four pennies, one nickel, and one dime. How much more?
+Solution: 13 (pennies)
+Steps: (2*1  (cent)+2 (dime)*10 (cent/dime) +2 (nickel)*5 (cent/nickel)) - (4*1 (cent)+1 (nickel)*5 (cent/nickel) +1  (dime)*10 (cent/dime)) = 13 (cent)",2.MD.C.8,4
+31,"Question: Mrs. Hilt has two pennies, two dimes, and two nickels. Jacob has four pennies, one nickel, and one dime. How much more?
+Solution: 13 (pennies)
+Steps: (2*1  (cent)+2 (dime)*10 (cent/dime) +2 (nickel)*5 (cent/nickel)) - (4*1 (cent)+1 (nickel)*5 (cent/nickel) +1  (dime)*10 (cent/dime)) = 13 (cent)",3.OA.A.3,18
+31,"Question: Mrs. Hilt has two pennies, two dimes, and two nickels. Jacob has four pennies, one nickel, and one dime. How much more?
+Solution: 13 (pennies)
+Steps: (2*1  (cent)+2 (dime)*10 (cent/dime) +2 (nickel)*5 (cent/nickel)) - (4*1 (cent)+1 (nickel)*5 (cent/nickel) +1  (dime)*10 (cent/dime)) = 13 (cent)",2.NBT.B.5,6
+1914,"Question: For Halloween Oliver got seventy-eight pounds of candy. After giving some to Janet, he had sixty-eight pounds left. How many pounds did he give to Janet?
+Solution: 10 (pounds)
+Steps: 78-68=10",2.OA.A.1,9
+2239,"Question: For Halloween Bianca received seventeen pieces of candy. She ate two pieces then placed the rest into piles with three in each pile. How many piles could she make?
+Solution: 5 (piles)
+Steps: (17-2)/3=5",3.OA.D.8,19
+689,"Question: There are 2 green books, 1 blue book, and 4 orange books in a bookshelf. If 3 of them are taken out to be read, how many books are left on the bookshelf?
+Solution: 4 (books)
+Steps: 2+1+4-3=4",K.OA.A.2,49
+1476,"Question: A mountain cabin on 1 acre of land costs $30,000. If the land cost 4 times as much as the cabin, what was the cost of each?
+Solution: 6000 (dollars); 24000 (dollars)
+Steps: x:The cost of the cabin; y:The cost of the land; x+y=30000; 4x=y",6.EE.B.6,35
+620,"Question: The farmer had 127 apples. He gave 88 apples to his neighbor. How many apples does he have now?
+Solution: 39 (apples)
+Steps: 127-88=39",2.NBT.B.7,8
+308,"Question: If Carl has a total of 89 stamps and Kevin has 57, how many more stamps does Carl have more than Kevin?
+Solution: 32 (stamps)
+Steps: 89-57=32",2.OA.A.1,9
+1920,"Question: Mike had fifty-one books, but he sold forty-five at a garage sale. How many books does Mike still have?
+Solution: 6 (books)
+Steps: 51-45=6",2.OA.A.1,9
+467,"Question: Christian's mother prepared lemonade. Every pitcher of lemonade can serve 5 glasses. If she was able to serve 30 glasses of lemonade, how many pitchers of lemonade did she prepare?
+Solution: 6 (pitchers)
+Steps: 30/5=6",3.OA.A.3,18
+612,"Question: There were 3,409 pieces of candy in a jar. If 145 pieces were red and the rest were blue, how many were blue?
+Solution: 3264 (pieces of candy)
+Steps: 3409-145=3264",4.NBT.B.4,24
+1319,"Question: Consider two-third of number and add up six to it. The result is ten. Find the unknown number.
+Solution: 6
+Steps: x:The unknown number; (2/3)*x+6=10",6.EE.B.6,35
+1243,"Question: George bought 17 pieces of candy to give to 5 of his friends. If he wants to give each friend the same amount, how many pieces would he have left over?
+Solution: 2 (pieces)
+Steps: 17/5=3 r2",4.NBT.B.6,26
+2184,"Question: At the arcade Dave won 11 tickets. If he spent 5 tickets on a beanie and later won 10 more tickets, how many would he have?
+Solution: 16 (tickets)
+Steps: 11-5+10=16",2.OA.A.1,9
+1112,"Question: The ratio of the number correct answers to incorrect answers on Sam's math test is 7:3. The difference between correct and incorrect answers is 20. What was the total number of questions on the test?
+Solution: 50 (questions)
+Steps: (7-3):10=20:50",K.OA.A.2,49
+1112,"Question: The ratio of the number correct answers to incorrect answers on Sam's math test is 7:3. The difference between correct and incorrect answers is 20. What was the total number of questions on the test?
+Solution: 50 (questions)
+Steps: (7-3):10=20:50",6.RP.A.3,40
+307,"Question: Carl, on the other hand, was able to collect 74 stamps which are 36 more than what Mark was able to collect. How many stamps was Mark able to collect?
+Solution: 38 (stamps)
+Steps: 74-36=38",2.OA.A.1,9
+100,"Question: Mrs. Wong had 30 Valentines. She gave 8 Valentines to her children. How many does she have left?
+Solution: 22 (Valentines)
+Steps: 30-8=22",2.OA.A.1,9
+1813,"Question: Carol was helping her mom plant vegetables in the garden. Together they planted 6 rows of potatoes with 9 seeds in each row. How many potatoes did they plant total?
+Solution: 54 (potatoes)
+Steps: 6*9=54",3.OA.A.3,18
+1262,"Question: There are 45 questions on the math test. 17 questions are word problems. 28 questions are addition and subtraction problems. Steve can only answer 38 questions. What's the difference between the number of all questions on the math test and the number of questions that Steve can answer?
+Solution: 7 (questions)
+Steps: 45-38=7",2.OA.A.1,9
+559,"Question: Your class is having a pizza party. You buy 5 pizzas. Each pizza has 4 slices. How many slices is that altogether?
+Solution: 20 (slices)
+Steps: 5*4=20",3.OA.A.3,18
+1092,"Question: Recently, the postal service sold stamps with famous people pictured on them. They sold 578,833 color stamps, as well as 523,776 black-and-white ones. About how many stamps did they sell?
+Solution: 1102609 (stamps)
+Steps: 578833+523776=1102609",4.NBT.B.4,24
+49,"Question: Mrs. Hilt ate 5 apples every hour. How many apples had she eaten at the end of 3 hours?
+Solution: 15 (apples)
+Steps: 5+5+5=15",1.OA.A.2,2
+2222,"Question: Dave was working as a sacker at a grocery store where he made six dollars an hour. On Monday he worked six hours and on Tuesday he worked two hours. How much money did Dave make in those two days?
+Solution: 48 (dollars)
+Steps: (6+2)*6=48",3.OA.D.8,19
+408,"Question: Both of them were also asked to take note of the total number of chicken in the farm. Ben counted a total of 9 chicken coops and Daniel said that there are 60 chickens in one coop. How many chickens do they have in total?
+Solution: 540 (chickens)
+Steps: 9*60=540",4.NBT.B.5,25
+1968,"Question: Henry already had 5 dollars, but earned another 2 dollars doing chores. His friend had 13 dollars. If they put their money together, how much would they have?
+Solution: 20 (dollars)
+Steps: 5+2+13=20",1.OA.A.2,2
+653,"Question: Shelby had 92 pieces of candy. She gave 4 pieces each to 9 friends. How many pieces of candy does Shelby have left?
+Solution: 56 (pieces of candy)
+Steps: 92-(4*9)=56",3.OA.D.8,19
+1388,"Question: Melanie had 276 dollars to spend on 9 books. After buying them she had 15 dollars. How much did each book cost ?
+Solution: 29 (dollars)
+Steps: x:Each book cost; 276-9x=15",6.EE.B.6,35
+1111,"Question: Time in the Philippines is one hour ahead of the time in Japan. Luz who is in Manila called up her friend who is in Japan at 12:55 am on 25 December 2014. What day and time was it in Japan?
+Solution: 11:55 p.m. on 24 December 2014.
+Steps: 24*60 (min/hour) + 55 (min) = 1495 (min)(25 December 2014); (1495-1*60 (min/hour))/60 (min/hour) = 23 r55; hh:mm=23:55=11:55 p.m.(24 December 2014)",4.MD.A.2,21
+1111,"Question: Time in the Philippines is one hour ahead of the time in Japan. Luz who is in Manila called up her friend who is in Japan at 12:55 am on 25 December 2014. What day and time was it in Japan?
+Solution: 11:55 p.m. on 24 December 2014.
+Steps: 24*60 (min/hour) + 55 (min) = 1495 (min)(25 December 2014); (1495-1*60 (min/hour))/60 (min/hour) = 23 r55; hh:mm=23:55=11:55 p.m.(24 December 2014)",5.NBT.B.6,33
+2037,"Question: Your local radio station is having their yearly music player and concert ticket giveaway. For one minute, every 5th caller will win a music player and every 7th caller will win concert tickets. You were just the first caller to win both a music player and concert tickets! What number caller were you?
+Solution: 35 (callers)
+Steps: LCM[5,7]=35",6.NS.B.4,38
+746,"Question: An online toy store stocked some toys. It sold 38 toys at the first week and 26 toys at the second week. If it had 19 toys left, how many toys were in stock at the beginning?
+Solution: 83 (toys)
+Steps: 38+26+19=83",2.OA.A.1,9
+482,"Question: Betty also bought 140 shiny blue round stones. If 14 pieces of this stone is in each bracelet, how many bracelets of blue shiny round stones will there be?
+Solution: 10 (bracelets)
+Steps: 140/14=10",5.NBT.B.6,33
+2004,"Question: Janet picked 4 tulips and 11 roses to make flower bouquets. If she only used 11 of the flowers though, how many extra flowers did Janet pick?
+Solution: 4 (flowers)
+Steps: (4+11)-11=4",1.OA.A.1,1
+1597,"Question: There are 336 students in a school. If the school has 7 grades and each grade had the same number of students, how many students were in each grade?
+Solution: 48 (students)
+Steps: 336/7=48",4.NBT.B.6,26
+1040,"Question: Sam and Erica have $91 together. Sam has $38. How does Erica have?
+Solution: 53 (dollars)
+Steps: 91-38=53",2.OA.A.1,9
+1770,"Question: Amy bought 7 pencils at the school store, but she already had 3 pencils. How many pencils does she have totaled?
+Solution: 10 (pencils)
+Steps: 7+3=10",K.OA.A.2,49
+2123,"Question: A store has fifty-six shirts. Later they got in eleven more shirts. How many shirts does the store have now?
+Solution: 67 (shirts)
+Steps: 56+11=67",2.OA.A.1,9
+1139,"Question: In a telephone poll, 7 people said they like shopping and 20 people said they do not like shopping. What is the ratio of the number of people who do not like shopping to the number of people who like shopping?
+Solution: 20:07:00
+Steps: 20:7=20:7",6.RP.A.1,39
+665,"Question: Reshay and Natalie order eggs for $5.15, pancakes for $3.20, and 2 mugs of cocoa for $0.60 each. The tax is $0.75. How much change should they get from $15.00?
+Solution: 4.7 (dollars)
+Steps: 0.60*2=1.2; 5.15+3.20+1.2+0.75=10.3; 15-10.3=4.7",4.MD.A.2,21
+1256,"Question: There are 4 squirrels in a tree with 2 nuts. What's the difference of the number of squirrels and nuts over there?
+Solution: 2
+Steps: 4-2=2",K.OA.A.2,49
+363,"Question: Next, she went to a country full of mountains. There she saw 532 species of insects, reptiles and birds. If she saw 253 insect species and 143 bird species, how many reptile species did she see?
+Solution: 136 (reptile species)
+Steps: 532-(253+143)=136",2.NBT.B.7,8
+1208,"Question: At Kentucky Fried Chicken, the kitchen staff baked 96 chicken legs, 144 thighs, and 224 wings. The staff had to prepare platters for a catered lunch at an office. Each platter will have the same number of legs, thighs, and wings. How many platters can the staff make if they want the greatest number of chicken pieces on each platter?
+Solution: 16 (platters)
+Steps: GCD(96,144,224)=16",6.NS.B.4,38
+344,"Question: For the second main course, they were asked to make 500 pieces of fish fillets. If the first team made 189 pieces and the second team made 131 pieces, how many pieces should the third team make?
+Solution: 180 (pieces)
+Steps: 500-(189+131)=180",2.NBT.B.7,8
+23,"Question: You have collected 7 crickets. How many more crickets do you need to collect to have 11 crickets?
+Solution: 4 (crickets)
+Steps: 11-7=4",1.OA.A.1,1
+1550,"Question: A truck can hold four boxes. If you needed to move eight hundred seventy-one boxes across town, how many trips would you need to make?
+Solution: 218 (trips)
+Steps: 871/4=217 r3",4.NBT.B.6,26
+1724,"Question: A pet store had seven Siamese cats. If they sold four of them, how many cats did they still have?
+Solution: 3 (cats)
+Steps: 7-4=3",K.OA.A.2,49
+894,"Question: Rick and Todd have the same number of candy bars. Rick ate 11 candy bars. Todd gave away 18 of his candy bars. How many more candy bars did Rick have than Todd then?
+Solution: 7 (candy bars)
+Steps: 18-11=7",1.OA.A.1,1
+556,"Question: There are 84 leaves. There are 139 ladybugs on each leaf. How many ladybugs are there in all?
+Solution: 11676 (ladybugs)
+Steps: 84*139=11676",5.NBT.B.5,32
+795,"Question: A transport company bought 95 tons of oil. A large barrel can hold 6 tons of oil and a small barrel can hold 5 tons of oil. In order to use the least number of barrels and have every barrel fully occupied, how many small barrels should be used?
+Solution: 1 (small barrels)
+Steps: 95/6=15 r5; 5/5=1",4.NBT.B.6,26
+795,"Question: A transport company bought 95 tons of oil. A large barrel can hold 6 tons of oil and a small barrel can hold 5 tons of oil. In order to use the least number of barrels and have every barrel fully occupied, how many small barrels should be used?
+Solution: 1 (small barrels)
+Steps: 95/6=15 r5; 5/5=1",3.OA.A.3,18
+835,"Question: The weight of 3 glass bottles is 600 g. The total weight of 4 glass bottles and 5 plastic bottles is 1 kg 50 g. How much heavier is a glass bottle than a plastic bottle?
+Solution: 150 (g)
+Steps: (600/3)-((1050-(600/3)*4)/5)=150",6.EE.B.6,35
+1024,"Question: 35 people visited the Statue of Liberty in the morning. 56 more people visited in the afternoon than in the morning. How many people visited the Statue of Liberty in the afternoon?
+Solution: 91 (people)
+Steps: 35+56=91",2.OA.A.1,9
+2213,"Question: Katie was selling her necklaces at a garage sale. She sold four bead necklaces and three gem stone necklaces. If each necklace cost three dollars, how much money did she earn?
+Solution: 21 (dollars)
+Steps: (4+3)*3=21",3.OA.D.8,19
+1219,"Question: Amanda and Sadie each have a band. Amanda's band plays songs in sets of 2 and Sadie's band plays songs in sets of 9. After performing together, both bands realize that they have played the same number of songs. What is the smallest number of songs each band could have performed?
+Solution: 18 (songs)
+Steps: LCM[2,9]=18",6.NS.B.4,38
+1658,"Question: A small school has 42 boys. If the ratio of boys to girls is 7:1, how many students are there total?
+Solution: 48 (students)
+Steps: 7:8=42:48",6.RP.A.3,40
+1936,"Question: Maria stored ninety-three cloves of garlic in the kitchen. She used eighty-six for roast chicken for dinner. How many cloves of garlic does she have left?
+Solution: 7 (cloves)
+Steps: 93-86=7",2.OA.A.1,9
+1649,"Question: The ratio of red cars to blue cars in a parking lot was 5:3. If there were 40 red cars, how many blue cars were there?
+Solution: 24 (blue cars)
+Steps: 5:3=40:24",6.RP.A.3,40
+1999,"Question: Faye and her mom were picking carrots from their garden. Faye picked 23 and her mother picked 5. If only 12 of the carrots were good, how many bad carrots did they have?
+Solution: 16 (bad carrots)
+Steps: (23+5)-12=16",2.OA.A.1,9
+173,"Question: Karen wants to buy a pen that costs 75 cents. She has 2 quarters and 3 dimes. Does she have enough money?
+Solution: Yes
+Steps: 2*25+3*10=80 cents > 75 cents",2.MD.C.8,4
+194,"Question: Adi bought a pencil for 35 cents. He paid with a one-dollar bill. How much change will he get?
+Solution: 65 (change)
+Steps: 100-35=65",2.MD.C.8,4
+820,"Question: Betty has 367 beads and wants to use all the beads to make necklaces. If she wants to make 15 necklaces with each having the same number of beads, how many more beads does she need?
+Solution: 8 (beads)
+Steps: 367/15=24 r7; 15-7=8",5.NBT.B.6,33
+820,"Question: Betty has 367 beads and wants to use all the beads to make necklaces. If she wants to make 15 necklaces with each having the same number of beads, how many more beads does she need?
+Solution: 8 (beads)
+Steps: 367/15=24 r7; 15-7=8",1.OA.A.1,1
+542,"Question: A baker has a pan of fudge that measures 18 inches on one side and 29 inches on another side. If the fudge is cut into square pieces 1 inch on each side, how many pieces of fudge does the pan hold?
+Solution: 522 (pieces of fudge)
+Steps: 18*29=522",4.MD.A.3,22
+1595,"Question: Luke was played 5 rounds of a trivia game and scored 300 points. If he gained the same number of points each round, how many points did he score per round?
+Solution: 60 (points)
+Steps: 300/5=60",4.NBT.B.6,26
+55,"Question: Sammy has 9 math problems to do for homework. He has already finished 2 of them. How many math problems does Sammy have left?
+Solution: 7 (math problems)
+Steps: 9-2=7",K.OA.A.2,49
+1053,"Question: Of the 15-year-olds at a karate school, 8 have black belts and 20 have brown belts. Among the 16-year-olds, 2 have black belts and 5 have brown belts. Which age group has a lower ratio of black belts to brown belts?
+Solution: They are equal
+Steps: 8/20=0.4(The 15 yearolds) equals 2/5=0.4(The 16 year olds)",6.RP.A.3,40
+945,"Question: Tommy has $79. He wants to buy a $35 camera. He also wants to buy a $59 CD player. How much more money does Tommy need?
+Solution: 15 (dollars)
+Steps: 35+59-79=15",2.OA.A.1,9
+932,"Question: Adam has 29 marbles in his collection. Mary has 11 fewer marbles than Adam. Greg has 14 more marbles than Adam. How many marbles does Greg have?
+Solution: 43 (marbles)
+Steps: 29+14=43",2.OA.A.1,9
+1848,"Question: There were nine kinds of sandwiches on the menu. Unfortunately, five of them had been sold out, how many kinds of sandwiches do they actually provide now?
+Solution: 4 (sandwiches)
+Steps: 9-5=4",K.OA.A.2,49
+1128,"Question: Lavender is making punch for the school dance. She mixes 3 parts lemonade with 5 parts cranberry juice. She wants to fill a 72 cup bowl. How many more cups of cranberry juice will she need than lemonade?
+Solution: 18 (cups of cranberry juice)
+Steps: 45-27=18",2.OA.A.1,9
+1128,"Question: Lavender is making punch for the school dance. She mixes 3 parts lemonade with 5 parts cranberry juice. She wants to fill a 72 cup bowl. How many more cups of cranberry juice will she need than lemonade?
+Solution: 18 (cups of cranberry juice)
+Steps: 45-27=18",6.RP.A.3,40
+859,"Question: An egg seller finds 432 eggs are either spoiled or broken and 1080 eggs are in good condition. Find the ratio of bad eggs to good eggs.
+Solution: 02:05:00
+Steps: 432:1080=2:5",6.RP.A.1,39
+2150,"Question: A store sold eight cold drinks and three hot drinks. How many drinks did they sell total?
+Solution: 11 (drinks)
+Steps: 8+3=11",K.OA.A.2,49
+631,"Question: Mrs. Hilt has 40 markers. They are divided equally into 7 packages. Mrs. Hilt wants to know how many markers are leftover?
+Solution: 5 (markers)
+Steps: 40/7=5 r5",4.NBT.B.6,26
+2107,"Question: A clothing company used 2 buttons on jeans and 5 buttons on shirts. If they made 9 shirts and 1 pair of jeans, how many buttons would they use total?
+Solution: 47 (buttons)
+Steps: (5*9)+(2*1)=47",4.OA.A.3,29
+1927,"Question: There were ninety-four dollars in Olivia's wallet. After she visited a supermarket, there were seventy-eight dollars left. How much did she spend?
+Solution: 16 (dollars)
+Steps: 94-78=16",2.OA.A.1,9
+1778,"Question: Frank bought his family 14 pieces of chicken for dinner. If they only ate 7, how many pieces does he have left?
+Solution: 7 (pieces)
+Steps: 14-7=7",1.OA.A.1,1
+733,"Question: Jack received 8 emails in the morning and 2 emails in the afternoon. How many emails did Jack receive in the day?
+Solution: 10 (emails)
+Steps: 8+2=10",K.OA.A.2,49
+1818,"Question: Rachel had to complete 9 pages of math homework and 2 pages of reading homework. How many pages did she have to complete total?
+Solution: 11 (pages)
+Steps: 9+2=11",1.OA.A.1,1
+2242,"Question: There are fifty-eight students trying out for the school's trivia teams. If twenty-eight of them didn't get picked for the team and the rest were put into five groups, how many students would be in each group?
+Solution: 6 (students)
+Steps: (58-28)/5=6",3.OA.D.8,19
+355,"Question: Finally, they had to roam around 169 factories to make sure they are throwing their wastes properly. If their group went to 69 factories and the second went to 52, how many factories remain unchecked?
+Solution: 48 (factories)
+Steps: 169-(69+52)=48",3.OA.D.8,19
+1387,"Question: Jessica spent half of her allowance going to the movies. She washed the family car and earned six dollars. What is her weekly allowance if she ended with eleven dollars ?
+Solution: 10 (dollars)
+Steps: x:Jessica's weekly allowance; x/2+6=11",6.EE.B.6,35
+1194,"Question: Shelley has 12 forks and 16 knives to place in silverware holders at the fast food restaurant where she works. She wants to distribute them equally, with no forks or knives left over. What is the greatest number of silverware holders Shelley can stock?
+Solution: 4 (silverware holders)
+Steps: GCD(12,16)=4",6.NS.B.4,38
+1664,"Question: At a pet store the ratio of cats to dogs sold was 2:1. If there were 16 cats that were sold, how many dogs were sold?
+Solution: 8 (dogs)
+Steps: 2:1=16:8",6.RP.A.3,40
+831,"Question: Emily's bed is 200 cm long. Jimmy's bed is 20 cm longer than Emily's. Whose bed is longer?
+Solution: Jimmy
+Steps: 200 cm(Emily) < 200+20=220 cm(Jimmy)",2.NBT.A.4,5
+831,"Question: Emily's bed is 200 cm long. Jimmy's bed is 20 cm longer than Emily's. Whose bed is longer?
+Solution: Jimmy
+Steps: 200 cm(Emily) < 200+20=220 cm(Jimmy)",2.NBT.B.7,8
+185,"Question: Charlie has 31 more snowballs than Lucy. She has 19 snowballs. How many does Charlie have?
+Solution: 50 (snowballs)
+Steps: 31+19=50",2.OA.A.1,9
+1723,"Question: Adam had to wash fourteen loads of clothes. By noon he had only washed eight loads. How many does he still need to wash?
+Solution: 6 (loads of clothes)
+Steps: 14-8=6",1.OA.A.1,1
+614,"Question: Third-grade students went to a concert in 8 buses. Each bus took 45 students. How many students went to the concert?
+Solution: 360 (students)
+Steps: 8*45=360",4.NBT.B.5,25
+2139,"Question: At the arcade Henry had won fifty-eight tickets. Later he won forty more tickets. How many tickets did Henry have total?
+Solution: 98 (tickets)
+Steps: 58+40=98",2.OA.A.1,9
+1727,"Question: Victor bought several boxes of books at a yard sale and ended up with twenty-four books total. If each box had three books, how many boxes did he buy?
+Solution: 8 (boxes)
+Steps: 24/3=8",3.OA.A.3,18
+309,"Question: The following month, the four friends met again to share their collections. Carl, having the most number of stamps among all of them decided to give away some of his collections. If he has 96 stamps during that month, and he gave away 48, how many stamps were left with him?
+Solution: 48 (stamps)
+Steps: 96-48=48",2.OA.A.1,9
+693,"Question: At a candy store, there are 3 brown candy boxes, 3 black candy boxes, and 2 blue candy boxes. If 5 boxes are bought, how many candy boxes are left?
+Solution: 3 (candy boxes)
+Steps: 3+3+2-5=3",K.OA.A.2,49
+2249,"Question: A magician was selling magic card decks for 2 dollars each. If he started with 5 decks and by the end of the day he had 3 left, how much money did he earn?
+Solution: 4 (dollars)
+Steps: (5-3)*2=4",3.OA.D.8,19
+647,"Question: David has 7 boxes of stuffed toy dogs. Each box has four dogs in it. How many legs are there in all?
+Solution: 112 (legs)
+Steps: (7*4)*4=112",3.OA.D.8,19
+1634,"Question: A video game map had a total area of 10 square meters. If the map was 5 meters long, how wide is it?
+Solution: 2 (meters)
+Steps: 10/5=2",4.MD.A.3,22
+731,"Question: There are 7 basketballs at a school. If the school buys another 3 basketballs, how many basketballs will the school have?
+Solution: 10 (basketballs)
+Steps: 7+3=10",K.OA.A.2,49
+983,"Question: Laurie has 12 more marbles than Kurt. Kurt has 45 marbles less than Dennis. Dennis has 70 marbles. How many marbles does Laurie have?
+Solution: 37 (marbles)
+Steps: 70-45+12=37",2.OA.A.1,9
+535,"Question: At the zoo, I see 35 elephants and 48 tigers. How many legs do I see?
+Solution: 332 (legs)
+Steps: (35+48)*4=332",3.OA.D.8,19
+214,"Question: Bob who is Sam's next door neighbor decided that he will accompany Sam home. He also took his share which consists of 15 chewing gums, 20 chocolate bars and 15 assorted candies. How many candies did he get?
+Solution: 50 (candies)
+Steps: 15+20+15=50",2.OA.A.1,9
+260,"Question: The last stop of their tour was Italy; there they visited Naples, the place where modern pizza was invented. During their stay there, she ate 598 grams of pizza and her sister ate 354. How many grams of pizza did Rachel and Bella ate there?
+Solution: 952 (grams of pizza)
+Steps: 598+354=952",2.NBT.B.7,8
+2267,"Question: Sean had 45 Starbursts. If Sean gave equal numbers of Starbursts to his 18 friends and then he ate what was left, how many Starbursts did each person eat?
+Solution: 2 (Starbursts)
+Steps: 45/18=2 r9",5.NBT.B.6,33
+1360,"Question: Last Thursday Drew had $30. Over the weekend he received some money for cutting the grass. He now has $61. How much money did he get paid for cutting the grass?
+Solution: 31 (dollars)
+Steps: 61-30=31",2.OA.A.1,9
+1663,"Question: Victor was playing checkers with a friend. The ratio of games Victor won was 9:5. If Victor won 36 games, how many games did his friend win?
+Solution: 20 (games)
+Steps: 9:5=36:20",6.RP.A.3,40
+1423,"Question: In a two digit number, the sum of the two digits is 9. If the digits are reversed , the number is increased by 9. Find the number.
+Solution: 45
+Steps: x:The number of the tens digital; y:The number of the unit digital; x+y=9; 10y+x=10x+y+9",8.EE.C.8,47
+301,"Question: It's basketball season in Ashford Elementary School. Chuck, the team captain of the Blue Team is feeling nervous about it. Their first opponent is the Red Team, composed of other 3rd graders, gave them a hard time. If they lost by 13 points and the Red Team scored 61 points, what is their team's final score?
+Solution: 48 (points)
+Steps: 61-13=48",2.OA.A.1,9
+701,"Question: There were 36 dogs and 29 cats in a pet center. After 20 of the dogs were adopted by people, the pet center collected another 12 cats. How many pets were there in the pet center in the end?
+Solution: 57 (pets)
+Steps: 36+29-20+12=57",2.NBT.B.5,6
+1056,"Question: Last year, Jefferson County's event hall was used for 18 wedding receptions and 12 anniversary parties. This year it was used for 17 wedding receptions and 14 anniversary parties. During which year was the event hall used for a lower ratio of wedding receptions to anniversary parties?
+Solution: This year
+Steps: 18/12(Last year) > 17/14(This year)",6.RP.A.3,40
+1847,"Question: At the fair Megan had $17 to spend. She spent $6 on rides. How much money does she have left?
+Solution: 11 (dollars)
+Steps: 17-6=11",1.OA.A.1,1
+1065,"Question: Austin is putting stickers in a sticker book. He put 8 stickers on the first page, 16 stickers on the second page, 24 stickers on the third page, and 32 stickers on the fourth page. If this pattern continues, how many stickers will Austin put on the fifth page?
+Solution: 40 (stickers)
+Steps: 8, 16, 24, 32, 40",3.OA.D.9,20
+76,"Question: Tessa has 4 apples. Anita gave her 5 more. She needs 10 apples to make a pie. Does she have enough to make a pie?
+Solution: Yes
+Steps: 4+5=9 apples < 10 apples",K.OA.A.2,49
+1068,"Question: Kayla got a new video game. She scored 2 points on the first level, 3 points on the second level, 5 points on the third level, 8 points on the fourth level, and 12 points on the fifth level. If this pattern continues, how many points will Kayla score on the sixth level?
+Solution: 17 (points)
+Steps: 2, 3, 5, 8, 12, 17",3.OA.D.9,20
+1211,"Question: To encourage public transportation, Russom wants to give some friends envelopes with bus tickets and subway tickets in them. If he has 18 bus tickets and 12 subway tickets to split equally among the envelopes, and wants no tickets left over, what is the greatest number of envelopes Russom can make?
+Solution: 6 (envelopes)
+Steps: GCD(18,12)=6",6.NS.B.4,38
+1026,"Question: Erin and Dana finished a two day bike-a-thon. They rode 37 miles the first day The rode 55 miles the second day. How many miles did they ride altogether?
+Solution: 92 (miles)
+Steps: 37+55=92",2.OA.A.1,9
+126,"Question: Josh had 142 pencils. He gave 31 pencils to Dorothy. How many pencils does Josh have left?
+Solution: 111 (pencils)
+Steps: 142-31=111",2.NBT.B.7,8
+844,"Question: Three workers, A, B, and C are working in a bicycle factory. A finishes assembling a bike every 1 h 30 min. B finishes assembling a bike every 2 h. C finishes assembling a bike every 1 h. If they started assembling three bikes at the same time at 8:10, at what time would they start assembling at the same time again?
+Solution: 14:10:00
+Steps: (8*60 (min/hour) + 10) + LCM[90,120,60] + 0 = 850 (min); 850/60 (min/hour)=14 r10; hh:mm=14:10",4.MD.A.2,21
+844,"Question: Three workers, A, B, and C are working in a bicycle factory. A finishes assembling a bike every 1 h 30 min. B finishes assembling a bike every 2 h. C finishes assembling a bike every 1 h. If they started assembling three bikes at the same time at 8:10, at what time would they start assembling at the same time again?
+Solution: 14:10:00
+Steps: (8*60 (min/hour) + 10) + LCM[90,120,60] + 0 = 850 (min); 850/60 (min/hour)=14 r10; hh:mm=14:10",5.NBT.B.6,33
+844,"Question: Three workers, A, B, and C are working in a bicycle factory. A finishes assembling a bike every 1 h 30 min. B finishes assembling a bike every 2 h. C finishes assembling a bike every 1 h. If they started assembling three bikes at the same time at 8:10, at what time would they start assembling at the same time again?
+Solution: 14:10:00
+Steps: (8*60 (min/hour) + 10) + LCM[90,120,60] + 0 = 850 (min); 850/60 (min/hour)=14 r10; hh:mm=14:10",6.NS.B.4,38
+1540,"Question: Robin wanted to drink exactly nine bottles of water each day, so she bought six hundred seventeen bottles when they were on sale. How many more bottles will she need to buy on the last day?
+Solution: 4 (bottles)
+Steps: 617/9=68 r5; 9-5=4",5.NBT.B.6,33
+1540,"Question: Robin wanted to drink exactly nine bottles of water each day, so she bought six hundred seventeen bottles when they were on sale. How many more bottles will she need to buy on the last day?
+Solution: 4 (bottles)
+Steps: 617/9=68 r5; 9-5=4",K.OA.A.2,49
+1123,"Question: Andrew and Jeffrey walk together. When the ratio of Andrew's steps to Jeffrey's steps was 3:4. If Andrew walks 150 steps, how many steps does Jeffrey walk?
+Solution: 200 (steps)
+Steps: 3:4=150:200",6.RP.A.3,40
+1010,"Question: Alvin had 57 marbles and played two games. He lost 18 marbles during the first game. He won 25 marbles during the second game. How many marbles did Alvin have then?
+Solution: 64 (marbles)
+Steps: 57-18+25=64",2.OA.A.1,9
+149,"Question: Mrs. Hilt and her sister drove to a concert 78 miles away. They drove 32 miles and then stopped for gas. Her sister put 28 gallons of gas in the car. How many miles did they have left to drive?
+Solution: 46 (miles)
+Steps: 78-32=46",2.OA.A.1,9
+705,"Question: Robert made $76 at work. He spent $6 on a pen and $14 for a calculator. How much money did he have left?
+Solution: 56 (dollars)
+Steps: 76-6-14=56",2.OA.A.1,9
+832,"Question: The weight of 2 bags of chips is 800 g. The total weight of 5 such bags of chips and 4 bottles of juice is 2 kg 200 g. How much heavier is a bag of chips than a bottle of juice?
+Solution: 350 (g)
+Steps: (800/2)-((2200-(800/2)*5)/4)=350",4.MD.A.2,21
+280,"Question: After a week, Sofia did a survey to ask if the students liked the new menu. She found out that 235 students liked the new menu while 165 didn't. How many students took part in Sofia's survey?
+Solution: 400 (students)
+Steps: 235+165=400",2.NBT.B.7,8
+24,"Question: 4 birds are sitting on a branch. 1 flies away. How many birds are left on the branch?
+Solution: 3 (birds)
+Steps: 4-1=3",K.OA.A.2,49
+534,"Question: There are 397 butterflies. Each butterfly has 12 black dots and 17 yellow dots. How many black dots are there in all?
+Solution: 4764 (black dots)
+Steps: 397*12=4764",5.NBT.B.5,32
+1432,"Question: A man travels 600 km partly by train and partly by car. If he covers 400 km by train and the rest by car, it takes him 6 hours and 30 minutes. But if he travels 200 km by train and rest by car, he takes 30 minutes longer. Find the speed of train and that of car.
+Solution: 100 (km/hour); 80 (km/hour)
+Steps: x:Speed of train; y:Speed of car; 400/x+200/y=6.5; 200/x+400/y=7",8.EE.C.8,47
+1047,"Question: In the fall, Ian's catering company catered 10 small-scale events and 16 large-scale events. In the winter, they catered 7 small-scale events and 12 large-scale ones. During which season did Ian's catering company cater a higher ratio of small-scale to large-scale events?
+Solution: Fall
+Steps: 10/16(Fall) > 7/12(Winter)",6.RP.A.3,40
+2221,"Question: A waiter had five tables he was waiting on, with five women and three men at each table. How many customers total did the waiter have?
+Solution: 40 (customers)
+Steps: (5+3)*5=40",3.OA.D.8,19
+1924,"Question: For a party Adam bought ninety-seven cupcakes. If fifty-eight were eaten, how many cupcakes would Adam have left?
+Solution: 39 (cupcakes)
+Steps: 97-58=39",2.OA.A.1,9
+1688,"Question: A produce store offers red and green apples. In one morning they sold 77 apples total. If 7 of the apples they sold were red, what is the ratio of green apples sold to red apples sold?
+Solution: 10:01:00
+Steps: 77-7=70; 70:7=10:1",2.OA.A.1,9
+1688,"Question: A produce store offers red and green apples. In one morning they sold 77 apples total. If 7 of the apples they sold were red, what is the ratio of green apples sold to red apples sold?
+Solution: 10:01:00
+Steps: 77-7=70; 70:7=10:1",6.RP.A.3,40
+1521,"Question: In Mrs. Hutchinson's kindergarten class, children make handprints in a round clay mold for their parents. The mold has a diameter of 4 inches. What is the mold's radius?
+Solution: 2 (centimeters)
+Steps: 4/2=2",7.G.B.4,44
+1849,"Question: A chef had sixteen apples. After making a pie he had seven left. How many apples did he use in the pie?
+Solution: 9 (apples)
+Steps: 16-7=9",1.OA.A.1,1

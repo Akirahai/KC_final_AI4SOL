@@ -92,9 +92,9 @@ if __name__== "__main__":
     
     
     # Load data
-    df_train =pd.read_csv(f'ASDiv_data/Training_data/{seed}_train_set.csv')
-    df_valid =pd.read_csv(f'ASDiv_data/Training_data/{seed}_valid_set.csv')
-    df_test =pd.read_csv(f'ASDiv_data/Training_data/ASDiv-100-4th_test.csv')
+    df_train =pd.read_csv(f'ASDiv_data/Training_data_12345/{seed}_train_set.csv')
+    df_valid =pd.read_csv(f'ASDiv_data/Training_data_12345/{seed}_valid_set.csv')
+    df_test =pd.read_csv(f'ASDiv_data/Training_data_12345/ASDiv-100-4th_test.csv')
     
     
     dataset_train = Dataset.from_pandas(df_train[['Question', 'label']])
