@@ -74,7 +74,7 @@ if __name__== "__main__":
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     # tokenizer.add_special_tokens({'pad_token': '[PAD]'})
     
-    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=29) # Remember to change number of labels
+    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=50) # Remember to change number of labels
     model.resize_token_embeddings(len(tokenizer))
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)   
     
