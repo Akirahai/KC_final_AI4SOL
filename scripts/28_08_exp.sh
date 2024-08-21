@@ -9,7 +9,7 @@ models=(
   # "google/flan-t5-base"
 )
 seeds=(12 24 42 84 168)
-gpus=(0 1 0 1 0)
+gpus=(2 2 2 2 2)
 
 # Loop through each model and seed
 for model in "${models[@]}"; do
@@ -21,6 +21,8 @@ for model in "${models[@]}"; do
     --experiment 28_08_deliver --training-folder Training_data_12345 --num-of-labels 50
 
     find "./result/28_08_deliver/seed_$seed/$model" -type d -name "checkpoint-*" -exec rm -r {} +
+
+    sleep 300
     
   done
 done

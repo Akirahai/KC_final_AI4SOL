@@ -9,7 +9,7 @@ models=(
   "google/flan-t5-base"
 )
 seeds=(12 24 42 84 168)
-gpus=(0 1 0 1 0)
+gpus=(1 1 1 1 1)
 
 # Loop through each model and seed
 for model in "${models[@]}"; do
