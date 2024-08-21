@@ -5,8 +5,9 @@ def parse_args():
     parser.add_argument('--data-dir', type=str, default='data/Knowledge_Base/', help='Directory for data dir')
     parser.add_argument('--seed', type=int, default=42, help='Seed to split data') #42
     parser.add_argument('--model', type=str, help='Model name or path')
-    # # parser.add_argument('--seeds', type=int, nargs='+', default=[42, 50, 100], help='List of seeds to split data')
-    # parser.add_argument('--models', type=str, nargs='+', help='List of models to train')
+    parser.add_argument('--training-folder', type=str, default='Training_data_12345', help='Training data folder')
+    parser.add_argument('--num-of-labels', type=int, default=50, help='Number of labels')
+
     parser.add_argument('--num-classes', type=int, default=4, help='Num of grade')
     parser.add_argument('--lr', '--learning-rate', type=float, default=0.00009, help='Learning rate') #0.0001
     parser.add_argument('--batch-size', type=int, default=32, help='Batch size')
@@ -74,7 +75,7 @@ if __name__== "__main__":
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     # tokenizer.add_special_tokens({'pad_token': '[PAD]'})
     
-    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=50) # Remember to change number of labels
+    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels= args.num_of_labels) # Remember to change number of labels
     model.resize_token_embeddings(len(tokenizer))
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)   
     
@@ -92,9 +93,9 @@ if __name__== "__main__":
     
     
     # Load data
-    df_train =pd.read_csv(f'ASDiv_data/Training_data_12345/{seed}_train_set.csv')
-    df_valid =pd.read_csv(f'ASDiv_data/Training_data_12345/{seed}_valid_set.csv')
-    df_test =pd.read_csv(f'ASDiv_data/Training_data_12345/ASDiv-100-4th_test.csv')
+    df_train =pd.read_csv(f'ASDiv_data/{args.training_folder}/{seed}_train_set.csv')
+    df_valid =pd.read_csv(f'ASDiv_data/{args.training_folder}/{seed}_valid_set.csv')
+    df_test =pd.read_csv(f'ASDiv_data/{args.training_folder}/ASDiv-100-4th_test.csv')
     
     
     dataset_train = Dataset.from_pandas(df_train[['Question', 'label']])
@@ -158,7 +159,7 @@ if __name__== "__main__":
         tokenizer=tokenizer,
         data_collator=data_collator,
         compute_metrics=compute_metrics,
-        callbacks=[EarlyStoppingCallback(early_stopping_patience=6)],
+        callbacks=[EarlyStoppingCallback(early_stopping_patience=10)],
     )
     
     if args.phase == 'train':

@@ -6,10 +6,10 @@ models=(
   # "google-bert/bert-large-cased"
   "FacebookAI/roberta-base"
   "FacebookAI/roberta-large"
-  # "google/flan-t5-base"
+  "google/flan-t5-base"
 )
 seeds=(12 24 42 84 168)
-gpus=(1 2 1 2 1 2)
+gpus=(1 2 1 2 1)
 
 for model in "${models[@]}"; do
   # Loop through each seed and corresponding GPU
