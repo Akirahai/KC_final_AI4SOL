@@ -1,16 +1,12 @@
-// This is a shell script written in Bash. The script defines an array of models and an array of seeds.
-// It then loops through each model and seed combination and runs a Python script `main.py` with
-// specific arguments like `--use-gpu`, `--gpus`, `--phase`, `--batch-size`, `--lr`, `--epochs`,
-// `--model`, `--seed`, `--experiment`, and `--top-k`.
 #!/bin/bash
 
 # Define the models and seeds
 models=(
   "google-bert/bert-base-cased"
+  "google-bert/bert-large-cased"
   "FacebookAI/roberta-base"
-  "google/flan-t5-base"
   "FacebookAI/roberta-large"
-  "google-bert/bert-large-uncased"
+  "google/flan-t5-base"
 )
 seeds=(12 24 42 84 168)
 
