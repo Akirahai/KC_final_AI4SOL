@@ -94,13 +94,10 @@ def preprocess_function(examples, tokenizer, max_length=512):
 #             print(f"Logs: {logs}")  # Print the logs to see what they contain
 
 
-id_to_kc = {0: '1.NBT.B.3', 1: '1.OA.A.1', 2: '1.OA.A.2', 3: '2.MD.B.5', 4: '2.MD.C.8', 5: '2.NBT.A.4', 6: '2.NBT.B.5', 7: '2.NBT.B.6', 8: '2.NBT.B.7', 9: '2.OA.A.1', 10: '2.OA.B.2', 
-            11: '3.G.A.1', 12: '3.MD.D.8', 13: '3.NBT.A.2', 14: '3.NBT.A.3', 15: '3.NF.A.3', 16: '3.OA.8', 17: '3.OA.9', 18: '3.OA.A.3', 19: '3.OA.D.8', 20: '3.OA.D.9', 21: '4.MD.A.2', 
-            22: '4.MD.A.3', 23: '4.MD.C.7', 24: '4.NBT.B.4', 25: '4.NBT.B.5', 26: '4.NBT.B.6', 27: '4.NF.B.4', 28: '4.NF.C.7', 29: '4.OA.A.3', 30: '4.OA.A3', 31: '4.OA.C.5', 32: '5.NBT.B.5', 
-            33: '5.NBT.B.6', 34: '5.NBT.B.7', 35: '6.EE.B.6', 36: '6.EE.C.9', 37: '6.NS.B.2', 38: '6.NS.B.4', 39: '6.RP.A.1', 40: '6.RP.A.3', 41: '6.SP.B.5', 42: '6.SP.P.5', 43: '7.EE.B.4', 
-            44: '7.G.B.4', 45: '7.G.B.5', 46: '7.G.B.6', 47: '8.EE.C.8', 48: 'K.CC.C.7', 49: 'K.OA.A.2'}
-    
-def predictions_output(df, tokenized_dataset, trainer,top_k ):
+
+
+
+def predictions_output(df, tokenized_dataset, trainer,top_k, id_to_kc):
     preds = trainer.predict(tokenized_dataset).predictions
     df_predictions = df.copy()
     if isinstance(preds, tuple):

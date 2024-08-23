@@ -79,6 +79,23 @@ if __name__== "__main__":
     model.resize_token_embeddings(len(tokenizer))
     data_collator = DataCollatorWithPadding(tokenizer=tokenizer)   
     
+    # Check id_to_kc
+    if args.num_of_labels == 50:
+        id_to_kc = {0: '1.NBT.B.3', 1: '1.OA.A.1', 2: '1.OA.A.2', 3: '2.MD.B.5', 4: '2.MD.C.8', 5: '2.NBT.A.4', 6: '2.NBT.B.5', 7: '2.NBT.B.6', 8: '2.NBT.B.7', 9: '2.OA.A.1', 10: '2.OA.B.2', 
+            11: '3.G.A.1', 12: '3.MD.D.8', 13: '3.NBT.A.2', 14: '3.NBT.A.3', 15: '3.NF.A.3', 16: '3.OA.8', 17: '3.OA.9', 18: '3.OA.A.3', 19: '3.OA.D.8', 20: '3.OA.D.9', 21: '4.MD.A.2', 
+            22: '4.MD.A.3', 23: '4.MD.C.7', 24: '4.NBT.B.4', 25: '4.NBT.B.5', 26: '4.NBT.B.6', 27: '4.NF.B.4', 28: '4.NF.C.7', 29: '4.OA.A.3', 30: '4.OA.A3', 31: '4.OA.C.5', 32: '5.NBT.B.5', 
+            33: '5.NBT.B.6', 34: '5.NBT.B.7', 35: '6.EE.B.6', 36: '6.EE.C.9', 37: '6.NS.B.2', 38: '6.NS.B.4', 39: '6.RP.A.1', 40: '6.RP.A.3', 41: '6.SP.B.5', 42: '6.SP.P.5', 43: '7.EE.B.4', 
+            44: '7.G.B.4', 45: '7.G.B.5', 46: '7.G.B.6', 47: '8.EE.C.8', 48: 'K.CC.C.7', 49: 'K.OA.A.2'}
+        
+    elif args.num_of_labels == 29:
+        
+        id_to_kc = {0: '1.OA.A.1', 1: '1.OA.A.2', 2: '2.NBT.B.5', 3: '2.NBT.B.6', 4: '2.NBT.B.7', 5: '2.OA.A.1', 6: '3.MD.D.8', 
+                7: '3.NBT.A.2', 8: '3.NBT.A.3', 9: '3.NF.A.3', 10: '3.OA.A.3', 11: '3.OA.D.8', 12: '3.OA.D.9', 13: '4.MD.A.2', 
+                14: '4.MD.A.3', 15: '4.NBT.B.4', 16: '4.NBT.B.5', 17: '4.NBT.B.6', 18: '4.OA.A.3', 19: '5.NBT.B.5', 20: '5.NBT.B.6', 
+                21: '6.EE.B.6', 22: '6.EE.C.9', 23: '6.NS.B.4', 24: '6.RP.A.1', 25: '6.RP.A.3', 26: '6.SP.B.5', 27: '8.EE.C.8', 28: 'K.OA.A.2'}
+
+
+
     if tokenizer.pad_token is None:
         print("Adding padding token to tokenizer...")
         tokenizer.add_special_tokens({'pad_token': '[PAD]'})
@@ -89,7 +106,7 @@ if __name__== "__main__":
         tokenizer.pad_token = tokenizer.eos_token
         model.config.pad_token_id = model.config.eos_token_id
     
-    print(f"Training the data at seed {seed} with model {model_name}...")
+    print(f"Training the data at seed {seed} with model {model_name} with {args.num_of_labels}...")
     
     
     # Load data
