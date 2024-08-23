@@ -238,9 +238,9 @@ if __name__== "__main__":
     
 
     
-    df_test_predictions = predictions_output(df_test, tokenized_dataset_test, trainer, args.top_k)
-    df_train_predictions = predictions_output(df_train, tokenized_dataset_train, trainer,args.top_k )
-    df_valid_predictions = predictions_output(df_valid, tokenized_dataset_valid, trainer, args.top_k)
+    df_test_predictions = predictions_output(df_test, tokenized_dataset_test, trainer, args.top_k, id_to_kc)
+    df_train_predictions = predictions_output(df_train, tokenized_dataset_train, trainer,args.top_k, id_to_kc)
+    df_valid_predictions = predictions_output(df_valid, tokenized_dataset_valid, trainer, args.top_k, id_to_kc)
     
     model_name = model_name.split('/')[-1]
     
