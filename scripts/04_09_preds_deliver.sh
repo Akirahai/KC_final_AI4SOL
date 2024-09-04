@@ -14,6 +14,6 @@ seeds=(12 24 42 84 168)
 for model in "${models[@]}"; do
   for seed in "${seeds[@]}"; do
     python main.py --use-gpu --gpus 1 2 3 --phase test --batch-size 16 --lr 0.0001 --epochs 70 --model "result/21_08_deliver/seed_$seed/$model" \
-    --seed $seed --experiment 21_08_deliver --top-k 5 --training-folder Training_data_1234 --num-of-labels 29
+    --seed $seed --experiment 04_09_deliver_train_set_12345 --top-k 5 --training-folder Training_data_12345 --num-of-labels 50 -- testing-set ASDiv-600-6th_test.csv
   done
 done

@@ -25,6 +25,7 @@ def parse_args():
     parser.add_argument('--samples', type=int, default=100, help='Number of testing samples')
     parser.add_argument('--additional-training',type=str, default='Training_from_saved_model_first', help='Train on saved model')
     
+    parser.add_argument('--testing-set', type=str, default='ASDiv-100-4th_test.csv', help='Testing set')
     return parser.parse_args()
     
 
@@ -69,6 +70,7 @@ if __name__== "__main__":
     experiment = args.experiment
     model_name = args.model
     seed = args.seed
+    test_set = args.testing_set
         
 
     # Load model
@@ -112,7 +114,7 @@ if __name__== "__main__":
     # Load data
     df_train =pd.read_csv(f'ASDiv_data/{args.training_folder}/{seed}_train_set.csv')
     df_valid =pd.read_csv(f'ASDiv_data/{args.training_folder}/{seed}_valid_set.csv')
-    df_test =pd.read_csv(f'ASDiv_data/{args.training_folder}/ASDiv-100-4th_test.csv')
+    df_test =pd.read_csv(f'ASDiv_data/{args.training_folder}/{test_set}')
     
     
     dataset_train = Dataset.from_pandas(df_train[['Question', 'label']])
