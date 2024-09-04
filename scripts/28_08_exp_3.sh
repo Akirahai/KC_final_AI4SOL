@@ -23,7 +23,7 @@ for model in "${models[@]}"; do
     seed=${seeds[i]}
     gpu=${gpus[i]}
     
-    python main.py --use-gpu --gpus $gpu --phase train --batch-size 16 --lr 0.00001 --epochs 150 --model $model --seed $seed \
+    python main.py --use-gpu --gpus $gpu --phase train --batch-size 8 --lr 0.00001 --epochs 150 --model $model --seed $seed \
     --experiment 28_08_deliver --training-folder Training_data_12345 --num-of-labels 50
 
     find "./result/28_08_deliver/seed_$seed/$model" -type d -name "checkpoint-*" -exec rm -r {} +
