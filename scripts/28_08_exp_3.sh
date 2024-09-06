@@ -16,7 +16,7 @@ models=(
   'HuggingFaceTB/SmolLM-1.7B'
 )
 seeds=(12 24 42 84 168)
-gpus=(2 2 2 2 2 )
+gpus=(0 0 0 0 0)
 
 for model in "${models[@]}"; do
   # Loop through each seed and corresponding GPU
@@ -29,7 +29,7 @@ for model in "${models[@]}"; do
 
     find "./result/28_08_deliver/seed_$seed/$model" -type d -name "checkpoint-*" -exec rm -r {} +
 
-    sleep 300
+    sleep 100
 
   done
 done

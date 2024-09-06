@@ -15,7 +15,7 @@ models=(
   'HuggingFaceTB/SmolLM-1.7B'
 )
 seeds=(12 24 42 84 168)
-gpus=(3 3 3 3 3)
+gpus=(0 0 0 0 0)
 
 # Loop through each model and seed
 for model in "${models[@]}"; do
