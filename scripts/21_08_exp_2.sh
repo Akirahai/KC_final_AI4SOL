@@ -11,7 +11,7 @@ models=(
   # "google/flan-t5-base"
   # "Qwen/Qwen2-Math-1.5B"
   # "Qwen/Qwen2-1.5B"
-  "microsoft/phi-1_5"
+  # "microsoft/phi-1_5"
   'HuggingFaceTB/SmolLM-1.7B'
 )
 seeds=(12 24 42 84 168)
