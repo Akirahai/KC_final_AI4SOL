@@ -1,0 +1,865 @@
+Question_ID,Question,KC,label,top_1_preds,top_2_preds,top_3_preds,top_4_preds,top_5_preds,Top_1_labels,Top_2_labels,Top_3_labels,Top_4_labels,Top_5_labels
+1475,"Question: The perimeter of a college basketball court is 96 meters and the length is 14 meters more than the width. What are the dimensions?
+Solution: 17 (meters); 31 (meters)
+Steps: x:The length of the court; y:The width of the court; 2x+2y=96; x=y+14",7.EE.B.4,43,[47],[43 47],[35 43 47],[39 35 43 47],[12 39 35 43 47], 8.EE.C.8," 7.EE.B.4, 8.EE.C.8"," 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 3.MD.D.8, 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"
+215,"Question: After Sam and Bob left, Mary, John and Sue decided to go home as well. They counted the total amount of treats that the three of them got. They were able to sort out 60 chewing gums, 55 chocolate bars and another 40 candies of different flavors. How many treats did Mary, John and Sue have in total?
+Solution: 155 (treats)
+Steps: 60+55+40=155",2.NBT.B.6,7,[8],[9 8],[25  9  8],[13 25  9  8],[ 1 13 25  9  8], 2.NBT.B.7," 2.OA.A.1, 2.NBT.B.7"," 4.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"," 3.NBT.A.2, 4.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"," 1.OA.A.1, 3.NBT.A.2, 4.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"
+216,"Question: It is Easter time and the kids in the neighborhood of Easterville are very excited about the annual Easter egg hunt. The parents have decided to hide the eggs in a lot of different places. They hid 55 eggs around the club house, 33 eggs around the village park and 22 eggs in the town hall garden. How many eggs were hidden in total?
+Solution: 110 (eggs)
+Steps: 55+33+22=110",3.NBT.A.2,13,[9],[8 9],[13  8  9],[25 13  8  9],[ 6 25 13  8  9], 2.OA.A.1," 2.NBT.B.7, 2.OA.A.1"," 3.NBT.A.2, 2.NBT.B.7, 2.OA.A.1"," 4.NBT.B.5, 3.NBT.A.2, 2.NBT.B.7, 2.OA.A.1"," 2.NBT.B.5, 4.NBT.B.5, 3.NBT.A.2, 2.NBT.B.7, 2.OA.A.1"
+2072,"Question: At the movie theatre, they give out a free drink to every 75th customer and a free bag of popcorn to every 30th customer. On Monday 3,000 customers came to the theatre. How many people received both free items?
+Solution: 20 (people)
+Steps: LCM[75,30]=150; 3000/150=20",6.NS.B.2,37,[33],[21 33],[39 21 33],[ 9 39 21 33],[18  9 39 21 33], 5.NBT.B.6," 4.MD.A.2, 5.NBT.B.6"," 6.RP.A.1, 4.MD.A.2, 5.NBT.B.6"," 2.OA.A.1, 6.RP.A.1, 4.MD.A.2, 5.NBT.B.6"," 3.OA.A.3, 2.OA.A.1, 6.RP.A.1, 4.MD.A.2, 5.NBT.B.6"
+1987,"Question: Nancy was counting the number of people on different toys on the playground. She counted: 6, 12, 1, 12, 7, 3 and 8. What is the mean of the people?
+Solution: 7 (people)
+Steps: (6+12+1+12+7+3+8)/7=7",6.SP.B.5,41,[19],[41 19],[18 41 19],[49 18 41 19],[ 1 49 18 41 19], 3.OA.D.8," 6.SP.B.5, 3.OA.D.8"," 3.OA.A.3, 6.SP.B.5, 3.OA.D.8"," K.OA.A.2, 3.OA.A.3, 6.SP.B.5, 3.OA.D.8"," 1.OA.A.1, K.OA.A.2, 3.OA.A.3, 6.SP.B.5, 3.OA.D.8"
+173,"Question: Karen wants to buy a pen that costs 75 cents. She has 2 quarters and 3 dimes. Does she have enough money?
+Solution: Yes
+Steps: 2*25+3*10=80 cents > 75 cents",2.MD.C.8,4,[21],[ 9 21],[49  9 21],[18 49  9 21],[33 18 49  9 21], 4.MD.A.2," 2.OA.A.1, 4.MD.A.2"," K.OA.A.2, 2.OA.A.1, 4.MD.A.2"," 3.OA.A.3, K.OA.A.2, 2.OA.A.1, 4.MD.A.2"," 5.NBT.B.6, 3.OA.A.3, K.OA.A.2, 2.OA.A.1, 4.MD.A.2"
+1472,"Question: The second angle of a triangle is five times as large as the first. The measure of the third angle is 12 degrees greater than that of the first angle. How large are the angles?
+Solution: 24 (degrees); 120 (degrees); 36 (degrees)
+Steps: x:The first angle of a triangle; y:The second angle of a triangle; y=5x; 180-(x+y)=x+12",7.G.B.5,45,[35],[47 35],[43 47 35],[39 43 47 35],[ 9 39 43 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 2.OA.A.1, 6.RP.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"
+1430,"Question: Points A and B are 70 km apart on a highway. A car starts from A and another car starts from B at the same time. If they travel in the same direction, they meet in 7 hours, but if they travel towards each other they meet in one hour. What are their respective speeds?
+Solution: 40 (km/hour); 30 (km/hour)
+Steps: A:Car speed of point A; B:Car speed of point B; 7A-7B=70; A+B=70",6.EE.C.9,36,[47],[43 47],[35 43 47],[39 35 43 47],[21 39 35 43 47], 8.EE.C.8," 7.EE.B.4, 8.EE.C.8"," 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 4.MD.A.2, 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"
+1709,"Question: At a comic book convention vendor 1 was selling a set of 3 comics for $31.77. Vendor 2 was selling a set of 2 comics for $21.32. Which vendor has the higher unit price?
+Solution: Vendor 2
+Steps: 31.77/3=10.59(Vendor 1) < 21.32/2=10.66(Vendor 2)",4.NF.C.7,28,[21],[33 21],[49 33 21],[ 9 49 33 21],[ 1  9 49 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"," 2.OA.A.1, K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"," 1.OA.A.1, 2.OA.A.1, K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"
+1502,"Question: A square garden has a perimeter of 48 meters. A pond inside the garden has an area of 20 square meters. What is the area of the garden that is not taken up by the pond?
+Solution: 124 (square meters)
+Steps: ((48/4)^2)-20=124",3.G.A.1,11,[22],[35 22],[25 35 22],[11 25 35 22],[21 11 25 35 22], 4.MD.A.3," 6.EE.B.6, 4.MD.A.3"," 4.NBT.B.5, 6.EE.B.6, 4.MD.A.3"," 3.G.A.1, 4.NBT.B.5, 6.EE.B.6, 4.MD.A.3"," 4.MD.A.2, 3.G.A.1, 4.NBT.B.5, 6.EE.B.6, 4.MD.A.3"
+173,"Question: Karen wants to buy a pen that costs 75 cents. She has 2 quarters and 3 dimes. Does she have enough money?
+Solution: Yes
+Steps: 2*25+3*10=80 cents > 75 cents",2.NBT.A.4,5,[21],[ 9 21],[49  9 21],[18 49  9 21],[33 18 49  9 21], 4.MD.A.2," 2.OA.A.1, 4.MD.A.2"," K.OA.A.2, 2.OA.A.1, 4.MD.A.2"," 3.OA.A.3, K.OA.A.2, 2.OA.A.1, 4.MD.A.2"," 5.NBT.B.6, 3.OA.A.3, K.OA.A.2, 2.OA.A.1, 4.MD.A.2"
+664,"Question: Zeshaun bought stamps at the post office. Some of the stamps had a snowflake design, some had a truck design, and some had a rose design. Zeshaun bought 3 snowflake stamps. He bought 5 more truck stamps than snowflake stamps, and 2 fewer rose stamps than truck stamps. How many stamps did Zeshaun buy in all?
+Solution: 17 (stamps)
+Steps: 3+5=8; 8-2=6; 3+8+6=17",4.OA.A3,30,[1],[9 1],[49  9  1],[39 49  9  1],[47 39 49  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 6.RP.A.1, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 8.EE.C.8, 6.RP.A.1, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+1502,"Question: A square garden has a perimeter of 48 meters. A pond inside the garden has an area of 20 square meters. What is the area of the garden that is not taken up by the pond?
+Solution: 124 (square meters)
+Steps: ((48/4)^2)-20=124",4.MD.A.3,22,[22],[35 22],[25 35 22],[11 25 35 22],[21 11 25 35 22], 4.MD.A.3," 6.EE.B.6, 4.MD.A.3"," 4.NBT.B.5, 6.EE.B.6, 4.MD.A.3"," 3.G.A.1, 4.NBT.B.5, 6.EE.B.6, 4.MD.A.3"," 4.MD.A.2, 3.G.A.1, 4.NBT.B.5, 6.EE.B.6, 4.MD.A.3"
+2072,"Question: At the movie theatre, they give out a free drink to every 75th customer and a free bag of popcorn to every 30th customer. On Monday 3,000 customers came to the theatre. How many people received both free items?
+Solution: 20 (people)
+Steps: LCM[75,30]=150; 3000/150=20",6.NS.B.4,38,[33],[21 33],[39 21 33],[ 9 39 21 33],[18  9 39 21 33], 5.NBT.B.6," 4.MD.A.2, 5.NBT.B.6"," 6.RP.A.1, 4.MD.A.2, 5.NBT.B.6"," 2.OA.A.1, 6.RP.A.1, 4.MD.A.2, 5.NBT.B.6"," 3.OA.A.3, 2.OA.A.1, 6.RP.A.1, 4.MD.A.2, 5.NBT.B.6"
+1709,"Question: At a comic book convention vendor 1 was selling a set of 3 comics for $31.77. Vendor 2 was selling a set of 2 comics for $21.32. Which vendor has the higher unit price?
+Solution: Vendor 2
+Steps: 31.77/3=10.59(Vendor 1) < 21.32/2=10.66(Vendor 2)",4.MD.A.2,21,[21],[33 21],[49 33 21],[ 9 49 33 21],[ 1  9 49 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"," 2.OA.A.1, K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"," 1.OA.A.1, 2.OA.A.1, K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"
+1475,"Question: The perimeter of a college basketball court is 96 meters and the length is 14 meters more than the width. What are the dimensions?
+Solution: 17 (meters); 31 (meters)
+Steps: x:The length of the court; y:The width of the court; 2x+2y=96; x=y+14",3.MD.D.8,12,[47],[43 47],[35 43 47],[39 35 43 47],[12 39 35 43 47], 8.EE.C.8," 7.EE.B.4, 8.EE.C.8"," 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 3.MD.D.8, 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"
+1475,"Question: The perimeter of a college basketball court is 96 meters and the length is 14 meters more than the width. What are the dimensions?
+Solution: 17 (meters); 31 (meters)
+Steps: x:The length of the court; y:The width of the court; 2x+2y=96; x=y+14",8.EE.C.8,47,[47],[43 47],[35 43 47],[39 35 43 47],[12 39 35 43 47], 8.EE.C.8," 7.EE.B.4, 8.EE.C.8"," 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 3.MD.D.8, 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"
+1430,"Question: Points A and B are 70 km apart on a highway. A car starts from A and another car starts from B at the same time. If they travel in the same direction, they meet in 7 hours, but if they travel towards each other they meet in one hour. What are their respective speeds?
+Solution: 40 (km/hour); 30 (km/hour)
+Steps: A:Car speed of point A; B:Car speed of point B; 7A-7B=70; A+B=70",8.EE.C.8,47,[47],[43 47],[35 43 47],[39 35 43 47],[21 39 35 43 47], 8.EE.C.8," 7.EE.B.4, 8.EE.C.8"," 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 4.MD.A.2, 6.RP.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"
+1472,"Question: The second angle of a triangle is five times as large as the first. The measure of the third angle is 12 degrees greater than that of the first angle. How large are the angles?
+Solution: 24 (degrees); 120 (degrees); 36 (degrees)
+Steps: x:The first angle of a triangle; y:The second angle of a triangle; y=5x; 180-(x+y)=x+12",8.EE.C.8,47,[35],[47 35],[43 47 35],[39 43 47 35],[ 9 39 43 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 2.OA.A.1, 6.RP.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"
+A,"Question: There are 43 students and 1720 apples. Each student has 9 Skittles. If the apples are divided equally among the students,how many does each student get?
+Solution: 1720/43=40
+Steps: 1720/43=40",5.NBT.B.6,33,[33],[21 33],[ 9 21 33],[19  9 21 33],[18 19  9 21 33], 5.NBT.B.6," 4.MD.A.2, 5.NBT.B.6"," 2.OA.A.1, 4.MD.A.2, 5.NBT.B.6"," 3.OA.D.8, 2.OA.A.1, 4.MD.A.2, 5.NBT.B.6"," 3.OA.A.3, 3.OA.D.8, 2.OA.A.1, 4.MD.A.2, 5.NBT.B.6"
+C,"Question: At the fair Kaleb bought 6 tickets. After riding the ferris wheel he had 3 tickets left. If each ticket cost 9 dollars, how much money did Kaleb spend riding the ferris wheel?
+Solution: (6-3)*9=27
+Steps: (6-3)*9=27",K.OA.A.2,49,[18],[49 18],[ 9 49 18],[19  9 49 18],[21 19  9 49 18], 3.OA.A.3," K.OA.A.2, 3.OA.A.3"," 2.OA.A.1, K.OA.A.2, 3.OA.A.3"," 3.OA.D.8, 2.OA.A.1, K.OA.A.2, 3.OA.A.3"," 4.MD.A.2, 3.OA.D.8, 2.OA.A.1, K.OA.A.2, 3.OA.A.3"
+C,"Question: At the fair Kaleb bought 6 tickets. After riding the ferris wheel he had 3 tickets left. If each ticket cost 9 dollars, how much money did Kaleb spend riding the ferris wheel?
+Solution: (6-3)*9=27
+Steps: (6-3)*9=27",3.OA.A.3,18,[18],[49 18],[ 9 49 18],[19  9 49 18],[21 19  9 49 18], 3.OA.A.3," K.OA.A.2, 3.OA.A.3"," 2.OA.A.1, K.OA.A.2, 3.OA.A.3"," 3.OA.D.8, 2.OA.A.1, K.OA.A.2, 3.OA.A.3"," 4.MD.A.2, 3.OA.D.8, 2.OA.A.1, K.OA.A.2, 3.OA.A.3"
+F,"Question: Daniel has 44 commemorative plates and 33 commemorative spoons. He wants to display them in groups throughout his house, each with the same combination of plates and spoons, with none left over. What is the greatest number of groups Daniel can display?
+Solution: GCD(44,33)=11
+Steps: GCD(44,33)=11",6.NS.B.4,38,[38],[12 38],[18 12 38],[ 9 18 12 38],[33  9 18 12 38], 6.NS.B.4," 3.MD.D.8, 6.NS.B.4"," 3.OA.A.3, 3.MD.D.8, 6.NS.B.4"," 2.OA.A.1, 3.OA.A.3, 3.MD.D.8, 6.NS.B.4"," 5.NBT.B.6, 2.OA.A.1, 3.OA.A.3, 3.MD.D.8, 6.NS.B.4"
+H,"Question: While sorting some buttons, Malia put 1 button in the first box, 3 buttons in the second box, 9 buttons in the third box, 27 buttons in the fourth box, and 81 buttons in the fifth box. If this pattern continues, how many buttons will Malia put in the sixth box?
+Solution: 1, 3, 9, 27, 81, 243
+Steps: 1, 3, 9, 27, 81, 243",3.OA.D.9,20,[20],[21 20],[ 9 21 20],[49  9 21 20],[18 49  9 21 20], 3.OA.D.9," 4.MD.A.2, 3.OA.D.9"," 2.OA.A.1, 4.MD.A.2, 3.OA.D.9"," K.OA.A.2, 2.OA.A.1, 4.MD.A.2, 3.OA.D.9"," 3.OA.A.3, K.OA.A.2, 2.OA.A.1, 4.MD.A.2, 3.OA.D.9"
+1997,"Question: While on vacation, Debby took 24 pictures at the zoo and 12 at the museum. If she later deleted 14 of the pictures, how many pictures from her vacation did she still have?
+Solution: 22 (pictures)
+Steps: 24+12-14=22",2.OA.A.1,9,[9],[1 9],[29  1  9],[40 29  1  9],[ 6 40 29  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 6.RP.A.3, 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"
+1742,"Question: An architect built a house with ten bedrooms total. If the second floor had two bedrooms. How many bedrooms does the first floor have?
+Solution: 8 (bedrooms)
+Steps: 10-2=8",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[18  9  1 49],[35 18  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 6.EE.B.6, 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+115,"Question: Marcus has 210 baseball cards. He has 58 more than Carter. How many baseball cards does Carter have?
+Solution: 152 (baseball cards)
+Steps: 210-58=152",2.NBT.B.7,8,[8],[9 8],[25  9  8],[ 1 25  9  8],[13  1 25  9  8], 2.NBT.B.7," 2.OA.A.1, 2.NBT.B.7"," 4.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"," 1.OA.A.1, 4.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"," 3.NBT.A.2, 1.OA.A.1, 4.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"
+2154,"Question: Robin drank seven bottles of water in the morning and seven in the afternoon. How many bottles did Robin drink total?
+Solution: 14 (bottles)
+Steps: 7+7=14",1.OA.A.1,1,[1],[9 1],[2 9 1],[49  2  9  1],[33 49  2  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, K.OA.A.2, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+2104,"Question: A baker made 2 batches of chocolate chip cookies. Each batch had 3 cookies in it. Then he made an additional 4 oatmeal cookies just in case someone didn't want chocolate chip. How many cookies did he bake total?
+Solution: 10 (cookies)
+Steps: 2*3+4=10",3.OA.D.8,19,[19],[49 19],[18 49 19],[ 9 18 49 19],[ 1  9 18 49 19], 3.OA.D.8," K.OA.A.2, 3.OA.D.8"," 3.OA.A.3, K.OA.A.2, 3.OA.D.8"," 2.OA.A.1, 3.OA.A.3, K.OA.A.2, 3.OA.D.8"," 1.OA.A.1, 2.OA.A.1, 3.OA.A.3, K.OA.A.2, 3.OA.D.8"
+1392,"Question: Oceanside Bike Rental Shop charges a 17 dollar fixed fee plus 7 dollars an hour for renting a bike. Mary paid 80 dollars to rent a bike. How many hours did she pay to have the bike checked out ?
+Solution: 9 (hours)
+Steps: x:Dollars for renting an hour; 17+7x=80",6.EE.B.6,35,[35],[ 9 35],[47  9 35],[49 47  9 35],[ 1 49 47  9 35], 6.EE.B.6," 2.OA.A.1, 6.EE.B.6"," 8.EE.C.8, 2.OA.A.1, 6.EE.B.6"," K.OA.A.2, 8.EE.C.8, 2.OA.A.1, 6.EE.B.6"," 1.OA.A.1, K.OA.A.2, 8.EE.C.8, 2.OA.A.1, 6.EE.B.6"
+1617,"Question: A rectangle flower bed had a total area of 35 square yards. If it was 5 yards wide, how long was it?
+Solution: 7 (yards)
+Steps: 35/5=7",3.OA.A.3,18,[22],[18 22],[ 1 18 22],[12  1 18 22],[ 9 12  1 18 22], 4.MD.A.3," 3.OA.A.3, 4.MD.A.3"," 1.OA.A.1, 3.OA.A.3, 4.MD.A.3"," 3.MD.D.8, 1.OA.A.1, 3.OA.A.3, 4.MD.A.3"," 2.OA.A.1, 3.MD.D.8, 1.OA.A.1, 3.OA.A.3, 4.MD.A.3"
+202,"Question: While building the house, Charlie noticed that they were running out of nails so he told his father he's going to buy some. If they still have 9 nails left and Charlie bought 2 boxes of nails, the big one containing 55 nails and the small one containing 31, how many nails will they have?
+Solution: 95 (nails)
+Steps: 9+31+55=95",2.OA.A.1,9,[9],[29  9],[13 29  9],[ 8 13 29  9],[19  8 13 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.7, 3.NBT.A.2, 4.OA.A.3, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.7, 3.NBT.A.2, 4.OA.A.3, 2.OA.A.1"
+237,"Question: Mr. Fortree, a businessman also gave seedlings for the tree planting activity. If he gave 14 seedlings of cedar and 38 seedlings of pine, how many seedlings did he give in total?
+Solution: 52 (seedlings)
+Steps: 14+38=52",2.OA.A.1,9,[9],[29  9],[40 29  9],[13 40 29  9],[ 6 13 40 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 3.NBT.A.2, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"
+390,"Question: Their last stop before leaving the zoo is the bird museum. There, they went through 7 bird exhibits, spending 9 minutes going around each exhibit. How much time did they spend going through the museum?
+Solution: 63 (minutes)
+Steps: 7*9=63",3.OA.A.3,18,[18],[ 9 18],[25  9 18],[29 25  9 18],[21 29 25  9 18], 3.OA.A.3," 2.OA.A.1, 3.OA.A.3"," 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 4.OA.A.3, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 4.MD.A.2, 4.OA.A.3, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"
+2243,"Question: A new building needed 14 windows. The builder had already installed 5 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?
+Solution: 36 (hours)
+Steps: (14-5)*4=36",2.OA.A.1,9,[19],[16 19],[12 16 19],[40 12 16 19],[21 40 12 16 19], 3.OA.D.8," 3.OA.8, 3.OA.D.8"," 3.MD.D.8, 3.OA.8, 3.OA.D.8"," 6.RP.A.3, 3.MD.D.8, 3.OA.8, 3.OA.D.8"," 4.MD.A.2, 6.RP.A.3, 3.MD.D.8, 3.OA.8, 3.OA.D.8"
+2243,"Question: A new building needed 14 windows. The builder had already installed 5 of them. If it takes 4 hours to install each window, how long will it take him to install the rest?
+Solution: 36 (hours)
+Steps: (14-5)*4=36",6.RP.A.1,39,[19],[16 19],[12 16 19],[40 12 16 19],[21 40 12 16 19], 3.OA.D.8," 3.OA.8, 3.OA.D.8"," 3.MD.D.8, 3.OA.8, 3.OA.D.8"," 6.RP.A.3, 3.MD.D.8, 3.OA.8, 3.OA.D.8"," 4.MD.A.2, 6.RP.A.3, 3.MD.D.8, 3.OA.8, 3.OA.D.8"
+2271,"Question: If Lillian split 20 Skittles between 8 people in her class and kept the left overs, how many Skittles did each classmate get?
+Solution: 2 (Skittles)
+Steps: 20/8=2 r4",4.NBT.B.6,26,[26],[19 26],[33 19 26],[25 33 19 26],[49 25 33 19 26], 4.NBT.B.6," 3.OA.D.8, 4.NBT.B.6"," 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6"," 4.NBT.B.5, 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6"," K.OA.A.2, 4.NBT.B.5, 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6"
+2240,"Question: The cafeteria had fifty-one apples. For lunch they handed out forty-one to students and decided to use the rest to make pies. If each pie takes five apples, how many pies could they make?
+Solution: 2 (pies)
+Steps: (51-41)/5=2",3.OA.D.8,19,[19],[ 9 19],[49  9 19],[16 49  9 19],[40 16 49  9 19], 3.OA.D.8," 2.OA.A.1, 3.OA.D.8"," K.OA.A.2, 2.OA.A.1, 3.OA.D.8"," 3.OA.8, K.OA.A.2, 2.OA.A.1, 3.OA.D.8"," 6.RP.A.3, 3.OA.8, K.OA.A.2, 2.OA.A.1, 3.OA.D.8"
+2161,"Question: Lana had eleven DS games. If she bought two more games, how many would she have total?
+Solution: 13 (DS games)
+Steps: 11+2=13",1.OA.A.1,1,[1],[9 1],[2 9 1],[33  2  9  1],[ 6 33  2  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 2.NBT.B.5, 5.NBT.B.6, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+1574,"Question: It takes eight grams of plastic to make a ruler. If a company had eight hundred twenty-eight grams of plastic, how many entire rulers could they make?
+Solution: 103 (rulers)
+Steps: 828/8=103 r4",4.NBT.B.6,26,[26],[33 26],[19 33 26],[25 19 33 26],[49 25 19 33 26], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," 4.NBT.B.5, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," K.OA.A.2, 4.NBT.B.5, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"
+1711,"Question: At a farming supply store 2 pounds of seed cost $44.68. If a farmer needed 6 pounds of seeds, how much would it cost him?
+Solution: 134.04 (dollars)
+Steps: (44.68/2)*6=134.04",4.MD.A.2,21,[21],[33 21],[18 33 21],[41 18 33 21],[25 41 18 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 3.OA.A.3, 5.NBT.B.6, 4.MD.A.2"," 6.SP.B.5, 3.OA.A.3, 5.NBT.B.6, 4.MD.A.2"," 4.NBT.B.5, 6.SP.B.5, 3.OA.A.3, 5.NBT.B.6, 4.MD.A.2"
+159,"Question: Mrs. Hilt bought 3 pizzas for $8 each. What was the total amount she paid for the three pizzas?
+Solution: 24 (dollars)
+Steps: 3*8=24",3.OA.A.3,18,[18],[ 9 18],[25  9 18],[22 25  9 18],[29 22 25  9 18], 3.OA.A.3," 2.OA.A.1, 3.OA.A.3"," 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 4.MD.A.3, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 4.OA.A.3, 4.MD.A.3, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"
+162,"Question: I have 28 cents in my pocket. How coins could I have on minimization?
+Solution: 4 (coins)
+Steps: 28/25=1 r3; 3/1=3; 1+3=4",4.NBT.B.6,26,[49],[33 49],[ 1 33 49],[ 9  1 33 49],[26  9  1 33 49], K.OA.A.2," 5.NBT.B.6, K.OA.A.2"," 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"
+162,"Question: I have 28 cents in my pocket. How coins could I have on minimization?
+Solution: 4 (coins)
+Steps: 28/25=1 r3; 3/1=3; 1+3=4",3.OA.A.3,18,[49],[33 49],[ 1 33 49],[ 9  1 33 49],[26  9  1 33 49], K.OA.A.2," 5.NBT.B.6, K.OA.A.2"," 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"
+162,"Question: I have 28 cents in my pocket. How coins could I have on minimization?
+Solution: 4 (coins)
+Steps: 28/25=1 r3; 3/1=3; 1+3=4",K.OA.A.2,49,[49],[33 49],[ 1 33 49],[ 9  1 33 49],[26  9  1 33 49], K.OA.A.2," 5.NBT.B.6, K.OA.A.2"," 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"
+325,"Question: At the edge of the forest, an anthill is blocking the way out. In order to pass through, he needs to help the ants gather food. If the ants need 911 grains of food and they already have 762, how many more grains are needed to be gathered?
+Solution: 149 (grains)
+Steps: 911-762=149",2.NBT.B.7,8,[8],[9 8],[21  9  8],[13 21  9  8],[25 13 21  9  8], 2.NBT.B.7," 2.OA.A.1, 2.NBT.B.7"," 4.MD.A.2, 2.OA.A.1, 2.NBT.B.7"," 3.NBT.A.2, 4.MD.A.2, 2.OA.A.1, 2.NBT.B.7"," 4.NBT.B.5, 3.NBT.A.2, 4.MD.A.2, 2.OA.A.1, 2.NBT.B.7"
+683,"Question: Mrs. Hilt had $4,000 in her savings account. She earned 10% interest each year. If she left that money in the account for one year, how much will she have in the account at the end of that year?
+Solution: 4400 (dollars)
+Steps: 4000+(4000*0.1*1)=4400",6.RP.A.3,40,[25],[21 25],[ 9 21 25],[18  9 21 25],[49 18  9 21 25], 4.NBT.B.5," 4.MD.A.2, 4.NBT.B.5"," 2.OA.A.1, 4.MD.A.2, 4.NBT.B.5"," 3.OA.A.3, 2.OA.A.1, 4.MD.A.2, 4.NBT.B.5"," K.OA.A.2, 3.OA.A.3, 2.OA.A.1, 4.MD.A.2, 4.NBT.B.5"
+683,"Question: Mrs. Hilt had $4,000 in her savings account. She earned 10% interest each year. If she left that money in the account for one year, how much will she have in the account at the end of that year?
+Solution: 4400 (dollars)
+Steps: 4000+(4000*0.1*1)=4400",4.NBT.B.4,24,[25],[21 25],[ 9 21 25],[18  9 21 25],[49 18  9 21 25], 4.NBT.B.5," 4.MD.A.2, 4.NBT.B.5"," 2.OA.A.1, 4.MD.A.2, 4.NBT.B.5"," 3.OA.A.3, 2.OA.A.1, 4.MD.A.2, 4.NBT.B.5"," K.OA.A.2, 3.OA.A.3, 2.OA.A.1, 4.MD.A.2, 4.NBT.B.5"
+2097,"Question: At a comic convention Janet wanted to buy 8 comics, but each one costs 4 dollars, plus it costs 2 to even get in. How much money should she take with her so she can get in and buy what she wants?
+Solution: 34 (dollars)
+Steps: 8*4+2=34",3.OA.D.8,19,[19],[ 9 19],[29  9 19],[18 29  9 19],[ 6 18 29  9 19], 3.OA.D.8," 2.OA.A.1, 3.OA.D.8"," 4.OA.A.3, 2.OA.A.1, 3.OA.D.8"," 3.OA.A.3, 4.OA.A.3, 2.OA.A.1, 3.OA.D.8"," 2.NBT.B.5, 3.OA.A.3, 4.OA.A.3, 2.OA.A.1, 3.OA.D.8"
+1883,"Question: Kaleb has seventeen shirts. If he got rid of seven of them, how many shirts would Kaleb have?
+Solution: 10 (shirts)
+Steps: 17-7=10",1.OA.A.1,1,[1],[9 1],[33  9  1],[ 6 33  9  1],[ 3  6 33  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, 2.OA.A.1, 1.OA.A.1"," 2.NBT.B.5, 5.NBT.B.6, 2.OA.A.1, 1.OA.A.1"," 2.MD.B.5, 2.NBT.B.5, 5.NBT.B.6, 2.OA.A.1, 1.OA.A.1"
+1553,"Question: A cafeteria was putting milk cartons into stacks. They had seven hundred ninety-nine cartons and were putting them into stacks with six cartons in each stack. How many full stacks could they make?
+Solution: 133 (stacks)
+Steps: 799/6=133 r1",4.NBT.B.6,26,[26],[33 26],[32 33 26],[19 32 33 26],[25 19 32 33 26], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 5.NBT.B.5, 5.NBT.B.6, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.5, 5.NBT.B.6, 4.NBT.B.6"," 4.NBT.B.5, 3.OA.D.8, 5.NBT.B.5, 5.NBT.B.6, 4.NBT.B.6"
+35,"Question: Mrs. Hilt made 5 Rice Krispie Treats. She used 8 large marshmallows and 10 mini marshmallows. How many marshmallows did she use altogether?
+Solution: 18 (marshmallows)
+Steps: 8+10=18",1.OA.A.1,1,[9],[1 9],[2 1 9],[49  2  1  9],[18 49  2  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 1.OA.A.2, 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 1.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 3.OA.A.3, K.OA.A.2, 1.OA.A.2, 1.OA.A.1, 2.OA.A.1"
+1961,"Question: A farmer planted 2 tomato seeds, 10 cucumber seeds and 3 pumpkin seeds. How many seeds did he plant all together?
+Solution: 15 (seeds)
+Steps: 2+10+3=15",1.OA.A.2,2,[2],[9 2],[1 9 2],[49  1  9  2],[33 49  1  9  2], 1.OA.A.2," 2.OA.A.1, 1.OA.A.2"," 1.OA.A.1, 2.OA.A.1, 1.OA.A.2"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1, 1.OA.A.2"," 5.NBT.B.6, K.OA.A.2, 1.OA.A.1, 2.OA.A.1, 1.OA.A.2"
+1715,"Question: At the produce store you can buy 2 bags of bananas for $12.46. How much would it cost if you were to buy 6 bags?
+Solution: 37.38 (dollars)
+Steps: (12.46/2)*6=37.38",4.MD.A.2,21,[21],[33 21],[18 33 21],[41 18 33 21],[25 41 18 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 3.OA.A.3, 5.NBT.B.6, 4.MD.A.2"," 6.SP.B.5, 3.OA.A.3, 5.NBT.B.6, 4.MD.A.2"," 4.NBT.B.5, 6.SP.B.5, 3.OA.A.3, 5.NBT.B.6, 4.MD.A.2"
+574,"Question: Melissa scored 120 points in each game. How many points did she score in 10 games?
+Solution: 1200 (points)
+Steps: 120*10=1200",5.NBT.B.5,32,[25],[18 25],[33 18 25],[21 33 18 25],[32 21 33 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.6, 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.2, 5.NBT.B.6, 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.5, 4.MD.A.2, 5.NBT.B.6, 3.OA.A.3, 4.NBT.B.5"
+128,"Question: Sarah had some trucks. She gave 13 to Jeff, and now she has 38 trucks left. How many trucks did Sarah have to start with?
+Solution: 51 (trucks)
+Steps: 38+13=51",2.OA.A.1,9,[9],[29  9],[ 1 29  9],[ 6  1 29  9],[40  6  1 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 1.OA.A.1, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 2.NBT.B.5, 1.OA.A.1, 4.OA.A.3, 2.OA.A.1"
+2277,"Question: Atomic fireballs come in packages of 9. Barbara ate 59 Atomic Fireballs. How many Atomic Fireballs does she have left?
+Solution: 5 (Atomic Fireballs)
+Steps: 59/9=6 r5",4.NBT.B.6,26,[26],[25 26],[19 25 26],[49 19 25 26],[ 4 49 19 25 26], 4.NBT.B.6," 4.NBT.B.5, 4.NBT.B.6"," 3.OA.D.8, 4.NBT.B.5, 4.NBT.B.6"," K.OA.A.2, 3.OA.D.8, 4.NBT.B.5, 4.NBT.B.6"," 2.MD.C.8, K.OA.A.2, 3.OA.D.8, 4.NBT.B.5, 4.NBT.B.6"
+2199,"Question: A vase can hold nine flowers. If you had four carnations and twenty-three roses, how many vases would you need to hold the flowers?
+Solution: 3 (vases)
+Steps: (4+23)/9=3",3.OA.D.8,19,[19],[49 19],[16 49 19],[18 16 49 19],[33 18 16 49 19], 3.OA.D.8," K.OA.A.2, 3.OA.D.8"," 3.OA.8, K.OA.A.2, 3.OA.D.8"," 3.OA.A.3, 3.OA.8, K.OA.A.2, 3.OA.D.8"," 5.NBT.B.6, 3.OA.A.3, 3.OA.8, K.OA.A.2, 3.OA.D.8"
+768,"Question: If Tom plans to fix 158 watches at the rate of 12 watches per day, how many days does he need to fix the watches?
+Solution: 14 (days)
+Steps: 158/12=13 r2",5.NBT.B.6,33,[33],[19 33],[13 19 33],[32 13 19 33],[21 32 13 19 33], 5.NBT.B.6," 3.OA.D.8, 5.NBT.B.6"," 3.NBT.A.2, 3.OA.D.8, 5.NBT.B.6"," 5.NBT.B.5, 3.NBT.A.2, 3.OA.D.8, 5.NBT.B.6"," 4.MD.A.2, 5.NBT.B.5, 3.NBT.A.2, 3.OA.D.8, 5.NBT.B.6"
+1856,"Question: A waiter had eighteen customers. If six left, how many customers would the waiter still have?
+Solution: 12 (customers)
+Steps: 18-6=12",1.OA.A.1,1,[1],[9 1],[33  9  1],[40 33  9  1],[ 2 40 33  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, 2.OA.A.1, 1.OA.A.1"," 6.RP.A.3, 5.NBT.B.6, 2.OA.A.1, 1.OA.A.1"," 1.OA.A.2, 6.RP.A.3, 5.NBT.B.6, 2.OA.A.1, 1.OA.A.1"
+698,"Question: Bruno had some story books. He lost 4 of them and his dad gave him 10 more books. If he had 39 books after that, how many books did Bruno have at first?
+Solution: 33 (books)
+Steps: 39-10+4=33",2.OA.A.1,9,[9],[29  9],[ 6 29  9],[19  6 29  9],[ 1 19  6 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 1.OA.A.1, 3.OA.D.8, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"
+1940,"Question: Adam picked thirty-five strawberries. After eating some, he had thirty-three left. How many strawberries did Adam eat?
+Solution: 2 (strawberries)
+Steps: 35-33=2",2.OA.A.1,9,[9],[1 9],[40  1  9],[49 40  1  9],[ 8 49 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.7, K.OA.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+1234,"Question: A coat factory had 29 coats. If they wanted to put them into 3 boxes, with the same number of coats in each box, how many extra coats would they have left over?
+Solution: 2 (coats)
+Steps: 29/3=9 r2",4.NBT.B.6,26,[26],[25 26],[33 25 26],[19 33 25 26],[49 19 33 25 26], 4.NBT.B.6," 4.NBT.B.5, 4.NBT.B.6"," 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," K.OA.A.2, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"
+1851,"Question: Ned ordered some pizzas for a party. During the party four were eaten. Now he has seven left. How many pizzas did Ned order for the party?
+Solution: 11 (pizzas)
+Steps: 4+7=11",1.OA.A.1,1,[1],[9 1],[49  9  1],[ 2 49  9  1],[19  2 49  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 1.OA.A.2, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 3.OA.D.8, 1.OA.A.2, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+1814,"Question: Ned was buying books about astronomy. He bought 8 books about the planets and 4 about the space program. How many books did he buy total?
+Solution: 12 (books)
+Steps: 8+4=12",1.OA.A.1,1,[9],[1 9],[49  1  9],[ 2 49  1  9],[40  2 49  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 1.OA.A.2, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.2, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"
+735,"Question: A chess club has 3 members. If 4 new members are enrolled, how many total members are there in the chess club?
+Solution: 7 (members)
+Steps: 3+4=7",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[19  9  1 49],[35 19  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.D.8, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 6.EE.B.6, 3.OA.D.8, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+2006,"Question: For the school bake sale Amy made pastries. She baked 15 cupcakes and 48 cookies. After the sale she had 12 to take back home. How many pastries did she sell?
+Solution: 51 (pastries)
+Steps: 15+48-12=51",2.OA.A.1,9,[9],[29  9],[ 6 29  9],[40  6 29  9],[ 1 40  6 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 1.OA.A.1, 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"
+2052,"Question: Kristen found gift bags in packs of 12 and bows in packs of 5. If Kristen wanted to have the same number of gift bags as bows, what is the smallest number of gift bags she would have to buy?
+Solution: 60 (gift bags)
+Steps: LCM[12,5]=60",6.NS.B.4,38,[38],[11 38],[29 11 38],[12 29 11 38],[18 12 29 11 38], 6.NS.B.4," 3.G.A.1, 6.NS.B.4"," 4.OA.A.3, 3.G.A.1, 6.NS.B.4"," 3.MD.D.8, 4.OA.A.3, 3.G.A.1, 6.NS.B.4"," 3.OA.A.3, 3.MD.D.8, 4.OA.A.3, 3.G.A.1, 6.NS.B.4"
+2227,"Question: Nancy had forty-three files on her computer. She deleted thirty-one of them and put the rest into folders with six files in each one. How many folders did Nancy end up with?
+Solution: 2 (folders)
+Steps: (43-31)/6=2",3.OA.D.8,19,[19],[ 9 19],[16  9 19],[49 16  9 19],[33 49 16  9 19], 3.OA.D.8," 2.OA.A.1, 3.OA.D.8"," 3.OA.8, 2.OA.A.1, 3.OA.D.8"," K.OA.A.2, 3.OA.8, 2.OA.A.1, 3.OA.D.8"," 5.NBT.B.6, K.OA.A.2, 3.OA.8, 2.OA.A.1, 3.OA.D.8"
+90,"Question: Cade had 87 marbles. He gave 8 to Dylan. How many does he have left?
+Solution: 79 (marbles)
+Steps: 87-8=79",2.OA.A.1,9,[9],[1 9],[40  1  9],[13 40  1  9],[ 8 13 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 3.NBT.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.7, 3.NBT.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+1623,"Question: The woods behind Wendy's house were 8 miles wide and have an area of 24 square miles. What is the length of the woods?
+Solution: 3 (miles)
+Steps: 24/8=3",4.MD.A.3,22,[22],[18 22],[ 9 18 22],[21  9 18 22],[ 1 21  9 18 22], 4.MD.A.3," 3.OA.A.3, 4.MD.A.3"," 2.OA.A.1, 3.OA.A.3, 4.MD.A.3"," 4.MD.A.2, 2.OA.A.1, 3.OA.A.3, 4.MD.A.3"," 1.OA.A.1, 4.MD.A.2, 2.OA.A.1, 3.OA.A.3, 4.MD.A.3"
+1748,"Question: Jerry was playing the ring toss at the carnival. All together he used forty-eight rings. If each game you get six rings, how many games did he play?
+Solution: 8 (games)
+Steps: 48/6=8",3.OA.A.3,18,[18],[ 9 18],[33  9 18],[ 1 33  9 18],[49  1 33  9 18], 3.OA.A.3," 2.OA.A.1, 3.OA.A.3"," 5.NBT.B.6, 2.OA.A.1, 3.OA.A.3"," 1.OA.A.1, 5.NBT.B.6, 2.OA.A.1, 3.OA.A.3"," K.OA.A.2, 1.OA.A.1, 5.NBT.B.6, 2.OA.A.1, 3.OA.A.3"
+1825,"Question: An architect was building a hotel downtown. He built it 3 stories tall with 8 rooms on each story. How many rooms does the hotel have totaled?
+Solution: 24 (rooms)
+Steps: 3*8=24",3.OA.A.3,18,[18],[ 9 18],[25  9 18],[22 25  9 18],[29 22 25  9 18], 3.OA.A.3," 2.OA.A.1, 3.OA.A.3"," 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 4.MD.A.3, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 4.OA.A.3, 4.MD.A.3, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"
+934,"Question: Zoe is on vacation. She has already taken 28 pictures. She has enough film left to take 32 more pictures. Zoe took 16 more pictures at the dolphin show. How many pictures has Zoe taken altogether?
+Solution: 44 (pictures)
+Steps: 28+16=44",2.OA.A.1,9,[9],[29  9],[ 6 29  9],[40  6 29  9],[39 40  6 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.1, 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"
+46,"Question: Mrs. Hilt spent 25 cents on one caramel apple and 15 cents on one ice cream cone. How much more did the apple cost?
+Solution: 10 (cents)
+Steps: 25-15=10",2.OA.A.1,9,[9],[1 9],[40  1  9],[33 40  1  9],[29 33 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 5.NBT.B.6, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 4.OA.A.3, 5.NBT.B.6, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+1199,"Question: Amanda has two pieces of ribbon, one 8 inches long and the other 16 inches long. To decorate an album, she wants to cut them up to produce many pieces of ribbon that are all of the same length, with no ribbon left over. What is the greatest length, in inches, that she can make them?
+Solution: 8 (inches)
+Steps: GCD(8,16)=8",6.NS.B.4,38,[38],[11 38],[12 11 38],[18 12 11 38],[33 18 12 11 38], 6.NS.B.4," 3.G.A.1, 6.NS.B.4"," 3.MD.D.8, 3.G.A.1, 6.NS.B.4"," 3.OA.A.3, 3.MD.D.8, 3.G.A.1, 6.NS.B.4"," 5.NBT.B.6, 3.OA.A.3, 3.MD.D.8, 3.G.A.1, 6.NS.B.4"
+1449,"Question: One number is half the other. Sum of two numbers is equal to 6. Find the numbers.
+Solution: 4; 2
+Steps: x:One of the numbers; x+(x/2)=6",6.EE.B.6,35,[47],[35 47],[43 35 47],[40 43 35 47],[49 40 43 35 47], 8.EE.C.8," 6.EE.B.6, 8.EE.C.8"," 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"," 6.RP.A.3, 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"," K.OA.A.2, 6.RP.A.3, 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"
+341,"Question: Janine owns a catering service company. She was hired to cater for the mayor's 50th birthday. For the appetizers, she needs to make 750 mini meat pies. She divided her crew into 3 teams. If the first team made 235, and the second made 275, how many pies should the third team make?
+Solution: 240 (pies)
+Steps: 750-(235+275)=240",3.OA.D.8,19,[8],[9 8],[6 9 8],[19  6  9  8],[13 19  6  9  8], 2.NBT.B.7," 2.OA.A.1, 2.NBT.B.7"," 2.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"," 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"," 3.NBT.A.2, 3.OA.D.8, 2.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"
+102,"Question: Mrs. Snyder made 86 heart cookies. She made 36 red cookies and the rest are pink. How many pink cookies did she make?
+Solution: 50 (pink cookies)
+Steps: 86-36=50",2.OA.A.1,9,[9],[40  9],[13 40  9],[ 6 13 40  9],[ 1  6 13 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 3.NBT.A.2, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.5, 3.NBT.A.2, 6.RP.A.3, 2.OA.A.1"," 1.OA.A.1, 2.NBT.B.5, 3.NBT.A.2, 6.RP.A.3, 2.OA.A.1"
+555,"Question: I see 349 frogs. How many legs do they have?
+Solution: 1396 (legs)
+Steps: 349*4=1396",4.NBT.B.5,25,[25],[18 25],[32 18 25],[22 32 18 25],[21 22 32 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.3, 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.2, 4.MD.A.3, 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"
+1672,"Question: Edward had beaten 24 levels in a video game. If the ratio of levels he had beaten to not beaten was 3:1, how many levels does the game have total?
+Solution: 32 (levels)
+Steps: 3:4=24:32",6.RP.A.3,40,[40],[39 40],[ 9 39 40],[49  9 39 40],[35 49  9 39 40], 6.RP.A.3," 6.RP.A.1, 6.RP.A.3"," 2.OA.A.1, 6.RP.A.1, 6.RP.A.3"," K.OA.A.2, 2.OA.A.1, 6.RP.A.1, 6.RP.A.3"," 6.EE.B.6, K.OA.A.2, 2.OA.A.1, 6.RP.A.1, 6.RP.A.3"
+1535,"Question: A box of cupcakes cost $six. If you had eight hundred twenty-one dollars and bought as many boxes as you could, how much money would you have left?
+Solution: 5 (dollars)
+Steps: 821/6=136 r5",4.NBT.B.6,26,[26],[33 26],[49 33 26],[25 49 33 26],[19 25 49 33 26], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," K.OA.A.2, 5.NBT.B.6, 4.NBT.B.6"," 4.NBT.B.5, K.OA.A.2, 5.NBT.B.6, 4.NBT.B.6"," 3.OA.D.8, 4.NBT.B.5, K.OA.A.2, 5.NBT.B.6, 4.NBT.B.6"
+1599,"Question: An ice machine had 294 ice cubes in it. If you were filling up 7 ice chests and each chest got the same number of cubes, how many ice cubes would each chest get?
+Solution: 42 (ice cubes)
+Steps: 294/7=42",4.NBT.B.6,26,[26],[25 26],[33 25 26],[ 4 33 25 26],[35  4 33 25 26], 4.NBT.B.6," 4.NBT.B.5, 4.NBT.B.6"," 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," 2.MD.C.8, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," 6.EE.B.6, 2.MD.C.8, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"
+277,"Question: After agreeing that the school menu needs to be changed, they had a vote for food suggestions. If 337 voted to add more veggies to the menu and 335 voted to add more meat, how many students voted?
+Solution: 672 (students)
+Steps: 337+335=672",2.NBT.B.7,8,[8],[25  8],[ 9 25  8],[13  9 25  8],[19 13  9 25  8], 2.NBT.B.7," 4.NBT.B.5, 2.NBT.B.7"," 2.OA.A.1, 4.NBT.B.5, 2.NBT.B.7"," 3.NBT.A.2, 2.OA.A.1, 4.NBT.B.5, 2.NBT.B.7"," 3.OA.D.8, 3.NBT.A.2, 2.OA.A.1, 4.NBT.B.5, 2.NBT.B.7"
+1217,"Question: At a school event, adults are seated in groups of exactly 17 and children are seated in groups of exactly 15. If there are the same number of adults as children, what is the minimum number of adults attending?
+Solution: 255 (adults)
+Steps: LCM[17,15]=255",6.NS.B.4,38,[38],[11 38],[29 11 38],[37 29 11 38],[18 37 29 11 38], 6.NS.B.4," 3.G.A.1, 6.NS.B.4"," 4.OA.A.3, 3.G.A.1, 6.NS.B.4"," 6.NS.B.2, 4.OA.A.3, 3.G.A.1, 6.NS.B.4"," 3.OA.A.3, 6.NS.B.2, 4.OA.A.3, 3.G.A.1, 6.NS.B.4"
+1399,"Question: After 15 years, Ariel will be four times as old as she is now. Determine her present age.
+Solution: 5 (years old)
+Steps: x:Ariel's present age; 4x=x+15",6.EE.B.6,35,[35],[47 35],[43 47 35],[40 43 47 35],[12 40 43 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 3.MD.D.8, 6.RP.A.3, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"
+1584,"Question: Kaleb has to sell 710 chocolate bars to get a prize. If each box contains 5 chocolate bars, how many boxes does he need to sell?
+Solution: 142 (boxes)
+Steps: 710/5=142",4.NBT.B.6,26,[26],[25 26],[33 25 26],[18 33 25 26],[21 18 33 25 26], 4.NBT.B.6," 4.NBT.B.5, 4.NBT.B.6"," 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," 3.OA.A.3, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," 4.MD.A.2, 3.OA.A.3, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"
+1707,"Question: A pet store was selling mice 2 for $5.34. If they ended up selling 7 mice, how much money would they have earned?
+Solution: 18.69 (dollars)
+Steps: (5.34/2)*7=18.69",4.MD.A.2,21,[21],[18 21],[33 18 21],[41 33 18 21],[ 4 41 33 18 21], 4.MD.A.2," 3.OA.A.3, 4.MD.A.2"," 5.NBT.B.6, 3.OA.A.3, 4.MD.A.2"," 6.SP.B.5, 5.NBT.B.6, 3.OA.A.3, 4.MD.A.2"," 2.MD.C.8, 6.SP.B.5, 5.NBT.B.6, 3.OA.A.3, 4.MD.A.2"
+1577,"Question: There are two hundred eighty-seven people attending a luncheon. If a table can hold nine people, how many tables do they need?
+Solution: 32 (tables)
+Steps: 287/9=31 r8",4.NBT.B.6,26,[26],[19 26],[33 19 26],[ 4 33 19 26],[25  4 33 19 26], 4.NBT.B.6," 3.OA.D.8, 4.NBT.B.6"," 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6"," 2.MD.C.8, 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6"," 4.NBT.B.5, 2.MD.C.8, 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6"
+1450,"Question: The numerator of a fraction is 3 less than its denominator. If the numerator is increased by 1 and the denominator is increased by 3, the fraction becomes equal to 1/2. Find the original fraction.
+Solution: 2024-04-07 00:00:00
+Steps: x:The numerator of a fraction; y:The denominator of a fraction; (x+1)/(y+3)=1/2; x+3=y",8.EE.C.8,47,[35],[47 35],[43 47 35],[49 43 47 35],[40 49 43 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," K.OA.A.2, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, K.OA.A.2, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"
+434,"Question: If books came from all the 4 continents that Bryan had been into and he collected 122 books per continent, how many books does he have from all 4 continents combined?
+Solution: 488 (books)
+Steps: 4*122=488",4.NBT.B.5,25,[25],[18 25],[21 18 25],[14 21 18 25],[ 9 14 21 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.2, 3.OA.A.3, 4.NBT.B.5"," 3.NBT.A.3, 4.MD.A.2, 3.OA.A.3, 4.NBT.B.5"," 2.OA.A.1, 3.NBT.A.3, 4.MD.A.2, 3.OA.A.3, 4.NBT.B.5"
+2049,"Question: Ronald and Tim both did their laundry today. Ronald does laundry every 6 days and Tim does laundry every 9 days. How many days will it be until Ronald and Tim both do laundry on the same day again?
+Solution: 18 (days)
+Steps: LCM[6,9]=18",6.NS.B.4,38,[38],[11 38],[ 9 11 38],[33  9 11 38],[12 33  9 11 38], 6.NS.B.4," 3.G.A.1, 6.NS.B.4"," 2.OA.A.1, 3.G.A.1, 6.NS.B.4"," 5.NBT.B.6, 2.OA.A.1, 3.G.A.1, 6.NS.B.4"," 3.MD.D.8, 5.NBT.B.6, 2.OA.A.1, 3.G.A.1, 6.NS.B.4"
+1933,"Question: A chef had seventy-seven cherries. If he used sixty of them to make a pie, how many cherries would he still have?
+Solution: 17 (cherries)
+Steps: 77-60=17",2.OA.A.1,9,[9],[1 9],[40  1  9],[33 40  1  9],[39 33 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 5.NBT.B.6, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.1, 5.NBT.B.6, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+1110,"Question: Luz and Raya talked for one hour and 21 minutes on the phone. They ended talking at 1:06 a.m. What time did they start talking with each other?
+Solution: 11:45 p.m.
+Steps: 24*60 (min/hour) + 1*60 (min/hour) + 6 (min) = 1506 (min); 1*60 (min/hour) + 21 (min) = 81 (min); (1506-81)/60 (min/hour)=23 r45; hh:mm=23:45=11:45 p.m.",4.MD.A.2,21,[21],[33 21],[39 33 21],[47 39 33 21],[49 47 39 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"," 8.EE.C.8, 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 8.EE.C.8, 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"
+1110,"Question: Luz and Raya talked for one hour and 21 minutes on the phone. They ended talking at 1:06 a.m. What time did they start talking with each other?
+Solution: 11:45 p.m.
+Steps: 24*60 (min/hour) + 1*60 (min/hour) + 6 (min) = 1506 (min); 1*60 (min/hour) + 21 (min) = 81 (min); (1506-81)/60 (min/hour)=23 r45; hh:mm=23:45=11:45 p.m.",5.NBT.B.5,32,[21],[33 21],[39 33 21],[47 39 33 21],[49 47 39 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"," 8.EE.C.8, 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 8.EE.C.8, 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"
+1110,"Question: Luz and Raya talked for one hour and 21 minutes on the phone. They ended talking at 1:06 a.m. What time did they start talking with each other?
+Solution: 11:45 p.m.
+Steps: 24*60 (min/hour) + 1*60 (min/hour) + 6 (min) = 1506 (min); 1*60 (min/hour) + 21 (min) = 81 (min); (1506-81)/60 (min/hour)=23 r45; hh:mm=23:45=11:45 p.m.",5.NBT.B.6,33,[21],[33 21],[39 33 21],[47 39 33 21],[49 47 39 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"," 8.EE.C.8, 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 8.EE.C.8, 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"
+812,"Question: There was 1,050 ml of tea in a pot. Anna poured the tea into some cups. If there were 65 ml of tea in each cup, how many cups were filled with tea?
+Solution: 16 (cups)
+Steps: 1050/65=16 r10",5.NBT.B.6,33,[33],[21 33],[19 21 33],[18 19 21 33],[ 9 18 19 21 33], 5.NBT.B.6," 4.MD.A.2, 5.NBT.B.6"," 3.OA.D.8, 4.MD.A.2, 5.NBT.B.6"," 3.OA.A.3, 3.OA.D.8, 4.MD.A.2, 5.NBT.B.6"," 2.OA.A.1, 3.OA.A.3, 3.OA.D.8, 4.MD.A.2, 5.NBT.B.6"
+1768,"Question: A chef had five potatoes to make fries with, but he only used three of them. How many potatoes does he still have?
+Solution: 2 (potatoes)
+Steps: 5-3=2",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[26  9  1 49],[19 26  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.D.8, 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+2106,"Question: A florist needed to use 2 pounds of fertilizer for 9 days and then on the final day use the normal amount plus another 4 pounds. How many pounds of fertilizer will she use all together?
+Solution: 22 (pounds of fertilizer)
+Steps: 2*9+4=22",3.OA.D.8,19,[19],[ 9 19],[18  9 19],[29 18  9 19],[35 29 18  9 19], 3.OA.D.8," 2.OA.A.1, 3.OA.D.8"," 3.OA.A.3, 2.OA.A.1, 3.OA.D.8"," 4.OA.A.3, 3.OA.A.3, 2.OA.A.1, 3.OA.D.8"," 6.EE.B.6, 4.OA.A.3, 3.OA.A.3, 2.OA.A.1, 3.OA.D.8"
+245,"Question: Being concerned with the ecology of lakes, Hazel and her dad returned the youngling fishes they caught. If they took 23 fishes from Lake Ontario and Erie, 30 fishes from Lake Huron and Michigan and 44 from Lake Superior, how many fishes will they bring home with them?
+Solution: 97 (fishes)
+Steps: 23+30+44=97",2.OA.A.1,9,[9],[29  9],[13 29  9],[ 8 13 29  9],[40  8 13 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.7, 3.NBT.A.2, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 2.NBT.B.7, 3.NBT.A.2, 4.OA.A.3, 2.OA.A.1"
+587,"Question: Arthur baked 35 muffins. How many more muffins does Arthur have to bake to have 83 muffins?
+Solution: 48 (muffins)
+Steps: 83-35=48",2.OA.A.1,9,[9],[40  9],[29 40  9],[13 29 40  9],[ 6 13 29 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 3.NBT.A.2, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.5, 3.NBT.A.2, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"
+806,"Question: A tourist group has 26 people. At a hotel, they want to rent some large rooms for 3 people each and some small rooms for 2 each. In order to rent the least number of rooms and have every room fully occupied, how many large rooms should be rented?
+Solution: 8 (large rooms)
+Steps: 26/3=8 r2",4.NBT.B.6,26,[26],[25 26],[33 25 26],[19 33 25 26],[49 19 33 25 26], 4.NBT.B.6," 4.NBT.B.5, 4.NBT.B.6"," 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," K.OA.A.2, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"
+784,"Question: There were 44 laptops in the shop, and Mike divided them equally into 5 rows. How many laptops are there in each row?
+Solution: 8 (laptops)
+Steps: 44/5=8 r4",4.NBT.B.6,26,[26],[25 26],[19 25 26],[49 19 25 26],[40 49 19 25 26], 4.NBT.B.6," 4.NBT.B.5, 4.NBT.B.6"," 3.OA.D.8, 4.NBT.B.5, 4.NBT.B.6"," K.OA.A.2, 3.OA.D.8, 4.NBT.B.5, 4.NBT.B.6"," 6.RP.A.3, K.OA.A.2, 3.OA.D.8, 4.NBT.B.5, 4.NBT.B.6"
+1815,"Question: A delivery driver had to make 3 stops on his route. After he finished those deliveries he made 4 more stops. How many stops did he make total?
+Solution: 7 (stops)
+Steps: 3+4=7",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[ 2  9  1 49],[18  2  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 1.OA.A.2, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+1840,"Question: Rachel picked three apples from her tree. Now the tree has four apples still on it. How many apples did the tree have to begin with?
+Solution: 7 (apples)
+Steps: 3+4=7",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[19  9  1 49],[18 19  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.D.8, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 3.OA.D.8, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+1807,"Question: Tiffany was buying hand towels for her house. She bought 9 packs with each pack having 3 towels in it. How many towels did she buy?
+Solution: 27 (towels)
+Steps: 9*3=27",3.OA.A.3,18,[18],[ 9 18],[25  9 18],[ 1 25  9 18],[29  1 25  9 18], 3.OA.A.3," 2.OA.A.1, 3.OA.A.3"," 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 1.OA.A.1, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 4.OA.A.3, 1.OA.A.1, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"
+2281,"Question: There are 9 students in the class and 27 Skittles. If the Skittles are divided equally among the students, how many does each student get?
+Solution: 3 (Skittles)
+Steps: 27/9=3",3.OA.A.3,18,[18],[ 9 18],[33  9 18],[49 33  9 18],[ 1 49 33  9 18], 3.OA.A.3," 2.OA.A.1, 3.OA.A.3"," 5.NBT.B.6, 2.OA.A.1, 3.OA.A.3"," K.OA.A.2, 5.NBT.B.6, 2.OA.A.1, 3.OA.A.3"," 1.OA.A.1, K.OA.A.2, 5.NBT.B.6, 2.OA.A.1, 3.OA.A.3"
+1906,"Question: Billy had seventy-four cherries. He ate seventy-two of them. How many cherries does Billy have left?
+Solution: 2 (cherries)
+Steps: 74-72=2",2.OA.A.1,9,[9],[1 9],[40  1  9],[49 40  1  9],[ 8 49 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.7, K.OA.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+608,"Question: The Sumata family took a five-day vacation by car. Each day they drove 250 miles. How many total miles did they drive?
+Solution: 1250 (miles)
+Steps: 250*5=1250",4.NBT.B.5,25,[25],[18 25],[21 18 25],[ 9 21 18 25],[14  9 21 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.2, 3.OA.A.3, 4.NBT.B.5"," 2.OA.A.1, 4.MD.A.2, 3.OA.A.3, 4.NBT.B.5"," 3.NBT.A.3, 2.OA.A.1, 4.MD.A.2, 3.OA.A.3, 4.NBT.B.5"
+496,"Question: Susie and her family woke up early on the first weekend of spring. They had a long list of activities for spring cleaning. Susie's mom prepared 74 carrot sticks for breakfast. If the carrots were served equally to 12 people, how many carrot sticks were left uneaten?
+Solution: 2 (carrot sticks)
+Steps: 74/12=6 r2",5.NBT.B.6,33,[33],[26 33],[13 26 33],[ 9 13 26 33],[19  9 13 26 33], 5.NBT.B.6," 4.NBT.B.6, 5.NBT.B.6"," 3.NBT.A.2, 4.NBT.B.6, 5.NBT.B.6"," 2.OA.A.1, 3.NBT.A.2, 4.NBT.B.6, 5.NBT.B.6"," 3.OA.D.8, 2.OA.A.1, 3.NBT.A.2, 4.NBT.B.6, 5.NBT.B.6"
+2265,"Question: Nancy sold 45 boxes of Tagalongs. How many cases of 12 boxes, plus extra boxes does Nancy need?
+Solution: 4 (cases)
+Steps: 45/12=3 r9",5.NBT.B.6,33,[33],[ 9 33],[40  9 33],[18 40  9 33],[13 18 40  9 33], 5.NBT.B.6," 2.OA.A.1, 5.NBT.B.6"," 6.RP.A.3, 2.OA.A.1, 5.NBT.B.6"," 3.OA.A.3, 6.RP.A.3, 2.OA.A.1, 5.NBT.B.6"," 3.NBT.A.2, 3.OA.A.3, 6.RP.A.3, 2.OA.A.1, 5.NBT.B.6"
+1526,"Question: Each side of a square newspaper ad is 8 centimeters long. What is the newspaper ad's perimeter?
+Solution: 32 (centimeters)
+Steps: 8*4=32",3.MD.D.8,12,[12],[22 12],[18 22 12],[44 18 22 12],[21 44 18 22 12], 3.MD.D.8," 4.MD.A.3, 3.MD.D.8"," 3.OA.A.3, 4.MD.A.3, 3.MD.D.8"," 7.G.B.4, 3.OA.A.3, 4.MD.A.3, 3.MD.D.8"," 4.MD.A.2, 7.G.B.4, 3.OA.A.3, 4.MD.A.3, 3.MD.D.8"
+105,"Question: There were 28 girls and 35 boys on the playground at recess. How many children were there in all?
+Solution: 63 (children)
+Steps: 28+35=63",2.OA.A.1,9,[9],[40  9],[29 40  9],[ 6 29 40  9],[19  6 29 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"
+1421,"Question: A two digit number is four times the sum of its digits and twice the product of the digits. Find the number.
+Solution: 36
+Steps: x:The number of the tens digital; y:The number of the unit digital; 10x+y=4(x+y); 10x+y=2xy",8.EE.C.8,47,[47],[35 47],[43 35 47],[40 43 35 47],[39 40 43 35 47], 8.EE.C.8," 6.EE.B.6, 8.EE.C.8"," 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"," 6.RP.A.3, 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"," 6.RP.A.1, 6.RP.A.3, 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"
+2164,"Question: There were ten people on the bus. At the next stop three more people got on the bus. How many people are there on the bus now?
+Solution: 13 (people)
+Steps: 10+3=13",1.OA.A.1,1,[1],[9 1],[49  9  1],[ 2 49  9  1],[33  2 49  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 1.OA.A.2, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, 1.OA.A.2, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+1018,"Question: Connie saved up $39. She wants to buy a watch that costs $55. How much more money does Connie need?
+Solution: 16 (dollars)
+Steps: 55-39=16",2.OA.A.1,9,[9],[1 9],[40  1  9],[ 6 40  1  9],[39  6 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.1, 2.NBT.B.5, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+1252,"Question: Sharon has seven plums. Allan has 10 plums. What's the difference of the number of Sharon's plums and Allan's plums?
+Solution: 3 (plums)
+Steps: 10-7=3",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[40  9  1 49],[26 40  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 6.RP.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 4.NBT.B.6, 6.RP.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+996,"Question: The Greene family went to the amusement park. They spent $45 on admission tickets. They spent $13 less than that on food. How much did the Greene family spend in all?
+Solution: 77 (dollars)
+Steps: 45+(45-13)=77",2.OA.A.1,9,[9],[29  9],[19 29  9],[ 6 19 29  9],[13  6 19 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 3.OA.D.8, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 3.OA.D.8, 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 2.NBT.B.5, 3.OA.D.8, 4.OA.A.3, 2.OA.A.1"
+975,"Question: A family is preparing backpacks filled with school supplies to donate to children in need. They have 9 pencils and 15 notebooks. If they want to make all the backpacks the same, with no school supplies left over, what is the greatest number of backpacks they can fill?
+Solution: 3 (backpacks)
+Steps: GCD(9,15)=3",6.NS.B.4,38,[38],[18 38],[33 18 38],[37 33 18 38],[ 9 37 33 18 38], 6.NS.B.4," 3.OA.A.3, 6.NS.B.4"," 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"," 6.NS.B.2, 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"," 2.OA.A.1, 6.NS.B.2, 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"
+1045,"Question: Marco and his dad went strawberry picking. Together their strawberries weighed 23 pounds. Marco's strawberries weighed 14 pounds. How much did his dad's strawberries weigh?
+Solution: 9 (pounds)
+Steps: 23-14=9",2.OA.A.1,9,[9],[1 9],[40  1  9],[29 40  1  9],[33 29 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 4.OA.A.3, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 5.NBT.B.6, 4.OA.A.3, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+281,"Question: Winter is almost here and most animals are migrating to warmer countries. There are 67 bird families living near the mountain. If 32 bird families flew away for winter, how many bird families were left near the mountain?
+Solution: 35 (bird families)
+Steps: 67-32=35",2.OA.A.1,9,[9],[40  9],[ 1 40  9],[29  1 40  9],[ 6 29  1 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"
+2160,"Question: At the fair Haley went on six rides in the day and three at night. How many rides did Haley go on total?
+Solution: 9 (rides)
+Steps: 6+3=9",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[ 2  9  1 49],[19  2  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 1.OA.A.2, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.D.8, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+1932,"Question: A baker made ninety cakes. If he sold eighty-three of them, how many cakes would the baker still have?
+Solution: 7 (cakes)
+Steps: 90-83=7",2.OA.A.1,9,[9],[1 9],[40  1  9],[49 40  1  9],[ 8 49 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.7, K.OA.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+2223,"Question: A store had eighty-seven coloring books in stock. They ended up putting them on sale and getting rid of thirty-three of them. The put the ones they still had onto shelves with six on each shelf. How many shelves did they use?
+Solution: 9 (shelves)
+Steps: (87-33)/6=9",3.OA.D.8,19,[19],[16 19],[ 9 16 19],[33  9 16 19],[49 33  9 16 19], 3.OA.D.8," 3.OA.8, 3.OA.D.8"," 2.OA.A.1, 3.OA.8, 3.OA.D.8"," 5.NBT.B.6, 2.OA.A.1, 3.OA.8, 3.OA.D.8"," K.OA.A.2, 5.NBT.B.6, 2.OA.A.1, 3.OA.8, 3.OA.D.8"
+1621,"Question: A movie poster was 4 inches wide and 7 inches tall. What is the area of the poster?
+Solution: 28 (square inches)
+Steps: 4*7=28",4.MD.A.3,22,[22],[18 22],[25 18 22],[21 25 18 22],[ 9 21 25 18 22], 4.MD.A.3," 3.OA.A.3, 4.MD.A.3"," 4.NBT.B.5, 3.OA.A.3, 4.MD.A.3"," 4.MD.A.2, 4.NBT.B.5, 3.OA.A.3, 4.MD.A.3"," 2.OA.A.1, 4.MD.A.2, 4.NBT.B.5, 3.OA.A.3, 4.MD.A.3"
+1321,"Question: Wilson has a number in mind. If he takes away one-third of the number from it the result is sixteen-third. Find the number.
+Solution: 8
+Steps: x:The number; x-(1/3)*x=16/3",6.EE.B.6,35,[35],[47 35],[43 47 35],[40 43 47 35],[27 40 43 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 4.NF.B.4, 6.RP.A.3, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"
+1959,"Question: For lunch, 2 students selected chocolate milk, 15 selected strawberry milk and 3 selected regular milk. How many milks were taken total?
+Solution: 20 (milks)
+Steps: 2+15+3=20",1.OA.A.2,2,[9],[2 9],[1 2 9],[6 1 2 9],[49  6  1  2  9], 2.OA.A.1," 1.OA.A.2, 2.OA.A.1"," 1.OA.A.1, 1.OA.A.2, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 1.OA.A.2, 2.OA.A.1"," K.OA.A.2, 2.NBT.B.5, 1.OA.A.1, 1.OA.A.2, 2.OA.A.1"
+2174,"Question: Adam had 33 books. If he sold 11 of them and used the money he earned to buy 23 new books, how many books would Adam have?
+Solution: 45 (books)
+Steps: 33-11+23=45",2.OA.A.1,9,[9],[29  9],[ 6 29  9],[40  6 29  9],[39 40  6 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.1, 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"
+660,"Question: In Ben's classroom there are red chairs, yellow chairs, and blue chairs. There are 3 red chairs. There are 4 times as many yellow chairs as red chairs, and there are 2 fewer blue chairs than yellow chairs. How many chairs are there in Ben's classroom?
+Solution: 25 (chairs)
+Steps: 3*4=12; 12-2=10; 3+12+10=25",3.OA.A.3,18,[9],[1 9],[49  1  9],[39 49  1  9],[47 39 49  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.1, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 8.EE.C.8, 6.RP.A.1, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"
+660,"Question: In Ben's classroom there are red chairs, yellow chairs, and blue chairs. There are 3 red chairs. There are 4 times as many yellow chairs as red chairs, and there are 2 fewer blue chairs than yellow chairs. How many chairs are there in Ben's classroom?
+Solution: 25 (chairs)
+Steps: 3*4=12; 12-2=10; 3+12+10=25",1.OA.A.1,1,[9],[1 9],[49  1  9],[39 49  1  9],[47 39 49  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.1, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 8.EE.C.8, 6.RP.A.1, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"
+660,"Question: In Ben's classroom there are red chairs, yellow chairs, and blue chairs. There are 3 red chairs. There are 4 times as many yellow chairs as red chairs, and there are 2 fewer blue chairs than yellow chairs. How many chairs are there in Ben's classroom?
+Solution: 25 (chairs)
+Steps: 3*4=12; 12-2=10; 3+12+10=25",2.OA.A.1,9,[9],[1 9],[49  1  9],[39 49  1  9],[47 39 49  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.1, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 8.EE.C.8, 6.RP.A.1, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"
+2262,"Question: Sam invited 9 friends to a birthday party, but 6 couldn't come. If he wanted to buy enough cupcakes so each person could have exactly 2, how many should he buy?
+Solution: 6 (cupcakes)
+Steps: (9-6)*2=6",3.OA.D.8,19,[19],[16 19],[49 16 19],[18 49 16 19],[35 18 49 16 19], 3.OA.D.8," 3.OA.8, 3.OA.D.8"," K.OA.A.2, 3.OA.8, 3.OA.D.8"," 3.OA.A.3, K.OA.A.2, 3.OA.8, 3.OA.D.8"," 6.EE.B.6, 3.OA.A.3, K.OA.A.2, 3.OA.8, 3.OA.D.8"
+1073,"Question: Karlene read 3 pages on Tuesday, 6 pages on Wednesday, 12 pages on Thursday, 24 pages on Friday, and 48 pages on Saturday. If this pattern continues, how many pages will Karlene read on Sunday?
+Solution: 96 (pages)
+Steps: 3, 6, 12, 24, 48, 96",4.OA.C.5,31,[20],[ 9 20],[49  9 20],[31 49  9 20],[21 31 49  9 20], 3.OA.D.9," 2.OA.A.1, 3.OA.D.9"," K.OA.A.2, 2.OA.A.1, 3.OA.D.9"," 4.OA.C.5, K.OA.A.2, 2.OA.A.1, 3.OA.D.9"," 4.MD.A.2, 4.OA.C.5, K.OA.A.2, 2.OA.A.1, 3.OA.D.9"
+2067,"Question: Bill observed two types of birds in the bushes: sparrows and parrots. While the sparrows were in flocks of 13, the parrots were in flocks of 14. If Bill observed the same total number of sparrows and parrots, what is the smallest number of sparrows that he could have observed?
+Solution: 182 (sparrows)
+Steps: LCM[13,14]=182",6.NS.B.4,38,[38],[37 38],[11 37 38],[12 11 37 38],[29 12 11 37 38], 6.NS.B.4," 6.NS.B.2, 6.NS.B.4"," 3.G.A.1, 6.NS.B.2, 6.NS.B.4"," 3.MD.D.8, 3.G.A.1, 6.NS.B.2, 6.NS.B.4"," 4.OA.A.3, 3.MD.D.8, 3.G.A.1, 6.NS.B.2, 6.NS.B.4"
+779,"Question: 86 students are going hiking. Each school- bus can take 9 students. How many students are left?
+Solution: 5 (students)
+Steps: 86/9=9 r5",4.NBT.B.6,26,[26],[25 26],[33 25 26],[49 33 25 26],[27 49 33 25 26], 4.NBT.B.6," 4.NBT.B.5, 4.NBT.B.6"," 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," K.OA.A.2, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," 4.NF.B.4, K.OA.A.2, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"
+337,"Question: Using the $834.00 left from buying the shoes, he went to a fashion store to buy a dress for his sister. If the dress costs $129.00, how much money does he have left with him?
+Solution: 705 (dollars)
+Steps: 834-129=705",2.NBT.B.7,8,[8],[25  8],[ 9 25  8],[13  9 25  8],[21 13  9 25  8], 2.NBT.B.7," 4.NBT.B.5, 2.NBT.B.7"," 2.OA.A.1, 4.NBT.B.5, 2.NBT.B.7"," 3.NBT.A.2, 2.OA.A.1, 4.NBT.B.5, 2.NBT.B.7"," 4.MD.A.2, 3.NBT.A.2, 2.OA.A.1, 4.NBT.B.5, 2.NBT.B.7"
+446,"Question: It's Rachel's birthday. Her parents wanted her to have fun so they went to the circus that happened to be in town that day. Upon arriving at the circus, they went to the ticket booth and asked how much each ticket cost. If each ticket costs $44.00 and they bought 7 tickets, how much money did they spend on tickets?
+Solution: 308 (dollars)
+Steps: 44*7=308",4.NBT.B.5,25,[25],[ 9 25],[18  9 25],[14 18  9 25],[21 14 18  9 25], 4.NBT.B.5," 2.OA.A.1, 4.NBT.B.5"," 3.OA.A.3, 2.OA.A.1, 4.NBT.B.5"," 3.NBT.A.3, 3.OA.A.3, 2.OA.A.1, 4.NBT.B.5"," 4.MD.A.2, 3.NBT.A.3, 3.OA.A.3, 2.OA.A.1, 4.NBT.B.5"
+1314,"Question: The difference of two numbers is 100. If one of the numbers is 91, find the other number.
+Solution: 191
+Steps: x:The other number; x-91=100",6.EE.B.6,35,[35],[47 35],[43 47 35],[ 9 43 47 35],[40  9 43 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 2.OA.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, 2.OA.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"
+1948,"Question: A chef was making pies. He made 2 apple, 4 pecan and 7 pumpkin pies. How many pies did he make total?
+Solution: 13 (pies)
+Steps: 2+4+7=13",1.OA.A.2,2,[2],[9 2],[1 9 2],[33  1  9  2],[49 33  1  9  2], 1.OA.A.2," 2.OA.A.1, 1.OA.A.2"," 1.OA.A.1, 2.OA.A.1, 1.OA.A.2"," 5.NBT.B.6, 1.OA.A.1, 2.OA.A.1, 1.OA.A.2"," K.OA.A.2, 5.NBT.B.6, 1.OA.A.1, 2.OA.A.1, 1.OA.A.2"
+1552,"Question: A post office has five hundred eighty-two pieces of junk mail they want to split evenly between seven mail trucks. How many extra pieces of junk mail will they have if they give each truck the same amount?
+Solution: 1 (piece)
+Steps: 582/7=83 r1",4.NBT.B.6,26,[26],[19 26],[25 19 26],[ 4 25 19 26],[49  4 25 19 26], 4.NBT.B.6," 3.OA.D.8, 4.NBT.B.6"," 4.NBT.B.5, 3.OA.D.8, 4.NBT.B.6"," 2.MD.C.8, 4.NBT.B.5, 3.OA.D.8, 4.NBT.B.6"," K.OA.A.2, 2.MD.C.8, 4.NBT.B.5, 3.OA.D.8, 4.NBT.B.6"
+915,"Question: My ice cream shop was really busy today. It was 98 degrees and we sold 67 ice cream cones. We sold 15 more milkshakes than ice cream cones. How many milkshakes were sold?
+Solution: 82 (milkshakes)
+Steps: 67+15=82",2.OA.A.1,9,[9],[40  9],[29 40  9],[13 29 40  9],[ 6 13 29 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 3.NBT.A.2, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.5, 3.NBT.A.2, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"
+1132,"Question: Ted and David shared 24 stickers in the ratio 3:5. David used 8 of his stickers. What was the ratio of Ted's stickers to David's sticker's then?
+Solution: 09:07:00
+Steps: 3+5=8; 8:3=24:9; 24-9=15; 15-8=7; 9:7",6.RP.A.3,40,[39],[ 9 39],[ 1  9 39],[49  1  9 39],[47 49  1  9 39], 6.RP.A.1," 2.OA.A.1, 6.RP.A.1"," 1.OA.A.1, 2.OA.A.1, 6.RP.A.1"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1, 6.RP.A.1"," 8.EE.C.8, K.OA.A.2, 1.OA.A.1, 2.OA.A.1, 6.RP.A.1"
+329,"Question: While heating the wings, Charlie decided to make metal supports for the wings. If he needs 635 lbs of metal and he has 276 lbs in storage, how much additional metal does he need to buy?
+Solution: 359 (lbs)
+Steps: 635-276=359",2.NBT.B.7,8,[8],[13  8],[21 13  8],[25 21 13  8],[ 9 25 21 13  8], 2.NBT.B.7," 3.NBT.A.2, 2.NBT.B.7"," 4.MD.A.2, 3.NBT.A.2, 2.NBT.B.7"," 4.NBT.B.5, 4.MD.A.2, 3.NBT.A.2, 2.NBT.B.7"," 2.OA.A.1, 4.NBT.B.5, 4.MD.A.2, 3.NBT.A.2, 2.NBT.B.7"
+1059,"Question: At the Cooper wedding, 12 guests sat on the groom's side and 15 guests sat on the bride's side. At the Patterson wedding, 11 guests sat on the groom's side and 14 guests sat on the bride's side. Which wedding had a higher ratio of guests of the groom to guests of the bride?
+Solution: The Cooper wedding
+Steps: 12/15(The Cooper wedding) > 11/14(The Patterson wedding)",6.RP.A.3,40,[40],[39 40],[21 39 40],[ 9 21 39 40],[15  9 21 39 40], 6.RP.A.3," 6.RP.A.1, 6.RP.A.3"," 4.MD.A.2, 6.RP.A.1, 6.RP.A.3"," 2.OA.A.1, 4.MD.A.2, 6.RP.A.1, 6.RP.A.3"," 3.NF.A.3, 2.OA.A.1, 4.MD.A.2, 6.RP.A.1, 6.RP.A.3"
+551,"Question: Emily collected eggs from the hen and put them into 303 baskets. She put 28 eggs into each basket. How many eggs did Emily collect?
+Solution: 8484 (eggs)
+Steps: 303*28=8484",5.NBT.B.5,32,[25],[18 25],[32 18 25],[ 9 32 18 25],[33  9 32 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"," 2.OA.A.1, 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.6, 2.OA.A.1, 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"
+833,"Question: The weight of 5 diamonds is 100 g. The total weight of 4 diamonds and 2 jades is 140 g. How much heavier is a jade than a diamond?
+Solution: 10 (g)
+Steps: ((140-(100/5)*4)/2)-(100/5)=10",3.OA.A.3,18,[35],[19 35],[21 19 35],[12 21 19 35],[33 12 21 19 35], 6.EE.B.6," 3.OA.D.8, 6.EE.B.6"," 4.MD.A.2, 3.OA.D.8, 6.EE.B.6"," 3.MD.D.8, 4.MD.A.2, 3.OA.D.8, 6.EE.B.6"," 5.NBT.B.6, 3.MD.D.8, 4.MD.A.2, 3.OA.D.8, 6.EE.B.6"
+833,"Question: The weight of 5 diamonds is 100 g. The total weight of 4 diamonds and 2 jades is 140 g. How much heavier is a jade than a diamond?
+Solution: 10 (g)
+Steps: ((140-(100/5)*4)/2)-(100/5)=10",2.NBT.B.7,8,[35],[19 35],[21 19 35],[12 21 19 35],[33 12 21 19 35], 6.EE.B.6," 3.OA.D.8, 6.EE.B.6"," 4.MD.A.2, 3.OA.D.8, 6.EE.B.6"," 3.MD.D.8, 4.MD.A.2, 3.OA.D.8, 6.EE.B.6"," 5.NBT.B.6, 3.MD.D.8, 4.MD.A.2, 3.OA.D.8, 6.EE.B.6"
+219,"Question: The rest of the kids around town got 13 more eggs around the club house, 9 eggs around the park and 8 eggs in the town hall garden. If we add all the eggs that they got, how many eggs would that be?
+Solution: 30 (eggs)
+Steps: 13+8+9=30",2.OA.A.1,9,[9],[6 9],[29  6  9],[ 1 29  6  9],[19  1 29  6  9], 2.OA.A.1," 2.NBT.B.5, 2.OA.A.1"," 4.OA.A.3, 2.NBT.B.5, 2.OA.A.1"," 1.OA.A.1, 4.OA.A.3, 2.NBT.B.5, 2.OA.A.1"," 3.OA.D.8, 1.OA.A.1, 4.OA.A.3, 2.NBT.B.5, 2.OA.A.1"
+52,"Question: Shelby's teacher gives out gold stars for great math work. Yesterday, Shelby earned 4 gold stars. Today, she earned 3 more. How many gold stars did Shelby earn in all?
+Solution: 7 (gold stars)
+Steps: 4+3=7",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[18  9  1 49],[19 18  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.D.8, 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+1429,"Question: A sailor goes 8 km downstream in 40 minutes and comes back in 1 hour. Determine the speed of the sailor in still water and the speed of current.
+Solution: 10 (km/hour); 2 (km/hour)
+Steps: x:Speed of sailor in still water; y:Speed of current; 8/(x+y)=40/60; 8/(x-y)=1",8.EE.C.8,47,[47],[35 47],[39 35 47],[21 39 35 47],[43 21 39 35 47], 8.EE.C.8," 6.EE.B.6, 8.EE.C.8"," 6.RP.A.1, 6.EE.B.6, 8.EE.C.8"," 4.MD.A.2, 6.RP.A.1, 6.EE.B.6, 8.EE.C.8"," 7.EE.B.4, 4.MD.A.2, 6.RP.A.1, 6.EE.B.6, 8.EE.C.8"
+442,"Question: Another region was the aquatic reserve for freshwater organisms. If there are 6 bodies of water in the region, each having 175 different fishes, how many fishes does he have in total?
+Solution: 1050 (fishes)
+Steps: 6*175=1050",4.NBT.B.5,25,[25],[18 25],[32 18 25],[14 32 18 25],[21 14 32 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"," 3.NBT.A.3, 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.2, 3.NBT.A.3, 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"
+1395,"Question: Vidya's mother's age is 5 years more than the three times of Vidya's present age. Find Vidya's present age, if her mother is 44 years old.
+Solution: 13 (years old)
+Steps: x:Vidya's present age; 3*x+5=44",6.EE.B.6,35,[35],[47 35],[43 47 35],[ 9 43 47 35],[12  9 43 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 2.OA.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 3.MD.D.8, 2.OA.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"
+2092,"Question: Jessica wants of make a garland out of 8 roses, 12 daisies and 48 marigolds. How many arrangements can she make with those flowers so that, there is no flower left.
+Solution: 4 (arrangements)
+Steps: GCD(8,12,48)=4",6.NS.B.4,38,[38],[18 38],[37 18 38],[11 37 18 38],[33 11 37 18 38], 6.NS.B.4," 3.OA.A.3, 6.NS.B.4"," 6.NS.B.2, 3.OA.A.3, 6.NS.B.4"," 3.G.A.1, 6.NS.B.2, 3.OA.A.3, 6.NS.B.4"," 5.NBT.B.6, 3.G.A.1, 6.NS.B.2, 3.OA.A.3, 6.NS.B.4"
+235,"Question: On the day of the awarding ceremony, Robyn and Lucy decided to sell more cookies during the morning to make sure they get the badge. Lucy sold 19 packs and Robyn sold 16. How many packs did they sell on their last day?
+Solution: 35 (packs)
+Steps: 19+16=35",2.OA.A.1,9,[9],[29  9],[40 29  9],[ 6 40 29  9],[ 1  6 40 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 1.OA.A.1, 2.NBT.B.5, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"
+1569,"Question: A box of computer paper has two hundred twenty-one sheets left in it. If each printer in a computer lab needed seven sheets, how many printers would the box fill up?
+Solution: 31 (printers)
+Steps: 221/7=31 r4",4.NBT.B.6,26,[26],[33 26],[19 33 26],[25 19 33 26],[ 4 25 19 33 26], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," 4.NBT.B.5, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," 2.MD.C.8, 4.NBT.B.5, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"
+1493,"Question: Bridget needs to make rectangular cards measuring 2 inches by 3 inches. She will cut them from a square sheet of poster board measuring 1 foot on each side. What is the greatest number of cards that Bridget can make?
+Solution: 24 (cards)
+Steps: ((1 (feet)*12(inch/feet))*(1 (feet)*12(inch/feet)))/(3 (inch)*2 (inch)) = 24",4.MD.A.2,21,[21],[18 21],[22 18 21],[33 22 18 21],[12 33 22 18 21], 4.MD.A.2," 3.OA.A.3, 4.MD.A.2"," 4.MD.A.3, 3.OA.A.3, 4.MD.A.2"," 5.NBT.B.6, 4.MD.A.3, 3.OA.A.3, 4.MD.A.2"," 3.MD.D.8, 5.NBT.B.6, 4.MD.A.3, 3.OA.A.3, 4.MD.A.2"
+670,"Question: It takes 3 eggs to make a cake. How many cakes can you make with 37 eggs?
+Solution: 12 (cakes)
+Steps: 37/3=12 r1",4.NBT.B.6,26,[26],[33 26],[19 33 26],[32 19 33 26],[27 32 19 33 26], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," 5.NBT.B.5, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"," 4.NF.B.4, 5.NBT.B.5, 3.OA.D.8, 5.NBT.B.6, 4.NBT.B.6"
+1428,"Question: Tara can row downstream 20 km in 2 hours, and upstream 4 km in 2 hours. Find her speed of rowing in still water and the speed of the current.
+Solution: 6 (km/hour); 4 (km/hour)
+Steps: x:Speed of rowing in still water; y:Speed of current; 20/(x+y)=2; 4/(x-y)=2",8.EE.C.8,47,[47],[43 47],[35 43 47],[21 35 43 47],[49 21 35 43 47], 8.EE.C.8," 7.EE.B.4, 8.EE.C.8"," 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 4.MD.A.2, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," K.OA.A.2, 4.MD.A.2, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"
+1810,"Question: Bianca was practicing for a marathon. To prepare she ran 8 miles the first day and 4 miles the next day. How many miles did Bianca run altogether?
+Solution: 12 (miles)
+Steps: 8+4=12",1.OA.A.1,1,[9],[1 9],[2 1 9],[49  2  1  9],[40 49  2  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 1.OA.A.2, 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 1.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, K.OA.A.2, 1.OA.A.2, 1.OA.A.1, 2.OA.A.1"
+486,"Question: On the first Saturday of spring, Jane woke up early to enjoy the whole day and help with chores at home. Jane had been saving large empty cans to serve as pots for sunflowers. If she has 54 sunflower seeds and there are 9 cans, how many seeds will be placed in each can if she places an equal number of seeds in each can?
+Solution: 6 (seeds)
+Steps: 54/9=6",3.OA.A.3,18,[18],[33 18],[ 9 33 18],[ 1  9 33 18],[49  1  9 33 18], 3.OA.A.3," 5.NBT.B.6, 3.OA.A.3"," 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"," 1.OA.A.1, 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"
+998,"Question: Carey and Pat are moving chairs to the gym. They agreed to move 74 chairs. Carey moved 28 chairs. Pat has moved 29 chairs. How many more chairs do they have left to move?
+Solution: 17 (chairs)
+Steps: 74-28-29=17",2.OA.A.1,9,[9],[1 9],[40  1  9],[ 6 40  1  9],[29  6 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 4.OA.A.3, 2.NBT.B.5, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+163,"Question: Zach scored 42 points in the football game. Ben scored 21 points. How many more points did Zach score?
+Solution: 21 (points)
+Steps: 42-21=21",2.OA.A.1,9,[9],[40  9],[ 1 40  9],[ 6  1 40  9],[29  6  1 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 2.NBT.B.5, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"
+1279,"Question: A pet store had sixty-eight gerbils. If they sold fourteen of them, what's the difference between the number of gerbils that they had before selling and they sold?
+Solution: 54 (gerbils)
+Steps: 68-14=54",2.OA.A.1,9,[9],[40  9],[29 40  9],[ 1 29 40  9],[39  1 29 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 1.OA.A.1, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 6.RP.A.1, 1.OA.A.1, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"
+1804,"Question: At the fair Dave rode 4 rides the first day he went and 3 rides the second day. How many times did he ride total?
+Solution: 7 (times)
+Steps: 4+3=7",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[ 2  9  1 49],[18  2  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 1.OA.A.2, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+27,"Question: 3 owls were sitting on the fence. 2 more owls joined them. How many owls are on the fence now?
+Solution: 5 (owls)
+Steps: 3+2=5",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[18  9  1 49],[19 18  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.D.8, 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+1270,"Question: A chef had forty-six apples. After making some pies he had fourteen left. What's the difference between the number of apples before the chef made pies and the after the chef making pies?
+Solution: 32 (apples)
+Steps: 46-14=32",2.OA.A.1,9,[9],[40  9],[29 40  9],[39 29 40  9],[ 1 39 29 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 6.RP.A.1, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 1.OA.A.1, 6.RP.A.1, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"
+1241,"Question: Luke had 9 pieces of candy. If he wants to split the candy into 2 bags with the same amount of candy in each bag, how many more pieces would he need to make sure each bag had the same amount?
+Solution: 1 (piece)
+Steps: 9/2=4 r1; 2-1=1",4.NBT.B.6,26,[49],[ 1 49],[26  1 49],[33 26  1 49],[ 9 33 26  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 4.NBT.B.6, 1.OA.A.1, K.OA.A.2"," 5.NBT.B.6, 4.NBT.B.6, 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 5.NBT.B.6, 4.NBT.B.6, 1.OA.A.1, K.OA.A.2"
+1241,"Question: Luke had 9 pieces of candy. If he wants to split the candy into 2 bags with the same amount of candy in each bag, how many more pieces would he need to make sure each bag had the same amount?
+Solution: 1 (piece)
+Steps: 9/2=4 r1; 2-1=1",K.OA.A.2,49,[49],[ 1 49],[26  1 49],[33 26  1 49],[ 9 33 26  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 4.NBT.B.6, 1.OA.A.1, K.OA.A.2"," 5.NBT.B.6, 4.NBT.B.6, 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 5.NBT.B.6, 4.NBT.B.6, 1.OA.A.1, K.OA.A.2"
+1173,"Question: Malia is picking berries in the berry patch. She picks 3 berries from the first bush, 4 berries from the second bush, 7 berries from the third bush, and 12 berries from the fourth bush. If this pattern continues, how many berries will Malia pick from the fifth bush?
+Solution: 19 (berries)
+Steps: 3, 4, 7, 12, 19",4.OA.C.5,31,[20],[31 20],[ 1 31 20],[39  1 31 20],[12 39  1 31 20], 3.OA.D.9," 4.OA.C.5, 3.OA.D.9"," 1.OA.A.1, 4.OA.C.5, 3.OA.D.9"," 6.RP.A.1, 1.OA.A.1, 4.OA.C.5, 3.OA.D.9"," 3.MD.D.8, 6.RP.A.1, 1.OA.A.1, 4.OA.C.5, 3.OA.D.9"
+200,"Question: The train left for the station at 9:45 and arrived at 10:00. How long did it take?
+Solution: 15 (minutes)
+Steps: (10*60 (min/hour) - (9*60 (min/hour) + 45 (min))) = 15 (min)",4.MD.A.2,21,[21],[33 21],[ 4 33 21],[18  4 33 21],[49 18  4 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 2.MD.C.8, 5.NBT.B.6, 4.MD.A.2"," 3.OA.A.3, 2.MD.C.8, 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 3.OA.A.3, 2.MD.C.8, 5.NBT.B.6, 4.MD.A.2"
+493,"Question: Marian also baked oatmeal cookies for her classmates. If she can place 12 cookies on a tray at a time, how many trays will she need to prepare 276 oatmeal cookies at a time?
+Solution: 23 (trays)
+Steps: 276/12=23",4.NBT.B.6,26,[33],[ 9 33],[21  9 33],[18 21  9 33],[12 18 21  9 33], 5.NBT.B.6," 2.OA.A.1, 5.NBT.B.6"," 4.MD.A.2, 2.OA.A.1, 5.NBT.B.6"," 3.OA.A.3, 4.MD.A.2, 2.OA.A.1, 5.NBT.B.6"," 3.MD.D.8, 3.OA.A.3, 4.MD.A.2, 2.OA.A.1, 5.NBT.B.6"
+308,"Question: If Carl has a total of 89 stamps and Kevin has 57, how many more stamps does Carl have more than Kevin?
+Solution: 32 (stamps)
+Steps: 89-57=32",2.OA.A.1,9,[9],[40  9],[29 40  9],[13 29 40  9],[ 6 13 29 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 3.NBT.A.2, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.5, 3.NBT.A.2, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"
+338,"Question: After buying a dress, he went to a gardening store and bought his mom some ornamental plants. If the plants originally cost $467.00 and he was able to get a $399.00 discount, how much did he actually spend on buying the plants?
+Solution: 68 (dollars)
+Steps: 467-399=68",2.NBT.B.7,8,[9],[8 9],[19  8  9],[13 19  8  9],[21 13 19  8  9], 2.OA.A.1," 2.NBT.B.7, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.7, 2.OA.A.1"," 3.NBT.A.2, 3.OA.D.8, 2.NBT.B.7, 2.OA.A.1"," 4.MD.A.2, 3.NBT.A.2, 3.OA.D.8, 2.NBT.B.7, 2.OA.A.1"
+612,"Question: There were 3,409 pieces of candy in a jar. If 145 pieces were red and the rest were blue, how many were blue?
+Solution: 3264 (pieces of candy)
+Steps: 3409-145=3264",4.NBT.B.4,24,[8],[9 8],[24  9  8],[25 24  9  8],[ 1 25 24  9  8], 2.NBT.B.7," 2.OA.A.1, 2.NBT.B.7"," 4.NBT.B.4, 2.OA.A.1, 2.NBT.B.7"," 4.NBT.B.5, 4.NBT.B.4, 2.OA.A.1, 2.NBT.B.7"," 1.OA.A.1, 4.NBT.B.5, 4.NBT.B.4, 2.OA.A.1, 2.NBT.B.7"
+1803,"Question: Oliver won 11 tickets playing games at the arcade. If he spent 5 tickets buying a water gun, how many tickets did he still have?
+Solution: 6 (tickets)
+Steps: 11-5=6",1.OA.A.1,1,[1],[9 1],[49  9  1],[33 49  9  1],[ 8 33 49  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 2.NBT.B.7, 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+2297,"Question: Denise has 210 crayons and 3 blocks. If she shares the crayons among 30 friends, how many crayons does each friend get?
+Solution: 7 (crayons)
+Steps: 210/30=7",5.NBT.B.6,33,[33],[18 33],[19 18 33],[11 19 18 33],[39 11 19 18 33], 5.NBT.B.6," 3.OA.A.3, 5.NBT.B.6"," 3.OA.D.8, 3.OA.A.3, 5.NBT.B.6"," 3.G.A.1, 3.OA.D.8, 3.OA.A.3, 5.NBT.B.6"," 6.RP.A.1, 3.G.A.1, 3.OA.D.8, 3.OA.A.3, 5.NBT.B.6"
+1538,"Question: Tom has to sell eight hundred forty-nine chocolate bars to win a trip. If each box contains five chocolate bars, how many boxes will he need to sell to win the trip?
+Solution: 170 (boxes)
+Steps: 849/5=169 r4",4.NBT.B.6,26,[26],[33 26],[25 33 26],[49 25 33 26],[21 49 25 33 26], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 4.NBT.B.5, 5.NBT.B.6, 4.NBT.B.6"," K.OA.A.2, 4.NBT.B.5, 5.NBT.B.6, 4.NBT.B.6"," 4.MD.A.2, K.OA.A.2, 4.NBT.B.5, 5.NBT.B.6, 4.NBT.B.6"
+2263,"Question: If Helen sold 12 boxes of Trefoils, how many cases of 12 boxes does Helen pickup from the cookie mom?
+Solution: 1 (case)
+Steps: 12/12=1",3.OA.A.3,18,[18],[33 18],[ 9 33 18],[ 1  9 33 18],[49  1  9 33 18], 3.OA.A.3," 5.NBT.B.6, 3.OA.A.3"," 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"," 1.OA.A.1, 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"
+2222,"Question: Dave was working as a sacker at a grocery store where he made six dollars an hour. On Monday he worked six hours and on Tuesday he worked two hours. How much money did Dave make in those two days?
+Solution: 48 (dollars)
+Steps: (6+2)*6=48",3.OA.D.8,19,[19],[18 19],[ 9 18 19],[29  9 18 19],[35 29  9 18 19], 3.OA.D.8," 3.OA.A.3, 3.OA.D.8"," 2.OA.A.1, 3.OA.A.3, 3.OA.D.8"," 4.OA.A.3, 2.OA.A.1, 3.OA.A.3, 3.OA.D.8"," 6.EE.B.6, 4.OA.A.3, 2.OA.A.1, 3.OA.A.3, 3.OA.D.8"
+1264,"Question: For Halloween Frank got fifteen pounds of candy. If he gave eight pounds to Nancy, what's the difference between the pounds of Frank's candy before he gave Nancy and he gave to?
+Solution: 7 (pounds)
+Steps: 15-8=7",1.OA.A.1,1,[1],[9 1],[49  9  1],[33 49  9  1],[40 33 49  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 6.RP.A.3, 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+980,"Question: An event has 12 adults and 20 children. The event planner wants to make each table identical, with the same combination of adults and children and no people left over. What is the greatest number of tables the planner can set up?
+Solution: 4 (tables)
+Steps: GCD(12,20)=4",6.NS.B.4,38,[38],[18 38],[33 18 38],[37 33 18 38],[11 37 33 18 38], 6.NS.B.4," 3.OA.A.3, 6.NS.B.4"," 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"," 6.NS.B.2, 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"," 3.G.A.1, 6.NS.B.2, 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"
+602,"Question: Connie has 323 marbles. Juan has 175 more marbles than Connie. How many marbles does Juan have?
+Solution: 498 (marbles)
+Steps: 323+175=498",2.NBT.B.7,8,[8],[9 8],[13  9  8],[29 13  9  8],[25 29 13  9  8], 2.NBT.B.7," 2.OA.A.1, 2.NBT.B.7"," 3.NBT.A.2, 2.OA.A.1, 2.NBT.B.7"," 4.OA.A.3, 3.NBT.A.2, 2.OA.A.1, 2.NBT.B.7"," 4.NBT.B.5, 4.OA.A.3, 3.NBT.A.2, 2.OA.A.1, 2.NBT.B.7"
+603,"Question: Robin has 27 packages of gum. There are 18 pieces in each package. How many pieces of gum does Robin have?
+Solution: 486 (pieces of gum)
+Steps: 27*18=486",4.NBT.B.5,25,[25],[18 25],[ 9 18 25],[32  9 18 25],[14 32  9 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 2.OA.A.1, 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.5, 2.OA.A.1, 3.OA.A.3, 4.NBT.B.5"," 3.NBT.A.3, 5.NBT.B.5, 2.OA.A.1, 3.OA.A.3, 4.NBT.B.5"
+82,"Question: Jovana filled her bucket with 5 pounds of shells. If a friend comes to add 15 pounds of shells, and another friend comes to add 17 pounds of shells, how many pounds does she have altogether?
+Solution: 37 (pounds)
+Steps: 5+15+17=37",2.OA.A.1,9,[9],[29  9],[ 6 29  9],[13  6 29  9],[ 1 13  6 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 1.OA.A.1, 3.NBT.A.2, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"
+2112,"Question: Edward spent $2 on a board game and then he bought 4 action figures for $7 each. How much money did he spend on the game and figures?
+Solution: 30 (dollars)
+Steps: 4*7+2=30",3.OA.8,16,[19],[ 9 19],[29  9 19],[49 29  9 19],[ 6 49 29  9 19], 3.OA.D.8," 2.OA.A.1, 3.OA.D.8"," 4.OA.A.3, 2.OA.A.1, 3.OA.D.8"," K.OA.A.2, 4.OA.A.3, 2.OA.A.1, 3.OA.D.8"," 2.NBT.B.5, K.OA.A.2, 4.OA.A.3, 2.OA.A.1, 3.OA.D.8"
+1422,"Question: A number consisting of two digits, is equal to 7 times the sum of its digits. When 27 is subtracted from the number, the digits interchange places. Find the number.
+Solution: 63
+Steps: x:The number of the tens digital; y:The number of the unit digital; 10x+y=7(x+y); 10x+y-27=10y+x",8.EE.C.8,47,[47],[35 47],[43 35 47],[39 43 35 47],[40 39 43 35 47], 8.EE.C.8," 6.EE.B.6, 8.EE.C.8"," 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"," 6.RP.A.1, 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"," 6.RP.A.3, 6.RP.A.1, 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"
+72,"Question: Bobby ate twenty-six pieces of candy. Then, he ate seventeen more. How many pieces of candy did Bobby eat?
+Solution: 43 (pieces)
+Steps: 26+17=43",2.OA.A.1,9,[9],[29  9],[ 6 29  9],[40  6 29  9],[13 40  6 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"
+788,"Question: Divide 39 balloons into 7 equal groups. How many balloons are there in each group?
+Solution: 5 (balloons)
+Steps: 39/7=5 r4",4.NBT.B.6,26,[26],[25 26],[31 25 26],[ 4 31 25 26],[13  4 31 25 26], 4.NBT.B.6," 4.NBT.B.5, 4.NBT.B.6"," 4.OA.C.5, 4.NBT.B.5, 4.NBT.B.6"," 2.MD.C.8, 4.OA.C.5, 4.NBT.B.5, 4.NBT.B.6"," 3.NBT.A.2, 2.MD.C.8, 4.OA.C.5, 4.NBT.B.5, 4.NBT.B.6"
+787,"Question: There are 22 dogs in the farm. They live in 5 dog-houses equally. How many dogs are left?
+Solution: 2 (dogs)
+Steps: 22/5=4 r2",4.NBT.B.6,26,[26],[19 26],[37 19 26],[49 37 19 26],[25 49 37 19 26], 4.NBT.B.6," 3.OA.D.8, 4.NBT.B.6"," 6.NS.B.2, 3.OA.D.8, 4.NBT.B.6"," K.OA.A.2, 6.NS.B.2, 3.OA.D.8, 4.NBT.B.6"," 4.NBT.B.5, K.OA.A.2, 6.NS.B.2, 3.OA.D.8, 4.NBT.B.6"
+746,"Question: An online toy store stocked some toys. It sold 38 toys at the first week and 26 toys at the second week. If it had 19 toys left, how many toys were in stock at the beginning?
+Solution: 83 (toys)
+Steps: 38+26+19=83",2.OA.A.1,9,[9],[29  9],[13 29  9],[ 6 13 29  9],[40  6 13 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 3.NBT.A.2, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 2.NBT.B.5, 3.NBT.A.2, 4.OA.A.3, 2.OA.A.1"
+346,"Question: Alvin is trying to build a small house in the forest so that he has a place to stay whenever he goes hunting. He started by gathering some wood. According to his blueprint, he will need 376 pieces of wood. If his friend gave him 123 pieces and his brother gave him 136 pieces, how many more wood does he need to gather?
+Solution: 117 (pieces of wood)
+Steps: 376-123-136=117",2.NBT.B.7,8,[8],[9 8],[13  9  8],[19 13  9  8],[ 1 19 13  9  8], 2.NBT.B.7," 2.OA.A.1, 2.NBT.B.7"," 3.NBT.A.2, 2.OA.A.1, 2.NBT.B.7"," 3.OA.D.8, 3.NBT.A.2, 2.OA.A.1, 2.NBT.B.7"," 1.OA.A.1, 3.OA.D.8, 3.NBT.A.2, 2.OA.A.1, 2.NBT.B.7"
+2033,"Question: Tim has 39 pairs of headphones and 13 music players. Tim wants to sell all of the headphones and music players in identical packages. What is the greatest number of packages Tim can make?
+Solution: 13 (packages)
+Steps: GCD(39,13)=13",6.NS.B.4,38,[38],[ 9 38],[33  9 38],[11 33  9 38],[12 11 33  9 38], 6.NS.B.4," 2.OA.A.1, 6.NS.B.4"," 5.NBT.B.6, 2.OA.A.1, 6.NS.B.4"," 3.G.A.1, 5.NBT.B.6, 2.OA.A.1, 6.NS.B.4"," 3.MD.D.8, 3.G.A.1, 5.NBT.B.6, 2.OA.A.1, 6.NS.B.4"
+2034,"Question: Yadira's mom is buying hot dogs and hot dog buns for the family barbecue. Hot dogs come in packs of 12 and hot dog buns come in packs of 9. The store does not sell parts of a pack and Yadira's mom wants the same number of hot dogs as hot dog buns. What is the smallest total number of hot dogs that Yadira's mom can purchase?
+Solution: 36 (hot dogs)
+Steps: LCM[12,9]=36",6.NS.B.4,38,[38],[11 38],[29 11 38],[18 29 11 38],[ 9 18 29 11 38], 6.NS.B.4," 3.G.A.1, 6.NS.B.4"," 4.OA.A.3, 3.G.A.1, 6.NS.B.4"," 3.OA.A.3, 4.OA.A.3, 3.G.A.1, 6.NS.B.4"," 2.OA.A.1, 3.OA.A.3, 4.OA.A.3, 3.G.A.1, 6.NS.B.4"
+2004,"Question: Janet picked 4 tulips and 11 roses to make flower bouquets. If she only used 11 of the flowers though, how many extra flowers did Janet pick?
+Solution: 4 (flowers)
+Steps: (4+11)-11=4",1.OA.A.1,1,[9],[1 9],[49  1  9],[19 49  1  9],[35 19 49  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 3.OA.D.8, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"," 6.EE.B.6, 3.OA.D.8, K.OA.A.2, 1.OA.A.1, 2.OA.A.1"
+7,"Question: Sandra took six cups of coffee and Marcie took two cups of coffee. How many cups of coffee did Sandra and Marcie take in total?
+Solution: 8 (cups)
+Steps: 2+6=8",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[18  9  1 49],[ 2 18  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 1.OA.A.2, 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+2086,"Question: I am planting 50 apple trees and 30 peach trees. I want the same number and type of trees per row. What is the maximum number of trees I can plant per row?
+Solution: 10 (trees)
+Steps: GCD(50,30)=10",6.NS.B.4,38,[38],[33 38],[12 33 38],[11 12 33 38],[18 11 12 33 38], 6.NS.B.4," 5.NBT.B.6, 6.NS.B.4"," 3.MD.D.8, 5.NBT.B.6, 6.NS.B.4"," 3.G.A.1, 3.MD.D.8, 5.NBT.B.6, 6.NS.B.4"," 3.OA.A.3, 3.G.A.1, 3.MD.D.8, 5.NBT.B.6, 6.NS.B.4"
+1597,"Question: There are 336 students in a school. If the school has 7 grades and each grade had the same number of students, how many students were in each grade?
+Solution: 48 (students)
+Steps: 336/7=48",4.NBT.B.6,26,[26],[25 26],[33 25 26],[35 33 25 26],[18 35 33 25 26], 4.NBT.B.6," 4.NBT.B.5, 4.NBT.B.6"," 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," 6.EE.B.6, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"," 3.OA.A.3, 6.EE.B.6, 5.NBT.B.6, 4.NBT.B.5, 4.NBT.B.6"
+1040,"Question: Sam and Erica have $91 together. Sam has $38. How does Erica have?
+Solution: 53 (dollars)
+Steps: 91-38=53",2.OA.A.1,9,[9],[40  9],[ 1 40  9],[13  1 40  9],[ 6 13  1 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 3.NBT.A.2, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.5, 3.NBT.A.2, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"
+910,"Question: Alex, Brad, Calvin, and Dennis are playing checkers. Each of the 4 boys played 2 games with every other player. How many games of checkers were played altogether?
+Solution: 12 (games of checkers)
+Steps: 4*(1+2)=12",3.OA.D.8,19,[19],[18 19],[35 18 19],[ 9 35 18 19],[29  9 35 18 19], 3.OA.D.8," 3.OA.A.3, 3.OA.D.8"," 6.EE.B.6, 3.OA.A.3, 3.OA.D.8"," 2.OA.A.1, 6.EE.B.6, 3.OA.A.3, 3.OA.D.8"," 4.OA.A.3, 2.OA.A.1, 6.EE.B.6, 3.OA.A.3, 3.OA.D.8"
+198,"Question: It takes 20 minutes to cook pizza. If Jack wants to eat at 6:30, what time should he put it in the oven?
+Solution: 06:10:00
+Steps: ((6 (hour)*60 (min/hour) + 30 (min)) - 20 (min))/60 (min/hour) = 6 r10; hh:mm=6:10",4.MD.A.2,21,[21],[33 21],[39 33 21],[49 39 33 21],[38 49 39 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"," 6.NS.B.4, K.OA.A.2, 6.RP.A.1, 5.NBT.B.6, 4.MD.A.2"
+1833,"Question: Carol was sending out birthday invitations to her friends. If each package of invitations she bought had 9 invitations in it and she bought 5 packs, how many friends can she invite?
+Solution: 45 (friends)
+Steps: 9*5=45",3.OA.A.3,18,[18],[ 9 18],[25  9 18],[29 25  9 18],[33 29 25  9 18], 3.OA.A.3," 2.OA.A.1, 3.OA.A.3"," 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 4.OA.A.3, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"," 5.NBT.B.6, 4.OA.A.3, 4.NBT.B.5, 2.OA.A.1, 3.OA.A.3"
+2002,"Question: Emily was playing a trivia game. In the first round she scored 16 points and in the second round she scored 33 points. In the last round she lost 48 points. How many points did she have at the end of the game?
+Solution: 1 (points)
+Steps: 16+33-48=1",2.OA.A.1,9,[9],[1 9],[6 1 9],[35  6  1  9],[40 35  6  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 6.EE.B.6, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 6.EE.B.6, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
+2186,"Question: Vanessa uploaded twenty-three pictures from her phone and seven from her camera to Facebook. If she sorted the pics into five different albums with the same amount of pics in each album, how many pictures were in each of the albums?
+Solution: 6 (pictures)
+Steps: (23+7)/5=6",3.OA.D.8,19,[19],[16 19],[ 1 16 19],[49  1 16 19],[18 49  1 16 19], 3.OA.D.8," 3.OA.8, 3.OA.D.8"," 1.OA.A.1, 3.OA.8, 3.OA.D.8"," K.OA.A.2, 1.OA.A.1, 3.OA.8, 3.OA.D.8"," 3.OA.A.3, K.OA.A.2, 1.OA.A.1, 3.OA.8, 3.OA.D.8"
+2014,"Question: Serena wants to create snack bags for a trip she is going on. She has 6 granola bars and 10 pieces of dried fruit. If the snack bags should be identical without any food left over, what is the greatest number of snack bags Serena can make?
+Solution: 2 (snack bags)
+Steps: GCD(6,10)=2",6.NS.B.4,38,[38],[18 38],[ 9 18 38],[33  9 18 38],[37 33  9 18 38], 6.NS.B.4," 3.OA.A.3, 6.NS.B.4"," 2.OA.A.1, 3.OA.A.3, 6.NS.B.4"," 5.NBT.B.6, 2.OA.A.1, 3.OA.A.3, 6.NS.B.4"," 6.NS.B.2, 5.NBT.B.6, 2.OA.A.1, 3.OA.A.3, 6.NS.B.4"
+893,"Question: Cindy and Dan have the same number of stickers. Cindy used 15 of her stickers. Dan bought 18 more stickers. How many more stickers did Dan have than Cindy then?
+Solution: 33 (stickers)
+Steps: 15+18=33",2.OA.A.1,9,[9],[1 9],[29  1  9],[ 6 29  1  9],[40  6 29  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"
+809,"Question: Mr. Lee harvested 495 apples and he packed them evenly in some baskets. If there are 25 apples in each basket, how many apples were left unpacked?
+Solution: 20 (apples)
+Steps: 495/25=19 r20",5.NBT.B.6,33,[33],[ 9 33],[21  9 33],[12 21  9 33],[25 12 21  9 33], 5.NBT.B.6," 2.OA.A.1, 5.NBT.B.6"," 4.MD.A.2, 2.OA.A.1, 5.NBT.B.6"," 3.MD.D.8, 4.MD.A.2, 2.OA.A.1, 5.NBT.B.6"," 4.NBT.B.5, 3.MD.D.8, 4.MD.A.2, 2.OA.A.1, 5.NBT.B.6"
+665,"Question: Reshay and Natalie order eggs for $5.15, pancakes for $3.20, and 2 mugs of cocoa for $0.60 each. The tax is $0.75. How much change should they get from $15.00?
+Solution: 4.7 (dollars)
+Steps: 0.60*2=1.2; 5.15+3.20+1.2+0.75=10.3; 15-10.3=4.7",4.MD.A.2,21,[21],[ 9 21],[33  9 21],[49 33  9 21],[ 1 49 33  9 21], 4.MD.A.2," 2.OA.A.1, 4.MD.A.2"," 5.NBT.B.6, 2.OA.A.1, 4.MD.A.2"," K.OA.A.2, 5.NBT.B.6, 2.OA.A.1, 4.MD.A.2"," 1.OA.A.1, K.OA.A.2, 5.NBT.B.6, 2.OA.A.1, 4.MD.A.2"
+1256,"Question: There are 4 squirrels in a tree with 2 nuts. What's the difference of the number of squirrels and nuts over there?
+Solution: 2
+Steps: 4-2=2",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[26  9  1 49],[18 26  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+22,"Question: You have 7 cookies and you ate 2 of them. How many cookies do you have left?
+Solution: 5 (cookies)
+Steps: 7-2=5",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[26  9  1 49],[18 26  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+1556,"Question: An industrial machine can make three hundred sixty-one crayons a day. If each box of crayons has four crayons in it, how many full boxes does the machine make a day?
+Solution: 90 (boxes)
+Steps: 360/4=90 r0",4.NBT.B.6,26,[26],[19 26],[33 19 26],[27 33 19 26],[21 27 33 19 26], 4.NBT.B.6," 3.OA.D.8, 4.NBT.B.6"," 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6"," 4.NF.B.4, 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6"," 4.MD.A.2, 4.NF.B.4, 5.NBT.B.6, 3.OA.D.8, 4.NBT.B.6"
+1462,"Question: In a room containing 45 students there were twice as many girls as boys. How many of each, were there?
+Solution: 30 (girls); 15 (boys)
+Steps: x:The number of boys; y:The number of girls; x+y=45; 2x=y",8.EE.C.8,47,[35],[47 35],[ 9 47 35],[40  9 47 35],[39 40  9 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 2.OA.A.1, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, 2.OA.A.1, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.1, 6.RP.A.3, 2.OA.A.1, 8.EE.C.8, 6.EE.B.6"
+23,"Question: You have collected 7 crickets. How many more crickets do you need to collect to have 11 crickets?
+Solution: 4 (crickets)
+Steps: 11-7=4",1.OA.A.1,1,[1],[9 1],[49  9  1],[33 49  9  1],[ 8 33 49  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 2.NBT.B.7, 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+894,"Question: Rick and Todd have the same number of candy bars. Rick ate 11 candy bars. Todd gave away 18 of his candy bars. How many more candy bars did Rick have than Todd then?
+Solution: 7 (candy bars)
+Steps: 18-11=7",1.OA.A.1,1,[9],[1 9],[40  1  9],[49 40  1  9],[33 49 40  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"," 5.NBT.B.6, K.OA.A.2, 6.RP.A.3, 1.OA.A.1, 2.OA.A.1"
+1181,"Question: The teacher is handing out note cards to her students. She gave 3 note cards to the first student, 12 note cards to the second student, 48 note cards to the third student, and 192 note cards to the fourth student. If this pattern continues, how many note cards will the teacher give to the fifth student?
+Solution: 768 (note cards)
+Steps: 3, 12, 48, 192, 768",3.OA.D.9,20,[20],[21 20],[49 21 20],[17 49 21 20],[25 17 49 21 20], 3.OA.D.9," 4.MD.A.2, 3.OA.D.9"," K.OA.A.2, 4.MD.A.2, 3.OA.D.9"," 3.OA.9, K.OA.A.2, 4.MD.A.2, 3.OA.D.9"," 4.NBT.B.5, 3.OA.9, K.OA.A.2, 4.MD.A.2, 3.OA.D.9"
+2302,"Question: Janice has 316 bottle caps that must be put away in boxes. Douglas comes to help and brings 17 cookies to share with Janice. If there are 79 boxes, how many bottle caps must go in each box?
+Solution: 4 (bottle caps)
+Steps: 316/79=4",5.NBT.B.6,33,[33],[18 33],[ 9 18 33],[ 8  9 18 33],[19  8  9 18 33], 5.NBT.B.6," 3.OA.A.3, 5.NBT.B.6"," 2.OA.A.1, 3.OA.A.3, 5.NBT.B.6"," 2.NBT.B.7, 2.OA.A.1, 3.OA.A.3, 5.NBT.B.6"," 3.OA.D.8, 2.NBT.B.7, 2.OA.A.1, 3.OA.A.3, 5.NBT.B.6"
+1295,"Question: Pete, Bryan and Philip are cousins. Pete's age is one-third of Bryan and Philip is five years elder than Bryan. If the sum of the age of the cousins is 40, find the ages of each.
+Solution: 5 (years old); 15 (years old); 20 (years old)
+Steps: x:Bryan's age; (x/3)+x+(x+5)=40",6.EE.B.6,35,[47],[35 47],[43 35 47],[ 9 43 35 47],[40  9 43 35 47], 8.EE.C.8," 6.EE.B.6, 8.EE.C.8"," 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"," 2.OA.A.1, 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"," 6.RP.A.3, 2.OA.A.1, 7.EE.B.4, 6.EE.B.6, 8.EE.C.8"
+1320,"Question: I think of a number. If I subtract 6 from the number and divide it by 13, I will get the result as 2. Find the number in my mind.
+Solution: 32
+Steps: x:The number; (x-6)/13=2",6.EE.B.6,35,[35],[47 35],[40 47 35],[43 40 47 35],[19 43 40 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 6.RP.A.3, 8.EE.C.8, 6.EE.B.6"," 3.OA.D.8, 7.EE.B.4, 6.RP.A.3, 8.EE.C.8, 6.EE.B.6"
+1974,"Question: Henry was playing tic-tac-toe. He won 2 times, lost 2 times and it was a draw 10 times. How many times did Henry play?
+Solution: 14 (times)
+Steps: 2+2+10=14",1.OA.A.2,2,[9],[2 9],[1 2 9],[33  1  2  9],[ 6 33  1  2  9], 2.OA.A.1," 1.OA.A.2, 2.OA.A.1"," 1.OA.A.1, 1.OA.A.2, 2.OA.A.1"," 5.NBT.B.6, 1.OA.A.1, 1.OA.A.2, 2.OA.A.1"," 2.NBT.B.5, 5.NBT.B.6, 1.OA.A.1, 1.OA.A.2, 2.OA.A.1"
+1417,"Question: The sum total of the ages of father and the son is 55 years. If the father was to live till his son's age equals his present age. The total of their ages would be 93 years. Find their present ages.
+Solution: 37 (years old); 18 (years old)
+Steps: x:The present age of the father; y:The present age of the son; x+y=55; (x+(x-y))+(y+(x-y))=93",8.EE.C.8,47,[47],[43 47],[35 43 47],[ 9 35 43 47],[40  9 35 43 47], 8.EE.C.8," 7.EE.B.4, 8.EE.C.8"," 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 2.OA.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"," 6.RP.A.3, 2.OA.A.1, 6.EE.B.6, 7.EE.B.4, 8.EE.C.8"
+1747,"Question: On the last day of school only sixteen students showed up. If seven of them were checked out early, how many students were left?
+Solution: 9 (students)
+Steps: 16-7=9",1.OA.A.1,1,[1],[9 1],[33  9  1],[39 33  9  1],[40 39 33  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, 2.OA.A.1, 1.OA.A.1"," 6.RP.A.1, 5.NBT.B.6, 2.OA.A.1, 1.OA.A.1"," 6.RP.A.3, 6.RP.A.1, 5.NBT.B.6, 2.OA.A.1, 1.OA.A.1"
+1971,"Question: At the arcade Debby spent 2 tickets on a hat, 10 on a stuffed animal and 2 on a yoyo. How many tickets did she spend total?
+Solution: 14 (tickets)
+Steps: 2+10+2=14",1.OA.A.2,2,[9],[2 9],[1 2 9],[6 1 2 9],[33  6  1  2  9], 2.OA.A.1," 1.OA.A.2, 2.OA.A.1"," 1.OA.A.1, 1.OA.A.2, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 1.OA.A.2, 2.OA.A.1"," 5.NBT.B.6, 2.NBT.B.5, 1.OA.A.1, 1.OA.A.2, 2.OA.A.1"
+1219,"Question: Amanda and Sadie each have a band. Amanda's band plays songs in sets of 2 and Sadie's band plays songs in sets of 9. After performing together, both bands realize that they have played the same number of songs. What is the smallest number of songs each band could have performed?
+Solution: 18 (songs)
+Steps: LCM[2,9]=18",6.NS.B.4,38,[38],[11 38],[18 11 38],[12 18 11 38],[29 12 18 11 38], 6.NS.B.4," 3.G.A.1, 6.NS.B.4"," 3.OA.A.3, 3.G.A.1, 6.NS.B.4"," 3.MD.D.8, 3.OA.A.3, 3.G.A.1, 6.NS.B.4"," 4.OA.A.3, 3.MD.D.8, 3.OA.A.3, 3.G.A.1, 6.NS.B.4"
+1999,"Question: Faye and her mom were picking carrots from their garden. Faye picked 23 and her mother picked 5. If only 12 of the carrots were good, how many bad carrots did they have?
+Solution: 16 (bad carrots)
+Steps: (23+5)-12=16",2.OA.A.1,9,[9],[1 9],[6 1 9],[19  6  1  9],[35 19  6  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"," 6.EE.B.6, 3.OA.D.8, 2.NBT.B.5, 1.OA.A.1, 2.OA.A.1"
+973,"Question: Matt has two pieces of cord, one 15 feet long and the other 12 feet long. He wants to cut them up to produce many pieces of cord that are all of the same length, with no cord left over. What is the greatest length, in feet, that he can make them?
+Solution: 3 (feet)
+Steps: GCD(15,12)=3",6.NS.B.4,38,[38],[12 38],[33 12 38],[11 33 12 38],[18 11 33 12 38], 6.NS.B.4," 3.MD.D.8, 6.NS.B.4"," 5.NBT.B.6, 3.MD.D.8, 6.NS.B.4"," 3.G.A.1, 5.NBT.B.6, 3.MD.D.8, 6.NS.B.4"," 3.OA.A.3, 3.G.A.1, 5.NBT.B.6, 3.MD.D.8, 6.NS.B.4"
+1017,"Question: Frankie and Max went trick-or-treating. Frankie got 74 pieces of candy. Max got 92 pieces of candy. How many more pieces of candy did Max get?
+Solution: 18 (pieces of candy)
+Steps: 92-74=18",2.OA.A.1,9,[9],[40  9],[ 1 40  9],[39  1 40  9],[ 8 39  1 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 6.RP.A.1, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.7, 6.RP.A.1, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"
+694,"Question: There are some children at a bakery. As they were deciding what to buy, 24 girls came in and 31 boys left. If there are 78 children in the bakery in the end, how many children were there at first?
+Solution: 85 (children)
+Steps: 78+31-24=85",2.NBT.B.7,8,[9],[29  9],[40 29  9],[ 6 40 29  9],[13  6 40 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 2.NBT.B.5, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"
+542,"Question: A baker has a pan of fudge that measures 18 inches on one side and 29 inches on another side. If the fudge is cut into square pieces 1 inch on each side, how many pieces of fudge does the pan hold?
+Solution: 522 (pieces of fudge)
+Steps: 18*29=522",4.MD.A.3,22,[25],[22 25],[18 22 25],[21 18 22 25],[ 9 21 18 22 25], 4.NBT.B.5," 4.MD.A.3, 4.NBT.B.5"," 3.OA.A.3, 4.MD.A.3, 4.NBT.B.5"," 4.MD.A.2, 3.OA.A.3, 4.MD.A.3, 4.NBT.B.5"," 2.OA.A.1, 4.MD.A.2, 3.OA.A.3, 4.MD.A.3, 4.NBT.B.5"
+1595,"Question: Luke was played 5 rounds of a trivia game and scored 300 points. If he gained the same number of points each round, how many points did he score per round?
+Solution: 60 (points)
+Steps: 300/5=60",4.NBT.B.6,26,[26],[33 26],[18 33 26],[25 18 33 26],[21 25 18 33 26], 4.NBT.B.6," 5.NBT.B.6, 4.NBT.B.6"," 3.OA.A.3, 5.NBT.B.6, 4.NBT.B.6"," 4.NBT.B.5, 3.OA.A.3, 5.NBT.B.6, 4.NBT.B.6"," 4.MD.A.2, 4.NBT.B.5, 3.OA.A.3, 5.NBT.B.6, 4.NBT.B.6"
+643,"Question: Chris has been saving his allowance to buy a new pair of soccer cleats and a ball. His grandmother gave him $25 for his birthday. His aunt and uncle gave him $20 and his parents gave him $75. Now he had $279. How much money did he have before his birthday?
+Solution: 159 (dollars)
+Steps: 279-25-20-75=159",2.NBT.B.7,8,[8],[9 8],[1 9 8],[13  1  9  8],[ 6 13  1  9  8], 2.NBT.B.7," 2.OA.A.1, 2.NBT.B.7"," 1.OA.A.1, 2.OA.A.1, 2.NBT.B.7"," 3.NBT.A.2, 1.OA.A.1, 2.OA.A.1, 2.NBT.B.7"," 2.NBT.B.5, 3.NBT.A.2, 1.OA.A.1, 2.OA.A.1, 2.NBT.B.7"
+1289,"Question: For a party Janet bought some cupcakes. She bought 2 chocolate, 13 vanilla and 2 strawberry. What's the difference between the number of cupcakes of chocolate flavor and the vanilla flavor?
+Solution: 11 (cupcakes)
+Steps: 13-2=11",1.OA.A.1,1,[1],[9 1],[2 9 1],[49  2  9  1],[40 49  2  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 6.RP.A.3, K.OA.A.2, 1.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+1273,"Question: Haley had 2 dollars. If she got 13 more dollars in total for doing chores and her birthday, what's the difference between the number of dollars before Haley got money and she got from events?
+Solution: 11 (dollars)
+Steps: 13-2=11",1.OA.A.1,1,[1],[9 1],[6 9 1],[33  6  9  1],[40 33  6  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," 2.NBT.B.5, 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, 2.NBT.B.5, 2.OA.A.1, 1.OA.A.1"," 6.RP.A.3, 5.NBT.B.6, 2.NBT.B.5, 2.OA.A.1, 1.OA.A.1"
+1063,"Question: Georgetown Middle School's orchestra has 14 violin players and 12 flute players. Seaside Middle School's orchestra, on the other hand, has 6 violin players and 5 flute players. Which middle school has a lower ratio of violin to flute players?
+Solution: Georgetown Middle School
+Steps: 14/12(Georgetown Middle School) < 6/5(Seaside Middle School)",6.RP.A.3,40,[40],[39 40],[21 39 40],[15 21 39 40],[ 9 15 21 39 40], 6.RP.A.3," 6.RP.A.1, 6.RP.A.3"," 4.MD.A.2, 6.RP.A.1, 6.RP.A.3"," 3.NF.A.3, 4.MD.A.2, 6.RP.A.1, 6.RP.A.3"," 2.OA.A.1, 3.NF.A.3, 4.MD.A.2, 6.RP.A.1, 6.RP.A.3"
+1608,"Question: Cody had 36 boxes. Together the boxes weighed 243 kilograms. About how much did each box weigh?
+Solution: 6 (kilograms)
+Steps: 243/36=6 r27",5.NBT.B.6,33,[33],[19 33],[13 19 33],[ 9 13 19 33],[21  9 13 19 33], 5.NBT.B.6," 3.OA.D.8, 5.NBT.B.6"," 3.NBT.A.2, 3.OA.D.8, 5.NBT.B.6"," 2.OA.A.1, 3.NBT.A.2, 3.OA.D.8, 5.NBT.B.6"," 4.MD.A.2, 2.OA.A.1, 3.NBT.A.2, 3.OA.D.8, 5.NBT.B.6"
+617,"Question: In one week, an airplane pilot flew 1,134 miles on Tuesday and 1,475 miles on Thursday. If the pilot flies the same number of miles 3 weeks in a row, how many miles does he fly in all?
+Solution: 7827 (miles)
+Steps: (1134+1475)*3=7827",3.OA.D.8,19,[25],[21 25],[19 21 25],[32 19 21 25],[35 32 19 21 25], 4.NBT.B.5," 4.MD.A.2, 4.NBT.B.5"," 3.OA.D.8, 4.MD.A.2, 4.NBT.B.5"," 5.NBT.B.5, 3.OA.D.8, 4.MD.A.2, 4.NBT.B.5"," 6.EE.B.6, 5.NBT.B.5, 3.OA.D.8, 4.MD.A.2, 4.NBT.B.5"
+2288,"Question: Albert is inviting 34 friends to a party. He has 1802 cookies. How many cookies will each friend get?
+Solution: 53 (cookies)
+Steps: 1802/34=53",5.NBT.B.5,32,[33],[ 9 33],[19  9 33],[25 19  9 33],[13 25 19  9 33], 5.NBT.B.6," 2.OA.A.1, 5.NBT.B.6"," 3.OA.D.8, 2.OA.A.1, 5.NBT.B.6"," 4.NBT.B.5, 3.OA.D.8, 2.OA.A.1, 5.NBT.B.6"," 3.NBT.A.2, 4.NBT.B.5, 3.OA.D.8, 2.OA.A.1, 5.NBT.B.6"
+2234,"Question: Roger is at the library helping put away books. There are fifty-four book to put away total but a librarian takes nineteen of them and leaves Roger with the rest. If he can fit five books on a shelf, how many shelves will he need?
+Solution: 7 (shelves)
+Steps: (54-19)/5=7",3.OA.D.8,19,[19],[16 19],[33 16 19],[ 9 33 16 19],[18  9 33 16 19], 3.OA.D.8," 3.OA.8, 3.OA.D.8"," 5.NBT.B.6, 3.OA.8, 3.OA.D.8"," 2.OA.A.1, 5.NBT.B.6, 3.OA.8, 3.OA.D.8"," 3.OA.A.3, 2.OA.A.1, 5.NBT.B.6, 3.OA.8, 3.OA.D.8"
+1079,"Question: While counting chairs in the lunch room, Marie noticed that there were 14 chairs in the first row, 23 chairs in the second row, 32 chairs in the third row, 41 chairs in the fourth row, and 50 chairs in the fifth row. If this pattern continues, how many chairs will there be in the sixth row?
+Solution: 50 (chairs)
+Steps: 14, 23, 32, 41, 50",3.OA.D.9,20,[20],[ 9 20],[49  9 20],[39 49  9 20],[21 39 49  9 20], 3.OA.D.9," 2.OA.A.1, 3.OA.D.9"," K.OA.A.2, 2.OA.A.1, 3.OA.D.9"," 6.RP.A.1, K.OA.A.2, 2.OA.A.1, 3.OA.D.9"," 4.MD.A.2, 6.RP.A.1, K.OA.A.2, 2.OA.A.1, 3.OA.D.9"
+1778,"Question: Frank bought his family 14 pieces of chicken for dinner. If they only ate 7, how many pieces does he have left?
+Solution: 7 (pieces)
+Steps: 14-7=7",1.OA.A.1,1,[1],[9 1],[49  9  1],[33 49  9  1],[39 33 49  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 6.RP.A.1, 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+1175,"Question: Warren ran 1 lap on Wednesday, 2 laps on Thursday, 4 laps on Friday, 8 laps on Saturday, and 16 laps on Sunday. If this pattern continues, how many laps will Warren run on Monday?
+Solution: 32 (laps)
+Steps: 1, 2, 4, 8, 16, 32",3.OA.D.9,20,[20],[ 9 20],[31  9 20],[49 31  9 20],[40 49 31  9 20], 3.OA.D.9," 2.OA.A.1, 3.OA.D.9"," 4.OA.C.5, 2.OA.A.1, 3.OA.D.9"," K.OA.A.2, 4.OA.C.5, 2.OA.A.1, 3.OA.D.9"," 6.RP.A.3, K.OA.A.2, 4.OA.C.5, 2.OA.A.1, 3.OA.D.9"
+2044,"Question: Li Na is going to plant 63 tomato plants and 81 rhubarb plants. Li Na would like to plant the plants in rows where each row has the same number of tomato plants and each row has the same number of rhubarb plants. What is the greatest number of rows Li Na can plant?
+Solution: 9 (rows)
+Steps: GCD(63,81)=9",6.NS.B.4,38,[38],[18 38],[33 18 38],[11 33 18 38],[37 11 33 18 38], 6.NS.B.4," 3.OA.A.3, 6.NS.B.4"," 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"," 3.G.A.1, 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"," 6.NS.B.2, 3.G.A.1, 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"
+2061,"Question: Martha is buying 18 packs of pencils and 14 packs of pens from the store. If Martha wishes to purchase the same number of pencils as pens, what is the smallest number of pens that she can buy?
+Solution: 126 (pens)
+Steps: LCM[18,14]=126",6.NS.B.4,38,[38],[11 38],[37 11 38],[33 37 11 38],[29 33 37 11 38], 6.NS.B.4," 3.G.A.1, 6.NS.B.4"," 6.NS.B.2, 3.G.A.1, 6.NS.B.4"," 5.NBT.B.6, 6.NS.B.2, 3.G.A.1, 6.NS.B.4"," 4.OA.A.3, 5.NBT.B.6, 6.NS.B.2, 3.G.A.1, 6.NS.B.4"
+537,"Question: If you had 37 bags of cookies with 19 cookies in each bag, how many cookies would you have?
+Solution: 703 (cookies)
+Steps: 37*19=703",4.NBT.B.5,25,[25],[18 25],[ 9 18 25],[32  9 18 25],[33 32  9 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 2.OA.A.1, 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.5, 2.OA.A.1, 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.6, 5.NBT.B.5, 2.OA.A.1, 3.OA.A.3, 4.NBT.B.5"
+1700,"Question: On Monday the price for bottled water was 5 bottles for $13.30. On Saturday the price was 4 bottles for $10.24. Which day had the higher unit price?
+Solution: Monday
+Steps: 13.30/5=2.66(Monday) > 10.24/4=2.56(Saturday)",4.MD.A.2,21,[21],[33 21],[49 33 21],[ 9 49 33 21],[40  9 49 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"," 2.OA.A.1, K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"," 6.RP.A.3, 2.OA.A.1, K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"
+1700,"Question: On Monday the price for bottled water was 5 bottles for $13.30. On Saturday the price was 4 bottles for $10.24. Which day had the higher unit price?
+Solution: Monday
+Steps: 13.30/5=2.66(Monday) > 10.24/4=2.56(Saturday)",4.NF.C.7,28,[21],[33 21],[49 33 21],[ 9 49 33 21],[40  9 49 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"," 2.OA.A.1, K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"," 6.RP.A.3, 2.OA.A.1, K.OA.A.2, 5.NBT.B.6, 4.MD.A.2"
+543,"Question: The Ferris wheel in Paradise Park has 14 seats. Each seat can hold 6 people. How many people can ride the Ferris wheel at the same time?
+Solution: 84 (people)
+Steps: 14*6=84",3.OA.A.3,18,[18],[25 18],[ 9 25 18],[29  9 25 18],[22 29  9 25 18], 3.OA.A.3," 4.NBT.B.5, 3.OA.A.3"," 2.OA.A.1, 4.NBT.B.5, 3.OA.A.3"," 4.OA.A.3, 2.OA.A.1, 4.NBT.B.5, 3.OA.A.3"," 4.MD.A.3, 4.OA.A.3, 2.OA.A.1, 4.NBT.B.5, 3.OA.A.3"
+1562,"Question: Victor wanted to give each of his six friends an equal amount of candy. At the store he bought three hundred seventy-nine pieces total to give to them. How many more pieces should he have bought so he didn't have any extra?
+Solution: 5 (pieces)
+Steps: 379/6=63 r1; 6-1=5",4.NBT.B.6,26,[49],[33 49],[ 1 33 49],[ 9  1 33 49],[26  9  1 33 49], K.OA.A.2," 5.NBT.B.6, K.OA.A.2"," 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"
+1562,"Question: Victor wanted to give each of his six friends an equal amount of candy. At the store he bought three hundred seventy-nine pieces total to give to them. How many more pieces should he have bought so he didn't have any extra?
+Solution: 5 (pieces)
+Steps: 379/6=63 r1; 6-1=5",K.OA.A.2,49,[49],[33 49],[ 1 33 49],[ 9  1 33 49],[26  9  1 33 49], K.OA.A.2," 5.NBT.B.6, K.OA.A.2"," 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"," 4.NBT.B.6, 2.OA.A.1, 1.OA.A.1, 5.NBT.B.6, K.OA.A.2"
+1357,"Question: Your dog ate 12 of your notecards for school. That was 3/4 of your notecards that you need to turn in. How many notecards had you completed?
+Solution: 16 (notecards)
+Steps: x:The total number of notecards; 12=3/4*x",6.EE.B.6,35,[35],[40 35],[49 40 35],[ 9 49 40 35],[39  9 49 40 35], 6.EE.B.6," 6.RP.A.3, 6.EE.B.6"," K.OA.A.2, 6.RP.A.3, 6.EE.B.6"," 2.OA.A.1, K.OA.A.2, 6.RP.A.3, 6.EE.B.6"," 6.RP.A.1, 2.OA.A.1, K.OA.A.2, 6.RP.A.3, 6.EE.B.6"
+1387,"Question: Jessica spent half of her allowance going to the movies. She washed the family car and earned six dollars. What is her weekly allowance if she ended with eleven dollars ?
+Solution: 10 (dollars)
+Steps: x:Jessica's weekly allowance; x/2+6=11",6.EE.B.6,35,[35],[ 9 35],[47  9 35],[40 47  9 35],[ 1 40 47  9 35], 6.EE.B.6," 2.OA.A.1, 6.EE.B.6"," 8.EE.C.8, 2.OA.A.1, 6.EE.B.6"," 6.RP.A.3, 8.EE.C.8, 2.OA.A.1, 6.EE.B.6"," 1.OA.A.1, 6.RP.A.3, 8.EE.C.8, 2.OA.A.1, 6.EE.B.6"
+1074,"Question: The teacher's helper was putting cookies onto plates. He put 5 cookies on the first plate, 7 cookies on the second plate, 10 cookies on the third plate, 14 cookies on the fourth plate, and 19 cookies on the fifth plate. If this pattern continues, how many cookies will the helper put on the sixth plate?
+Solution: 25 (cookies)
+Steps: 5, 7, 10, 14, 19, 25",3.OA.D.9,20,[20],[31 20],[ 9 31 20],[49  9 31 20],[12 49  9 31 20], 3.OA.D.9," 4.OA.C.5, 3.OA.D.9"," 2.OA.A.1, 4.OA.C.5, 3.OA.D.9"," K.OA.A.2, 2.OA.A.1, 4.OA.C.5, 3.OA.D.9"," 3.MD.D.8, K.OA.A.2, 2.OA.A.1, 4.OA.C.5, 3.OA.D.9"
+1025,"Question: The giant Ferris wheel can seat 56 people. There are 92 people waiting in line. How many people won't get on the ride this time?
+Solution: 36 (people)
+Steps: 92-56=36",2.OA.A.1,9,[9],[40  9],[29 40  9],[ 8 29 40  9],[13  8 29 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.7, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"," 3.NBT.A.2, 2.NBT.B.7, 4.OA.A.3, 6.RP.A.3, 2.OA.A.1"
+540,"Question: This year on your 11th birthday your mother tells you that she is exactly 3 times as old as you are. How old is she?
+Solution: 33 (years old)
+Steps: 11*3=33",3.OA.A.3,18,[18],[ 9 18],[12  9 18],[ 1 12  9 18],[25  1 12  9 18], 3.OA.A.3," 2.OA.A.1, 3.OA.A.3"," 3.MD.D.8, 2.OA.A.1, 3.OA.A.3"," 1.OA.A.1, 3.MD.D.8, 2.OA.A.1, 3.OA.A.3"," 4.NBT.B.5, 1.OA.A.1, 3.MD.D.8, 2.OA.A.1, 3.OA.A.3"
+685,"Question: Mrs. Hilt will buy a new pair of shoes in 11 days. How many minutes must she wait before she can buy her new pair of shoes?
+Solution: 15840 (minutes)
+Steps: 11 (day) * 24 (hour/day) * 60 (min/hour) = 15840 (min)",4.MD.A.2,21,[21],[33 21],[22 33 21],[18 22 33 21],[ 4 18 22 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 4.MD.A.3, 5.NBT.B.6, 4.MD.A.2"," 3.OA.A.3, 4.MD.A.3, 5.NBT.B.6, 4.MD.A.2"," 2.MD.C.8, 3.OA.A.3, 4.MD.A.3, 5.NBT.B.6, 4.MD.A.2"
+1727,"Question: Victor bought several boxes of books at a yard sale and ended up with twenty-four books total. If each box had three books, how many boxes did he buy?
+Solution: 8 (boxes)
+Steps: 24/3=8",3.OA.A.3,18,[18],[ 1 18],[ 9  1 18],[49  9  1 18],[33 49  9  1 18], 3.OA.A.3," 1.OA.A.1, 3.OA.A.3"," 2.OA.A.1, 1.OA.A.1, 3.OA.A.3"," K.OA.A.2, 2.OA.A.1, 1.OA.A.1, 3.OA.A.3"," 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1, 3.OA.A.3"
+209,"Question: Annie's friends wanted to make sure that there will be enough utensils to go around. If they already have 10 spoons and 10 forks and they bought 30 more for forks and 20 more spoons, how many utensils do they have available for the party?
+Solution: 70 (utensils)
+Steps: 10+10+30+20=70",2.NBT.B.6,7,[9],[29  9],[19 29  9],[ 1 19 29  9],[49  1 19 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 3.OA.D.8, 4.OA.A.3, 2.OA.A.1"," 1.OA.A.1, 3.OA.D.8, 4.OA.A.3, 2.OA.A.1"," K.OA.A.2, 1.OA.A.1, 3.OA.D.8, 4.OA.A.3, 2.OA.A.1"
+562,"Question: A candy store has 6 boxes of chocolates. Each box has 500 pieces. How many pieces are there altogether in the 6 boxes?
+Solution: 3000 (pieces)
+Steps: 6*500=3000",4.NBT.B.5,25,[25],[18 25],[14 18 25],[ 9 14 18 25],[22  9 14 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 3.NBT.A.3, 3.OA.A.3, 4.NBT.B.5"," 2.OA.A.1, 3.NBT.A.3, 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.3, 2.OA.A.1, 3.NBT.A.3, 3.OA.A.3, 4.NBT.B.5"
+1637,"Question: An envelope from the post office is 6 inches wide with a total area of 36 square inches. What is the height of the envelope?
+Solution: 6 (inches)
+Steps: 36/6=6",4.MD.A.3,22,[22],[18 22],[ 1 18 22],[ 9  1 18 22],[21  9  1 18 22], 4.MD.A.3," 3.OA.A.3, 4.MD.A.3"," 1.OA.A.1, 3.OA.A.3, 4.MD.A.3"," 2.OA.A.1, 1.OA.A.1, 3.OA.A.3, 4.MD.A.3"," 4.MD.A.2, 2.OA.A.1, 1.OA.A.1, 3.OA.A.3, 4.MD.A.3"
+1718,"Question: A mailman has to give twenty-eight pieces of junk mail to each block. If there are four houses on a block, how many pieces of junk mail should he give each house?
+Solution: 7 (pieces of junk mail)
+Steps: 28/4=7",3.OA.A.3,18,[18],[33 18],[ 9 33 18],[ 1  9 33 18],[49  1  9 33 18], 3.OA.A.3," 5.NBT.B.6, 3.OA.A.3"," 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"," 1.OA.A.1, 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"," K.OA.A.2, 1.OA.A.1, 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"
+623,"Question: The Spurs basketball team has 22 players. Each player has eleven basketballs. How many basketballs do they have in all?
+Solution: 242 (basketballs)
+Steps: 22*11=242",4.NBT.B.5,25,[25],[18 25],[ 9 18 25],[32  9 18 25],[33 32  9 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 2.OA.A.1, 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.5, 2.OA.A.1, 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.6, 5.NBT.B.5, 2.OA.A.1, 3.OA.A.3, 4.NBT.B.5"
+635,"Question: Mrs. Hilt is baking bread. She needs 5 cups of flour to bake two loaves of bread. How much flour will she need to make one loaf of bread?
+Solution: 2.5 (cups of flour)
+Steps: 5/2=2.5",K.OA.A.2,49,[21],[18 21],[49 18 21],[ 9 49 18 21],[41  9 49 18 21], 4.MD.A.2," 3.OA.A.3, 4.MD.A.2"," K.OA.A.2, 3.OA.A.3, 4.MD.A.2"," 2.OA.A.1, K.OA.A.2, 3.OA.A.3, 4.MD.A.2"," 6.SP.B.5, 2.OA.A.1, K.OA.A.2, 3.OA.A.3, 4.MD.A.2"
+2170,"Question: Tiffany was playing a video game and had 43 lives. In a hard part of the game she lost 14 lives. If she got 27 more lives in the next level, how many lives would she have?
+Solution: 56 (lives)
+Steps: 43-14+27=56",2.OA.A.1,9,[9],[29  9],[ 6 29  9],[40  6 29  9],[13 40  6 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 6.RP.A.3, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"
+1224,"Question: The drama club meets in the school auditorium every 3 days, and the choir meets there every 5 days. If the groups are both meeting in the auditorium today, then how many days from now will they next have to share the auditorium?
+Solution: 15 (days)
+Steps: LCM[3,5]=15",6.NS.B.4,38,[38],[11 38],[ 9 11 38],[12  9 11 38],[18 12  9 11 38], 6.NS.B.4," 3.G.A.1, 6.NS.B.4"," 2.OA.A.1, 3.G.A.1, 6.NS.B.4"," 3.MD.D.8, 2.OA.A.1, 3.G.A.1, 6.NS.B.4"," 3.OA.A.3, 3.MD.D.8, 2.OA.A.1, 3.G.A.1, 6.NS.B.4"
+1360,"Question: Last Thursday Drew had $30. Over the weekend he received some money for cutting the grass. He now has $61. How much money did he get paid for cutting the grass?
+Solution: 31 (dollars)
+Steps: 61-30=31",2.OA.A.1,9,[9],[40  9],[ 1 40  9],[ 6  1 40  9],[29  6  1 40  9], 2.OA.A.1," 6.RP.A.3, 2.OA.A.1"," 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 2.NBT.B.5, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"," 4.OA.A.3, 2.NBT.B.5, 1.OA.A.1, 6.RP.A.3, 2.OA.A.1"
+228,"Question: Andy, another part of the recycling team decided he would gather tin foil wrappers. If he was able to pick up 34 wrappers around the village dumpster and his best friend Max was able to collect 15, how many wrappers were gathered in total?
+Solution: 49 (wrappers)
+Steps: 34+15=49",2.OA.A.1,9,[9],[29  9],[40 29  9],[ 6 40 29  9],[19  6 40 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"
+701,"Question: There were 36 dogs and 29 cats in a pet center. After 20 of the dogs were adopted by people, the pet center collected another 12 cats. How many pets were there in the pet center in the end?
+Solution: 57 (pets)
+Steps: 36+29-20+12=57",2.NBT.B.5,6,[9],[29  9],[ 6 29  9],[13  6 29  9],[ 1 13  6 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 3.NBT.A.2, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"," 1.OA.A.1, 3.NBT.A.2, 2.NBT.B.5, 4.OA.A.3, 2.OA.A.1"
+1178,"Question: Carmen did 4 sit-ups on Sunday, 8 sit-ups on Monday, 16 sit-ups on Tuesday, 32 sit-ups on Wednesday, and 64 sit-ups on Thursday. If this pattern continues, how many sit-ups will Carmen do on Friday?
+Solution: 128 (sit-ups)
+Steps: 4, 8, 16, 32, 64, 128",3.OA.D.9,20,[20],[21 20],[17 21 20],[ 9 17 21 20],[25  9 17 21 20], 3.OA.D.9," 4.MD.A.2, 3.OA.D.9"," 3.OA.9, 4.MD.A.2, 3.OA.D.9"," 2.OA.A.1, 3.OA.9, 4.MD.A.2, 3.OA.D.9"," 4.NBT.B.5, 2.OA.A.1, 3.OA.9, 4.MD.A.2, 3.OA.D.9"
+110,"Question: Alex had some candles for his Jack O'Lanterns. He used 32 of them. Now he has 12 left. How many candles did Alex have to start with?
+Solution: 44 (candles)
+Steps: 32+12=44",2.OA.A.1,9,[9],[29  9],[40 29  9],[ 6 40 29  9],[ 1  6 40 29  9], 2.OA.A.1," 4.OA.A.3, 2.OA.A.1"," 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 2.NBT.B.5, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"," 1.OA.A.1, 2.NBT.B.5, 6.RP.A.3, 4.OA.A.3, 2.OA.A.1"
+838,"Question: The weight of 4 cakes is 800 g. The total weight of 3 cakes and 5 pieces of bread is 1 kg 100 g. How much heavier is a cake than a piece of bread?
+Solution: 100 (g)
+Steps: (800/4)-((1100-(800/4)*3)/5)=100",4.MD.A.2,21,[21],[35 21],[19 35 21],[12 19 35 21],[33 12 19 35 21], 4.MD.A.2," 6.EE.B.6, 4.MD.A.2"," 3.OA.D.8, 6.EE.B.6, 4.MD.A.2"," 3.MD.D.8, 3.OA.D.8, 6.EE.B.6, 4.MD.A.2"," 5.NBT.B.6, 3.MD.D.8, 3.OA.D.8, 6.EE.B.6, 4.MD.A.2"
+1094,"Question: Tony made 14 L of lemonade for a party. His guests drank 9500 mL of the lemonade. How many milliliters of lemonade did Tony have left over?
+Solution: 4500 (milliliters of lemonade)
+Steps: (14 (L) * 1000 (mL/L)) - 9500 (mL) = 4500 (mL)",4.MD.A.2,21,[21],[33 21],[ 9 33 21],[49  9 33 21],[ 1 49  9 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 2.OA.A.1, 5.NBT.B.6, 4.MD.A.2"," K.OA.A.2, 2.OA.A.1, 5.NBT.B.6, 4.MD.A.2"," 1.OA.A.1, K.OA.A.2, 2.OA.A.1, 5.NBT.B.6, 4.MD.A.2"
+88,"Question: Mrs. Heine is buying Valentine's Day treats for her 2 dogs. If she wants to buy them 3 heart biscuits each, how many biscuits does she need to buy?
+Solution: 6 (biscuits)
+Steps: 3+3=6",K.OA.A.2,49,[49],[ 1 49],[ 9  1 49],[18  9  1 49],[ 2 18  9  1 49], K.OA.A.2," 1.OA.A.1, K.OA.A.2"," 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"," 1.OA.A.2, 3.OA.A.3, 2.OA.A.1, 1.OA.A.1, K.OA.A.2"
+2233,"Question: Roger had sixty-three dollars. If he spent forty-eight bucks on a new game, how many three dollar toys could he buy with the money he had left?
+Solution: 5 (toys)
+Steps: (63-48)/3=5",3.OA.D.8,19,[19],[ 9 19],[16  9 19],[49 16  9 19],[39 49 16  9 19], 3.OA.D.8," 2.OA.A.1, 3.OA.D.8"," 3.OA.8, 2.OA.A.1, 3.OA.D.8"," K.OA.A.2, 3.OA.8, 2.OA.A.1, 3.OA.D.8"," 6.RP.A.1, K.OA.A.2, 3.OA.8, 2.OA.A.1, 3.OA.D.8"
+1211,"Question: To encourage public transportation, Russom wants to give some friends envelopes with bus tickets and subway tickets in them. If he has 18 bus tickets and 12 subway tickets to split equally among the envelopes, and wants no tickets left over, what is the greatest number of envelopes Russom can make?
+Solution: 6 (envelopes)
+Steps: GCD(18,12)=6",6.NS.B.4,38,[38],[18 38],[33 18 38],[37 33 18 38],[12 37 33 18 38], 6.NS.B.4," 3.OA.A.3, 6.NS.B.4"," 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"," 6.NS.B.2, 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"," 3.MD.D.8, 6.NS.B.2, 5.NBT.B.6, 3.OA.A.3, 6.NS.B.4"
+2028,"Question: The radio station gave away a $100 bill for every 100th caller. Every 30th caller received free concert tickets. How many callers must get through before one of them receives both a coupon and a concert ticket?
+Solution: 300 (callers)
+Steps: LCM[100,30]=300",6.NS.B.4,38,[38],[11 38],[37 11 38],[12 37 11 38],[33 12 37 11 38], 6.NS.B.4," 3.G.A.1, 6.NS.B.4"," 6.NS.B.2, 3.G.A.1, 6.NS.B.4"," 3.MD.D.8, 6.NS.B.2, 3.G.A.1, 6.NS.B.4"," 5.NBT.B.6, 3.MD.D.8, 6.NS.B.2, 3.G.A.1, 6.NS.B.4"
+1302,"Question: The sum of present age of Abe and the age before 7 years is 31. Find the present age of Abe.
+Solution: 19 (years old)
+Steps: x:Abe's present age; x+(x-7)=31",6.EE.B.6,35,[35],[47 35],[43 47 35],[40 43 47 35],[12 40 43 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 3.MD.D.8, 6.RP.A.3, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"
+488,"Question: Jane helped her mom prepare fresh lemonade. If each glass needs two lemons, how many glasses of fresh lemonade can she make if they have 18 lemons?
+Solution: 9 (glasses)
+Steps: 18/2=9",3.OA.A.3,18,[18],[ 1 18],[49  1 18],[33 49  1 18],[ 9 33 49  1 18], 3.OA.A.3," 1.OA.A.1, 3.OA.A.3"," K.OA.A.2, 1.OA.A.1, 3.OA.A.3"," 5.NBT.B.6, K.OA.A.2, 1.OA.A.1, 3.OA.A.3"," 2.OA.A.1, 5.NBT.B.6, K.OA.A.2, 1.OA.A.1, 3.OA.A.3"
+700,"Question: Jacqueline had 16 plums, 18 guavas and 21 apples. She gave some of them to Jane and had 15 fruits left. How many fruits did Jacqueline give Jane?
+Solution: 40 (fruits)
+Steps: 16+18+21-15=40",2.OA.A.1,9,[9],[1 9],[29  1  9],[ 6 29  1  9],[19  6 29  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"," 3.OA.D.8, 2.NBT.B.5, 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"
+1407,"Question: Five years hence, the age of Jacob will be three times that of his son. Five years ago, Jacob's age was seven times that of his son. What are their present ages?
+Solution: 40 (years old); 10 (years old)
+Steps: x:Jacob's age; y:The age of Jacob's son; x+5=3(y+5); x-5=7(y-5)",8.EE.C.8,47,[47],[43 47],[12 43 47],[21 12 43 47],[33 21 12 43 47], 8.EE.C.8," 7.EE.B.4, 8.EE.C.8"," 3.MD.D.8, 7.EE.B.4, 8.EE.C.8"," 4.MD.A.2, 3.MD.D.8, 7.EE.B.4, 8.EE.C.8"," 5.NBT.B.6, 4.MD.A.2, 3.MD.D.8, 7.EE.B.4, 8.EE.C.8"
+1157,"Question: A carpenter had a board that was 5.28 m long. She used her circular saw to cut 9 cm off the end of the board. How many centimeters long was the board after the carpenter cut it?
+Solution: 519 (centimeters)
+Steps: (5.28 (m) * 100 (cm/m)) - 9 (cm) = 519 (cm)",4.MD.A.2,21,[21],[33 21],[22 33 21],[ 4 22 33 21],[ 9  4 22 33 21], 4.MD.A.2," 5.NBT.B.6, 4.MD.A.2"," 4.MD.A.3, 5.NBT.B.6, 4.MD.A.2"," 2.MD.C.8, 4.MD.A.3, 5.NBT.B.6, 4.MD.A.2"," 2.OA.A.1, 2.MD.C.8, 4.MD.A.3, 5.NBT.B.6, 4.MD.A.2"
+444,"Question: The sanctuary also includes several swamp areas where most of the reptiles usually reside. If there are 4 swamps, each having 356 different reptiles, how many reptiles are living in the swamp areas?
+Solution: 1424 (reptiles)
+Steps: 4*356=1424",4.NBT.B.5,25,[25],[18 25],[32 18 25],[21 32 18 25],[22 21 32 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.2, 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.3, 4.MD.A.2, 5.NBT.B.5, 3.OA.A.3, 4.NBT.B.5"
+641,"Question: Lucy has an aquarium with 212 fish. She wants to buy 68 more fish. How many fish would Lucy have then?
+Solution: 280 (fish)
+Steps: 212+68=280",2.NBT.B.7,8,[8],[9 8],[25  9  8],[ 1 25  9  8],[13  1 25  9  8], 2.NBT.B.7," 2.OA.A.1, 2.NBT.B.7"," 4.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"," 1.OA.A.1, 4.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"," 3.NBT.A.2, 1.OA.A.1, 4.NBT.B.5, 2.OA.A.1, 2.NBT.B.7"
+2204,"Question: Chloe was making baggies of cookies with seven cookies in each bag. If she had thirty-four chocolate chip cookies and twenty-nine oatmeal cookies, how many baggies could she make?
+Solution: 9 (baggies)
+Steps: (29+34)/7=9",3.OA.D.8,19,[19],[ 9 19],[18  9 19],[16 18  9 19],[33 16 18  9 19], 3.OA.D.8," 2.OA.A.1, 3.OA.D.8"," 3.OA.A.3, 2.OA.A.1, 3.OA.D.8"," 3.OA.8, 3.OA.A.3, 2.OA.A.1, 3.OA.D.8"," 5.NBT.B.6, 3.OA.8, 3.OA.A.3, 2.OA.A.1, 3.OA.D.8"
+2284,"Question: Philip has 60 bottle caps stored in boxes. If the are 60 boxes, how many bottle caps must go in each box?
+Solution: 1 (bottle cap)
+Steps: 60/60=1",3.OA.A.3,18,[18],[33 18],[ 9 33 18],[49  9 33 18],[21 49  9 33 18], 3.OA.A.3," 5.NBT.B.6, 3.OA.A.3"," 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"," K.OA.A.2, 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"," 4.MD.A.2, K.OA.A.2, 2.OA.A.1, 5.NBT.B.6, 3.OA.A.3"
+417,"Question: When he arrived there, he went on to climb to the top of the falls. It usually takes 30 minutes for someone to get to the top. Stanley took time to see the view so his climb took 7 times longer than the usual. How many minutes did it take Stanley to get to the top?
+Solution: 210 (minutes)
+Steps: 30*7=210",3.NBT.A.3,14,[25],[18 25],[21 18 25],[ 9 21 18 25],[40  9 21 18 25], 4.NBT.B.5," 3.OA.A.3, 4.NBT.B.5"," 4.MD.A.2, 3.OA.A.3, 4.NBT.B.5"," 2.OA.A.1, 4.MD.A.2, 3.OA.A.3, 4.NBT.B.5"," 6.RP.A.3, 2.OA.A.1, 4.MD.A.2, 3.OA.A.3, 4.NBT.B.5"
+1838,"Question: Oliver was yard sale shopping. He ended up buying 11 video games, but only 6 of them worked. How many bad games did he buy?
+Solution: 5 (bad games)
+Steps: 11-6=5",1.OA.A.1,1,[1],[9 1],[49  9  1],[33 49  9  1],[ 8 33 49  9  1], 1.OA.A.1," 2.OA.A.1, 1.OA.A.1"," K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"," 2.NBT.B.7, 5.NBT.B.6, K.OA.A.2, 2.OA.A.1, 1.OA.A.1"
+2127,"Question: Henry had $54. Later he sold some of his old toys and got another $2. How much money does he have total?
+Solution: 56 (dollars)
+Steps: 54+2=56",2.OA.A.1,9,[9],[1 9],[29  1  9],[ 6 29  1  9],[49  6 29  1  9], 2.OA.A.1," 1.OA.A.1, 2.OA.A.1"," 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"," 2.NBT.B.5, 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"," K.OA.A.2, 2.NBT.B.5, 4.OA.A.3, 1.OA.A.1, 2.OA.A.1"
+769,"Question: If Tom plans to fix 158 watches at the rate of 12 watches per day, how many watches will he fix on the last day?
+Solution: 2 (watches)
+Steps: 158/12=13 r2",5.NBT.B.6,33,[33],[19 33],[13 19 33],[32 13 19 33],[40 32 13 19 33], 5.NBT.B.6," 3.OA.D.8, 5.NBT.B.6"," 3.NBT.A.2, 3.OA.D.8, 5.NBT.B.6"," 5.NBT.B.5, 3.NBT.A.2, 3.OA.D.8, 5.NBT.B.6"," 6.RP.A.3, 5.NBT.B.5, 3.NBT.A.2, 3.OA.D.8, 5.NBT.B.6"
+1306,"Question: The sum of the ages of Tony and Teddy equals their mother's age. Tony is two years younger than Teddy. If the age of the mother is 42, find the ages of Tony and Teddy?
+Solution: 20 (years old); 22 (years old)
+Steps: x:Tony's age; x+(x+2)=42",6.EE.B.6,35,[35],[47 35],[43 47 35],[ 9 43 47 35],[40  9 43 47 35], 6.EE.B.6," 8.EE.C.8, 6.EE.B.6"," 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 2.OA.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"," 6.RP.A.3, 2.OA.A.1, 7.EE.B.4, 8.EE.C.8, 6.EE.B.6"
+2205,"Question: At the town carnival Billy rode the ferris wheel seven times and the bumper cars three times. If each ride cost five tickets, how many tickets did he use?
+Solution: 50 (tickets)
+Steps: (7+3)*5=50",3.OA.D.8,19,[19],[29 19],[16 29 19],[ 9 16 29 19],[18  9 16 29 19], 3.OA.D.8," 4.OA.A.3, 3.OA.D.8"," 3.OA.8, 4.OA.A.3, 3.OA.D.8"," 2.OA.A.1, 3.OA.8, 4.OA.A.3, 3.OA.D.8"," 3.OA.A.3, 2.OA.A.1, 3.OA.8, 4.OA.A.3, 3.OA.D.8"
